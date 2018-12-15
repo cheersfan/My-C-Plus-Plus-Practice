@@ -1,0 +1,394 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/exercise codes/10-10-stack.cpp
+10-10-stack.h
+/home/exercise codes/10-10-stack.h
+
+/home/exercise codes/10-10-stack.h
+
+/home/exercise codes/10-10.cpp
+10-10.h
+/home/exercise codes/10-10.h
+
+/home/exercise codes/10-10.h
+iostream
+-
+string
+-
+cstring
+-
+
+/home/exercise codes/10-12-stacker.cpp
+10-12-stacker.h
+/home/exercise codes/10-12-stacker.h
+
+/home/exercise codes/10-12-stacker.h
+iostream
+-
+cctype
+-
+10-10-stack.h
+/home/exercise codes/10-10-stack.h
+
+/home/exercise codes/10-2-stock00.cpp
+10-2-stock00.h
+/home/exercise codes/10-2-stock00.h
+iostream
+-
+
+/home/exercise codes/10-2-stock00.h
+string
+-
+
+/home/exercise codes/10-3-usestock0.cpp
+10-3-usestock0.h
+/home/exercise codes/10-3-usestock0.h
+
+/home/exercise codes/10-3-usestock0.h
+iostream
+-
+10-2-stock00.h
+/home/exercise codes/10-2-stock00.h
+
+/home/exercise codes/10-4-stock10.cpp
+10-4-stock10.h
+/home/exercise codes/10-4-stock10.h
+
+/home/exercise codes/10-4-stock10.h
+string
+-
+iostream
+-
+
+/home/exercise codes/10-6-usestock2.cpp
+10-6-usestock2.h
+/home/exercise codes/10-6-usestock2.h
+
+/home/exercise codes/10-6-usestock2.h
+iostream
+-
+10-4-stock10.h
+/home/exercise codes/10-4-stock10.h
+
+/home/exercise codes/10-8-stock20.cpp
+10-8-stock20.h
+/home/exercise codes/10-8-stock20.h
+
+/home/exercise codes/10-8-stock20.h
+string
+-
+iostream
+-
+
+/home/exercise codes/10-9-usestock3.cpp
+10-9-usestock3.h
+/home/exercise codes/10-9-usestock3.h
+
+/home/exercise codes/10-9-usestock3.h
+iostream
+-
+10-8-stock20.h
+/home/exercise codes/10-8-stock20.h
+
+/home/exercise codes/11-1-mytime0.cpp
+11-1-mytime0.h
+/home/exercise codes/11-1-mytime0.h
+
+/home/exercise codes/11-1-mytime0.h
+iostream
+-
+
+/home/exercise codes/11-13-vector.cpp
+11-13-vector.h
+/home/exercise codes/11-13-vector.h
+cmath
+-
+
+/home/exercise codes/11-13-vector.h
+iostream
+-
+
+/home/exercise codes/11-15-randwalk.cpp
+11-15-randwalk.h
+/home/exercise codes/11-15-randwalk.h
+
+/home/exercise codes/11-15-randwalk.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+11-13-vector.h
+/home/exercise codes/11-13-vector.h
+
+/home/exercise codes/11-16-stonewt.cpp
+iostream
+-
+11-16-stonewt.h
+/home/exercise codes/11-16-stonewt.h
+
+/home/exercise codes/11-16-stonewt.h
+
+/home/exercise codes/11-18-stone.cpp
+11-18-stone.h
+/home/exercise codes/11-18-stone.h
+iostream
+-
+
+/home/exercise codes/11-18-stone.h
+11-16-stonewt.h
+/home/exercise codes/11-16-stonewt.h
+
+/home/exercise codes/11-3-usetime0.cpp
+11-3-usetime0.h
+/home/exercise codes/11-3-usetime0.h
+
+/home/exercise codes/11-3-usetime0.h
+11-1-mytime0.h
+/home/exercise codes/11-1-mytime0.h
+
+/home/exercise codes/11-9.cpp
+11-9.h
+/home/exercise codes/11-9.h
+cstring
+-
+string
+-
+
+/home/exercise codes/11-9.h
+iostream
+-
+
+/home/exercise codes/12-1-stringbad.cpp
+cstring
+-
+12-1-stringbad.h
+/home/exercise codes/12-1-stringbad.h
+
+/home/exercise codes/12-1-stringbad.h
+iostream
+-
+
+/home/exercise codes/12-10-queue.cpp
+12-10-queue.h
+/home/exercise codes/12-10-queue.h
+iostream
+-
+cstdlib
+-
+
+/home/exercise codes/12-10-queue.h
+
+/home/exercise codes/12-12-bank.cpp
+12-12-bank.h
+/home/exercise codes/12-12-bank.h
+12-10-queue.h
+/home/exercise codes/12-10-queue.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/exercise codes/12-12-bank.h
+
+/home/exercise codes/12-3-vegnews.cpp
+12-3-vegnews.h
+/home/exercise codes/12-3-vegnews.h
+
+/home/exercise codes/12-3-vegnews.h
+iostream
+-
+12-1-stringbad.h
+/home/exercise codes/12-1-stringbad.h
+
+/home/exercise codes/12-4-string1.cpp
+cstring
+-
+12-4-string1.h
+/home/exercise codes/12-4-string1.h
+
+/home/exercise codes/12-4-string1.h
+iostream
+-
+
+/home/exercise codes/12-6-sayings1.cpp
+12-6-sayings1.h
+/home/exercise codes/12-6-sayings1.h
+12-4-string1.h
+/home/exercise codes/12-4-string1.h
+iostream
+-
+
+/home/exercise codes/12-6-sayings1.h
+
+/home/exercise codes/12-7-saying2.cpp
+12-7-saying2.h
+/home/exercise codes/12-7-saying2.h
+12-4-string1.h
+/home/exercise codes/12-4-string1.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/exercise codes/12-7-saying2.h
+
+/home/exercise codes/13-10-usebrass2.cpp
+13-10-usebrass2.h
+/home/exercise codes/13-10-usebrass2.h
+iostream
+-
+string
+-
+13-7-brass.h
+/home/exercise codes/13-7-brass.h
+
+/home/exercise codes/13-10-usebrass2.h
+
+/home/exercise codes/13-14-dma.cpp
+13-14-dma.h
+/home/exercise codes/13-14-dma.h
+
+/home/exercise codes/13-14-dma.h
+iostream
+-
+
+/home/exercise codes/13-4-tabtenn1.cpp
+13-4-tabtenn1.h
+/home/exercise codes/13-4-tabtenn1.h
+
+/home/exercise codes/13-4-tabtenn1.h
+iostream
+-
+string
+-
+
+/home/exercise codes/13-6-usett1.cpp
+iostream
+-
+13-6-usett1.h
+/home/exercise codes/13-6-usett1.h
+13-4-tabtenn1.h
+/home/exercise codes/13-4-tabtenn1.h
+
+/home/exercise codes/13-6-usett1.h
+
+/home/exercise codes/13-7-brass.cpp
+13-7-brass.h
+/home/exercise codes/13-7-brass.h
+
+/home/exercise codes/13-7-brass.h
+string
+-
+iostream
+-
+
+/home/exercise codes/13-9-usebrass1.cpp
+13-9-usebrass1.h
+/home/exercise codes/13-9-usebrass1.h
+13-7-brass.h
+/home/exercise codes/13-7-brass.h
+
+/home/exercise codes/13-9-usebrass1.h
+
+/home/exercise codes/13-x-mydestructortest.cpp
+iostream
+-
+cstring
+-
+13-x-mydestructortest.h
+/home/exercise codes/13-x-mydestructortest.h
+
+/home/exercise codes/13-x-mydestructortest.h
+
+/home/exercise codes/4-13.cpp
+4-13.h
+/home/exercise codes/4-13.h
+
+/home/exercise codes/4-13.h
+iostream
+-
+string
+-
+cstring
+-
+array
+-
+
+/home/exercise codes/4-6b-numstr.cpp
+4-6b-numstr.h
+/home/exercise codes/4-6b-numstr.h
+
+/home/exercise codes/4-6b-numstr.h
+iostream
+-
+
+/home/exercise codes/8-11-funtemp.cpp
+8-11-funtemp.h
+/home/exercise codes/8-11-funtemp.h
+iostream
+-
+
+/home/exercise codes/8-11-funtemp.h
+
+/home/exercise codes/9-10-newplace.cpp
+9-10-newplace.h
+/home/exercise codes/9-10-newplace.h
+iostream
+-
+new
+-
+
+/home/exercise codes/9-10-newplace.h
+
+/home/exercise codes/SIGINT_Test.cpp
+
+/home/exercise codes/TestCin.cpp
+TestCin.h
+/home/exercise codes/TestCin.h
+
+/home/exercise codes/TestCin.h
+iostream
+-
+
+/home/exercise codes/acctabc.cpp
+acctabc.h
+/home/exercise codes/acctabc.h
+
+/home/exercise codes/acctabc.h
+iostream
+-
+string
+-
+
+/home/exercise codes/main.cpp
+iostream
+-
+string
+-
+cstring
+-
+8-11-funtemp.h
+/home/exercise codes/8-11-funtemp.h
+
+/home/exercise codes/readFile.cpp
+readFile.h
+/home/exercise codes/readFile.h
+
+/home/exercise codes/readFile.h
+iostream
+-
+cstring
+-
+
