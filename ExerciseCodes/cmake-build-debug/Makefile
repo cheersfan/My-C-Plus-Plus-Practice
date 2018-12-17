@@ -48,10 +48,10 @@ RM = /root/Documents/software/clion-2018.2.6/bin/cmake/linux/bin/cmake -E remove
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/exercise codes"
+CMAKE_SOURCE_DIR = /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/exercise codes/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/exercise codes/cmake-build-debug/CMakeFiles" "/home/exercise codes/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/exercise codes/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -933,6 +933,60 @@ myCLionProject/fast:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/13-x-mydestructortest.cpp.s
 .PHONY : 13-x-mydestructortest.cpp.s
 
+14-1-student.o: 14-1-student.cpp.o
+
+.PHONY : 14-1-student.o
+
+# target to build an object file
+14-1-student.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-1-student.cpp.o
+.PHONY : 14-1-student.cpp.o
+
+14-1-student.i: 14-1-student.cpp.i
+
+.PHONY : 14-1-student.i
+
+# target to preprocess a source file
+14-1-student.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-1-student.cpp.i
+.PHONY : 14-1-student.cpp.i
+
+14-1-student.s: 14-1-student.cpp.s
+
+.PHONY : 14-1-student.s
+
+# target to generate assembly for a file
+14-1-student.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-1-student.cpp.s
+.PHONY : 14-1-student.cpp.s
+
+14-3-use_stuc.o: 14-3-use_stuc.cpp.o
+
+.PHONY : 14-3-use_stuc.o
+
+# target to build an object file
+14-3-use_stuc.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o
+.PHONY : 14-3-use_stuc.cpp.o
+
+14-3-use_stuc.i: 14-3-use_stuc.cpp.i
+
+.PHONY : 14-3-use_stuc.i
+
+# target to preprocess a source file
+14-3-use_stuc.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.i
+.PHONY : 14-3-use_stuc.cpp.i
+
+14-3-use_stuc.s: 14-3-use_stuc.cpp.s
+
+.PHONY : 14-3-use_stuc.s
+
+# target to generate assembly for a file
+14-3-use_stuc.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.s
+.PHONY : 14-3-use_stuc.cpp.s
+
 4-13.o: 4-13.cpp.o
 
 .PHONY : 4-13.o
@@ -1275,6 +1329,12 @@ help:
 	@echo "... 13-x-mydestructortest.o"
 	@echo "... 13-x-mydestructortest.i"
 	@echo "... 13-x-mydestructortest.s"
+	@echo "... 14-1-student.o"
+	@echo "... 14-1-student.i"
+	@echo "... 14-1-student.s"
+	@echo "... 14-3-use_stuc.o"
+	@echo "... 14-3-use_stuc.i"
+	@echo "... 14-3-use_stuc.s"
 	@echo "... 4-13.o"
 	@echo "... 4-13.i"
 	@echo "... 4-13.s"

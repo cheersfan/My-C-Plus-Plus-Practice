@@ -38,6 +38,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/myCLionProject.dir/acctabc.cpp.o"
   "CMakeFiles/myCLionProject.dir/13-14-dma.cpp.o"
   "CMakeFiles/myCLionProject.dir/8-11-funtemp.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-1-student.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o"
   "myCLionProject.pdb"
   "myCLionProject"
 )

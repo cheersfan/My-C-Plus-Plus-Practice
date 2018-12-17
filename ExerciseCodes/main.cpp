@@ -1,12 +1,13 @@
 #include <iostream>
 #include <string>
 #include <cstring>
-#include "8-11-funtemp.h"
+#include "14-3-use_stuc.h"
 
 using namespace std;
 
 int main(){
-    my_funtemp_main();
+   // my_use_stuc_main();
+
 
     return 0;
 }
