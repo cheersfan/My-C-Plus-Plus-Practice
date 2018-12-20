@@ -117,6 +117,11 @@
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545308806156">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ReadMesosCode/mesos1.8.0-make-0/src/sched/sched.cpp" timestamp="1545298532843" />
       <file name="/home/myCLionProject/4-6b-numstr.h" timestamp="1544877317939">
         <mark key="[" line="7" column="18" />
@@ -161,6 +166,9 @@
       </file>
       <file name="/home/myCLionProject/11-18-stone.cpp" timestamp="1544106720378">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp" timestamp="1545308831446">
+        <mark key="[" line="36" column="21" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ReadMesosCode/mesos1.8.0-make-0/src/examples/test_framework.cpp" timestamp="1545293976820" />
       <file name="/home/myCLionProject/11-15-randwalk.cpp" timestamp="1544100039674">
@@ -213,10 +221,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgIi4uL21lc29zMS44LjAtbWFrZS0wLzNyZHBhcnR5IgogICAgICAgICIuLi9tZXNvczEuOC4wLW1ha2UtMC9idWlsZCIKCiAgICAgICAgI21haW4uY3BwIG5lZWQKICAgICAgICAiLi4vbWVzb3MxLjguMC1tYWtlLTAvM3JkcGFydHkvc3RvdXQvaW5jbHVkZSIKCiAgICAgICAgIi4uL21lc29zMS44LjAtbWFrZS0wL2J1aWxkLzNyZHBhcnR5L2dsb2ctMC4zLjMvc3JjIgogICAgICAgICIuLi9tZXNvczEuOC4wLW1ha2UtMC9idWlsZC8zcmRwYXJ0eS9waWNvanNvbi0xLjMuMCIKICAgICAgICAiLi4vbWVzb3MxLjguMC1tYWtlLTAvYnVpbGQvM3JkcGFydHkvcmFwaWRqc29uLTEuMS4wL2luY2x1ZGUi</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>/stout-lib&quot;</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
