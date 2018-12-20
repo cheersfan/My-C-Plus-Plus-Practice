@@ -105,6 +105,13 @@ CMakeFiles/myCLionProject.dir/13-9-usebrass1.cpp.o: ../13-9-usebrass1.h
 CMakeFiles/myCLionProject.dir/13-x-mydestructortest.cpp.o: ../13-x-mydestructortest.cpp
 CMakeFiles/myCLionProject.dir/13-x-mydestructortest.cpp.o: ../13-x-mydestructortest.h
 
+CMakeFiles/myCLionProject.dir/14-1-student.cpp.o: ../14-1-student.cpp
+CMakeFiles/myCLionProject.dir/14-1-student.cpp.o: ../14-1-student.h
+
+CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-1-student.h
+CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-3-use_stuc.cpp
+CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-3-use_stuc.h
+
 CMakeFiles/myCLionProject.dir/4-13.cpp.o: ../4-13.cpp
 CMakeFiles/myCLionProject.dir/4-13.cpp.o: ../4-13.h
 
@@ -125,7 +132,7 @@ CMakeFiles/myCLionProject.dir/TestCin.cpp.o: ../TestCin.h
 CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.cpp
 CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.h
 
-CMakeFiles/myCLionProject.dir/main.cpp.o: ../8-11-funtemp.h
+CMakeFiles/myCLionProject.dir/main.cpp.o: ../14-3-use_stuc.h
 CMakeFiles/myCLionProject.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.cpp

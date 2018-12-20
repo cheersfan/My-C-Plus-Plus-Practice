@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/exercise codes/cmake-build-debug"/>
+				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/exercise codes/cmake-build-debug"/>
+				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/exercise codes/cmake-build-debug"/>
+				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="myCLionProject">
-				<Option output="/home/exercise codes/cmake-build-debug/myCLionProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/exercise codes/cmake-build-debug"/>
+				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/myCLionProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 myCLionProject"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 myCLionProject"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="myCLionProject/fast">
-				<Option output="/home/exercise codes/cmake-build-debug/myCLionProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/exercise codes/cmake-build-debug"/>
+				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/myCLionProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,242 +73,254 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 myCLionProject/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/exercise\ codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 myCLionProject/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/exercise codes/10-10-stack.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-10-stack.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-10-stack.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-10-stack.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-10.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-10.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-10.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-10.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-12-stacker.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-12-stacker.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-12-stacker.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-12-stacker.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-2-stock00.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-2-stock00.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-2-stock00.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-2-stock00.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-3-usestock0.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-3-usestock0.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-3-usestock0.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-3-usestock0.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-4-stock10.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-4-stock10.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-4-stock10.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-4-stock10.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-6-usestock2.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-6-usestock2.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-6-usestock2.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-6-usestock2.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-8-stock20.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-8-stock20.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-8-stock20.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-8-stock20.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-9-usestock3.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-9-usestock3.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/10-9-usestock3.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/10-9-usestock3.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-1-mytime0.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-1-mytime0.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-1-mytime0.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-1-mytime0.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-13-vector.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-13-vector.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-13-vector.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-13-vector.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-15-randwalk.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-15-randwalk.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-15-randwalk.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-15-randwalk.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-16-stonewt.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-16-stonewt.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-16-stonewt.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-16-stonewt.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-18-stone.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-18-stone.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-18-stone.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-18-stone.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-3-usetime0.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-3-usetime0.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-3-usetime0.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-3-usetime0.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-9.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-9.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/11-9.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/11-9.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-1-stringbad.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-1-stringbad.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-1-stringbad.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-1-stringbad.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-10-queue.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-10-queue.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-10-queue.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-10-queue.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-12-bank.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-12-bank.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-12-bank.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-12-bank.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-3-vegnews.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-3-vegnews.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-3-vegnews.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-3-vegnews.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-4-string1.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-4-string1.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-4-string1.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-4-string1.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-6-sayings1.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-6-sayings1.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-6-sayings1.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-6-sayings1.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-7-saying2.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-7-saying2.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/12-7-saying2.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/12-7-saying2.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-10-usebrass2.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-10-usebrass2.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-10-usebrass2.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-10-usebrass2.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-14-dma.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-14-dma.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-14-dma.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-14-dma.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-4-tabtenn1.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-4-tabtenn1.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-4-tabtenn1.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-4-tabtenn1.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-6-usett1.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-6-usett1.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-6-usett1.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-6-usett1.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-7-brass.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-7-brass.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-7-brass.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-7-brass.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-9-usebrass1.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-9-usebrass1.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-9-usebrass1.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-9-usebrass1.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-x-mydestructortest.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-x-mydestructortest.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/13-x-mydestructortest.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-x-mydestructortest.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/4-13.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/4-13.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/4-6b-numstr.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/4-6b-numstr.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/8-11-funtemp.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-13.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/8-11-funtemp.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-13.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/9-10-newplace.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-6b-numstr.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/9-10-newplace.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-6b-numstr.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/SIGINT_Test.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/TestCin.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/TestCin.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/9-10-newplace.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/acctabc.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/9-10-newplace.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/acctabc.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/SIGINT_Test.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/main.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/TestCin.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/readFile.cpp">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/TestCin.h">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/readFile.h">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/acctabc.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
-		<Unit filename="/home/exercise codes/CMakeLists.txt">
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/acctabc.h">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/readFile.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/readFile.h">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
