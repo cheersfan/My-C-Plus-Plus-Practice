@@ -6,25 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.cpp
-14-1-student.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp
 iostream
 -
 string
 -
-valarray
+cstring
 -
-
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp
-14-3-use_stuc.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h
-14-1-student.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.h
-iostream
--
-
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h
+14-12-workmi.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h
 

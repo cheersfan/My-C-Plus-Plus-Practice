@@ -1,0 +1,8 @@
+#include <iostream>
+#include <stout/flags/flags.hpp>
+using namespace std;
+int main(){
+	cout << "hello world" << endl;
+
+	return 0;
+}

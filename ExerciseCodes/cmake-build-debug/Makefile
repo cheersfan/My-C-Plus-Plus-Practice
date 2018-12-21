@@ -960,6 +960,60 @@ myCLionProject/fast:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-1-student.cpp.s
 .PHONY : 14-1-student.cpp.s
 
+14-10-workermi.o: 14-10-workermi.cpp.o
+
+.PHONY : 14-10-workermi.o
+
+# target to build an object file
+14-10-workermi.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o
+.PHONY : 14-10-workermi.cpp.o
+
+14-10-workermi.i: 14-10-workermi.cpp.i
+
+.PHONY : 14-10-workermi.i
+
+# target to preprocess a source file
+14-10-workermi.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.i
+.PHONY : 14-10-workermi.cpp.i
+
+14-10-workermi.s: 14-10-workermi.cpp.s
+
+.PHONY : 14-10-workermi.s
+
+# target to generate assembly for a file
+14-10-workermi.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.s
+.PHONY : 14-10-workermi.cpp.s
+
+14-12-workmi.o: 14-12-workmi.cpp.o
+
+.PHONY : 14-12-workmi.o
+
+# target to build an object file
+14-12-workmi.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o
+.PHONY : 14-12-workmi.cpp.o
+
+14-12-workmi.i: 14-12-workmi.cpp.i
+
+.PHONY : 14-12-workmi.i
+
+# target to preprocess a source file
+14-12-workmi.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.i
+.PHONY : 14-12-workmi.cpp.i
+
+14-12-workmi.s: 14-12-workmi.cpp.s
+
+.PHONY : 14-12-workmi.s
+
+# target to generate assembly for a file
+14-12-workmi.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.s
+.PHONY : 14-12-workmi.cpp.s
+
 14-3-use_stuc.o: 14-3-use_stuc.cpp.o
 
 .PHONY : 14-3-use_stuc.o
@@ -1332,6 +1386,12 @@ help:
 	@echo "... 14-1-student.o"
 	@echo "... 14-1-student.i"
 	@echo "... 14-1-student.s"
+	@echo "... 14-10-workermi.o"
+	@echo "... 14-10-workermi.i"
+	@echo "... 14-10-workermi.s"
+	@echo "... 14-12-workmi.o"
+	@echo "... 14-12-workmi.i"
+	@echo "... 14-12-workmi.s"
 	@echo "... 14-3-use_stuc.o"
 	@echo "... 14-3-use_stuc.i"
 	@echo "... 14-3-use_stuc.s"

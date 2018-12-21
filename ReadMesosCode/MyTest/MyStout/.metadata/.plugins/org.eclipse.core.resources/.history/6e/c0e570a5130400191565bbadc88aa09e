@@ -1,0 +1,38 @@
+#include <iostream>
+#include <stout/flags/flags.hpp>
+
+using namespace std;
+
+class MongoFlags: public flags::FlagsBase
+{
+public:
+  MongoFlags();
+
+  Option<string> master;
+  Option<string> config;
+  string role;
+  bool test;
+};
+
+MongoFlags::MongoFlags()
+{
+  add(&MongoFlags::master, "master", "The host address of the Mesos Master.");
+  add(&MongoFlags::config, "config", "The location of the configuration file,"
+      " on the Worker node (this file MUST exist).");
+  add(&MongoFlags::role, "role", "The role for the executor", "*");
+  add(&MongoFlags::test, "test", "Will only run unit tests and exit.", false);
+}
+
+void printUsage(const string& prog, const MongoFlags& flags)
+{
+  cout << "Usage: " << os::basename(prog).get() << " [options]\n\n"
+      "One (and only one) of the following options MUST be present.\n\n"
+      "Options:\n" << flags.usage() << endl;
+}
+
+
+int main(){
+	cout << "hello world" << endl;
+
+	return 0;
+}

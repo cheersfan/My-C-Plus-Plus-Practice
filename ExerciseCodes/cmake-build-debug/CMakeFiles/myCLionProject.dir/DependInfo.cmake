@@ -35,6 +35,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-9-usebrass1.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/13-9-usebrass1.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/13-x-mydestructortest.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/13-x-mydestructortest.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-1-student.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-1-student.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-10-workermi.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-13.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/4-13.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-6b-numstr.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/4-6b-numstr.cpp.o"
