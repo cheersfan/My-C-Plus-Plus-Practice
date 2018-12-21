@@ -116,6 +116,9 @@
       <file name="/home/myCLionProject/10-3-usestock0.cpp" timestamp="1543501851734">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt" timestamp="1545403502588">
+        <mark key="[" line="5" column="1267" />
+      </file>
       <file name="/home/myCLionProject/9-10-newplace.cpp" timestamp="1544444774446">
         <mark key="[" line="25" column="73" />
         <mark key="]" line="25" column="73" />
@@ -124,10 +127,13 @@
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545308806156">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545404361273">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp" timestamp="1545404469664">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="/home/myCLionProject/4-6b-numstr.h" timestamp="1544877317939">
         <mark key="[" line="7" column="18" />
@@ -212,6 +218,9 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h" timestamp="1545403557430">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/home/myCLionProject/usett1.h" timestamp="1544592003587">
         <mark key="[" line="10" column="0" />
       </file>
@@ -237,10 +246,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnByb3RlY3RlZDoKICAgIHZpcnR1YWwgdm9pZCBEYXRhKCkgY29uc3Q7CiAgICB2aXJ0dWFsIHZvaWQgR2V0KCk7</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IDw8ICJWb2NhbCByYW5nZTogIiA8PCBwdlt2b2ljZV0gPDwgZW5kbDs=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
