@@ -42,6 +42,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o"
   "CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o"
   "CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o"
+  "CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
   "myCLionProject.pdb"
   "myCLionProject"
 )

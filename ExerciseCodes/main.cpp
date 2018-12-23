@@ -1,13 +1,12 @@
 #include <iostream>
 #include <string>
 #include <cstring>
-#include "14-12-workmi.h"
+#include "14-24-manyfrnd.h"
 
 using namespace std;
 
 int main(){
-   my_workmi_main();
-
+    my_manyfrnd2_main();
 
     return 0;
 }

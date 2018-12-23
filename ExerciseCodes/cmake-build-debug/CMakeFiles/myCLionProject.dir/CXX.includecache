@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp
+14-24-manyfrnd.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
+iostream
+-
+
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
+form.h
+-
 
 /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp
 iostream
@@ -15,6 +23,6 @@ string
 -
 cstring
 -
-14-12-workmi.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h
+14-24-manyfrnd.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
 

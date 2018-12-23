@@ -24,16 +24,6 @@ void Worker::Get() {
     }
 }
 
-void Worker::Set() {
-    cout << "Enter worker`s name: " ;
-    getline(cin, fullname);
-    cout << "Enter worker`s ID: ";
-    cin >> id;
-
-    while(cin.get() != '\n')
-        continue;
-}
-
 void Worker::Show() const {
     cout << "Name: " << fullname << '\n';
     cout << "Employee ID: " << id << '\n';
@@ -55,7 +45,7 @@ void Waiter::Get() {
 
 void Waiter::Set() {
     cout << "Enter worker`s name: ";
-    Worker::Set();
+    Worker::Get();
     Get();
 
 
@@ -97,7 +87,7 @@ void Singer::Get() {
 
 void Singer::Set() {
     cout << "Enter singer`s name: \n";
-    Worker::Set();
+    Worker::Get();
     Get();
 }
 
