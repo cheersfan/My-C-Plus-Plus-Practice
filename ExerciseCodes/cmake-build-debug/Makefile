@@ -960,6 +960,168 @@ myCLionProject/fast:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-1-student.cpp.s
 .PHONY : 14-1-student.cpp.s
 
+14-10-workermi.o: 14-10-workermi.cpp.o
+
+.PHONY : 14-10-workermi.o
+
+# target to build an object file
+14-10-workermi.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o
+.PHONY : 14-10-workermi.cpp.o
+
+14-10-workermi.i: 14-10-workermi.cpp.i
+
+.PHONY : 14-10-workermi.i
+
+# target to preprocess a source file
+14-10-workermi.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.i
+.PHONY : 14-10-workermi.cpp.i
+
+14-10-workermi.s: 14-10-workermi.cpp.s
+
+.PHONY : 14-10-workermi.s
+
+# target to generate assembly for a file
+14-10-workermi.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.s
+.PHONY : 14-10-workermi.cpp.s
+
+14-12-workmi.o: 14-12-workmi.cpp.o
+
+.PHONY : 14-12-workmi.o
+
+# target to build an object file
+14-12-workmi.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o
+.PHONY : 14-12-workmi.cpp.o
+
+14-12-workmi.i: 14-12-workmi.cpp.i
+
+.PHONY : 14-12-workmi.i
+
+# target to preprocess a source file
+14-12-workmi.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.i
+.PHONY : 14-12-workmi.cpp.i
+
+14-12-workmi.s: 14-12-workmi.cpp.s
+
+.PHONY : 14-12-workmi.s
+
+# target to generate assembly for a file
+14-12-workmi.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.s
+.PHONY : 14-12-workmi.cpp.s
+
+14-14-stacktem.o: 14-14-stacktem.cpp.o
+
+.PHONY : 14-14-stacktem.o
+
+# target to build an object file
+14-14-stacktem.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o
+.PHONY : 14-14-stacktem.cpp.o
+
+14-14-stacktem.i: 14-14-stacktem.cpp.i
+
+.PHONY : 14-14-stacktem.i
+
+# target to preprocess a source file
+14-14-stacktem.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.i
+.PHONY : 14-14-stacktem.cpp.i
+
+14-14-stacktem.s: 14-14-stacktem.cpp.s
+
+.PHONY : 14-14-stacktem.s
+
+# target to generate assembly for a file
+14-14-stacktem.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.s
+.PHONY : 14-14-stacktem.cpp.s
+
+14-17-arraytp.o: 14-17-arraytp.cpp.o
+
+.PHONY : 14-17-arraytp.o
+
+# target to build an object file
+14-17-arraytp.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o
+.PHONY : 14-17-arraytp.cpp.o
+
+14-17-arraytp.i: 14-17-arraytp.cpp.i
+
+.PHONY : 14-17-arraytp.i
+
+# target to preprocess a source file
+14-17-arraytp.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.i
+.PHONY : 14-17-arraytp.cpp.i
+
+14-17-arraytp.s: 14-17-arraytp.cpp.s
+
+.PHONY : 14-17-arraytp.s
+
+# target to generate assembly for a file
+14-17-arraytp.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.s
+.PHONY : 14-17-arraytp.cpp.s
+
+14-22-frnd2tmp2.o: 14-22-frnd2tmp2.cpp.o
+
+.PHONY : 14-22-frnd2tmp2.o
+
+# target to build an object file
+14-22-frnd2tmp2.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o
+.PHONY : 14-22-frnd2tmp2.cpp.o
+
+14-22-frnd2tmp2.i: 14-22-frnd2tmp2.cpp.i
+
+.PHONY : 14-22-frnd2tmp2.i
+
+# target to preprocess a source file
+14-22-frnd2tmp2.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.i
+.PHONY : 14-22-frnd2tmp2.cpp.i
+
+14-22-frnd2tmp2.s: 14-22-frnd2tmp2.cpp.s
+
+.PHONY : 14-22-frnd2tmp2.s
+
+# target to generate assembly for a file
+14-22-frnd2tmp2.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.s
+.PHONY : 14-22-frnd2tmp2.cpp.s
+
+14-24-manyfrnd.o: 14-24-manyfrnd.cpp.o
+
+.PHONY : 14-24-manyfrnd.o
+
+# target to build an object file
+14-24-manyfrnd.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o
+.PHONY : 14-24-manyfrnd.cpp.o
+
+14-24-manyfrnd.i: 14-24-manyfrnd.cpp.i
+
+.PHONY : 14-24-manyfrnd.i
+
+# target to preprocess a source file
+14-24-manyfrnd.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.i
+.PHONY : 14-24-manyfrnd.cpp.i
+
+14-24-manyfrnd.s: 14-24-manyfrnd.cpp.s
+
+.PHONY : 14-24-manyfrnd.s
+
+# target to generate assembly for a file
+14-24-manyfrnd.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s
+.PHONY : 14-24-manyfrnd.cpp.s
+
 14-3-use_stuc.o: 14-3-use_stuc.cpp.o
 
 .PHONY : 14-3-use_stuc.o
@@ -1332,6 +1494,24 @@ help:
 	@echo "... 14-1-student.o"
 	@echo "... 14-1-student.i"
 	@echo "... 14-1-student.s"
+	@echo "... 14-10-workermi.o"
+	@echo "... 14-10-workermi.i"
+	@echo "... 14-10-workermi.s"
+	@echo "... 14-12-workmi.o"
+	@echo "... 14-12-workmi.i"
+	@echo "... 14-12-workmi.s"
+	@echo "... 14-14-stacktem.o"
+	@echo "... 14-14-stacktem.i"
+	@echo "... 14-14-stacktem.s"
+	@echo "... 14-17-arraytp.o"
+	@echo "... 14-17-arraytp.i"
+	@echo "... 14-17-arraytp.s"
+	@echo "... 14-22-frnd2tmp2.o"
+	@echo "... 14-22-frnd2tmp2.i"
+	@echo "... 14-22-frnd2tmp2.s"
+	@echo "... 14-24-manyfrnd.o"
+	@echo "... 14-24-manyfrnd.i"
+	@echo "... 14-24-manyfrnd.s"
 	@echo "... 14-3-use_stuc.o"
 	@echo "... 14-3-use_stuc.i"
 	@echo "... 14-3-use_stuc.s"

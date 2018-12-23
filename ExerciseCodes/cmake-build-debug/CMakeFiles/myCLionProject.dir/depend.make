@@ -108,6 +108,25 @@ CMakeFiles/myCLionProject.dir/13-x-mydestructortest.cpp.o: ../13-x-mydestructort
 CMakeFiles/myCLionProject.dir/14-1-student.cpp.o: ../14-1-student.cpp
 CMakeFiles/myCLionProject.dir/14-1-student.cpp.o: ../14-1-student.h
 
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o: ../14-10-workermi.cpp
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o: ../14-10-workermi.h
+
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o: ../14-10-workermi.h
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o: ../14-12-workmi.cpp
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o: ../14-12-workmi.h
+
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o: ../14-14-stacktem.cpp
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o: ../14-14-stacktem.h
+
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o: ../14-17-arraytp.cpp
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o: ../14-17-arraytp.h
+
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o: ../14-22-frnd2tmp2.cpp
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o: ../14-22-frnd2tmp2.h
+
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o: ../14-24-manyfrnd.cpp
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o: ../14-24-manyfrnd.h
+
 CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-1-student.h
 CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-3-use_stuc.cpp
 CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o: ../14-3-use_stuc.h
@@ -132,7 +151,7 @@ CMakeFiles/myCLionProject.dir/TestCin.cpp.o: ../TestCin.h
 CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.cpp
 CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.h
 
-CMakeFiles/myCLionProject.dir/main.cpp.o: ../14-3-use_stuc.h
+CMakeFiles/myCLionProject.dir/main.cpp.o: ../14-24-manyfrnd.h
 CMakeFiles/myCLionProject.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.cpp

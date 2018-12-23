@@ -590,6 +590,84 @@ CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp -o CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.s
 
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o: ../14-10-workermi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-10-workermi.cpp
+
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-10-workermi.cpp > CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-10-workermi.cpp -o CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.s
+
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o: ../14-12-workmi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp
+
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp > CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp -o CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.s
+
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o: ../14-14-stacktem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp
+
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp > CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp -o CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.s
+
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o: ../14-17-arraytp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-17-arraytp.cpp
+
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-17-arraytp.cpp > CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-17-arraytp.cpp -o CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.s
+
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o: ../14-22-frnd2tmp2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp
+
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp > CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp -o CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.s
+
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o: ../14-24-manyfrnd.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp
+
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp > CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.i
+
+CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp -o CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s
+
 # Object files for target myCLionProject
 myCLionProject_OBJECTS = \
 "CMakeFiles/myCLionProject.dir/main.cpp.o" \
@@ -632,7 +710,13 @@ myCLionProject_OBJECTS = \
 "CMakeFiles/myCLionProject.dir/13-14-dma.cpp.o" \
 "CMakeFiles/myCLionProject.dir/8-11-funtemp.cpp.o" \
 "CMakeFiles/myCLionProject.dir/14-1-student.cpp.o" \
-"CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o"
+"CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o" \
+"CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
 
 # External object files for target myCLionProject
 myCLionProject_EXTERNAL_OBJECTS =
@@ -678,9 +762,15 @@ myCLionProject: CMakeFiles/myCLionProject.dir/13-14-dma.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/8-11-funtemp.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/14-1-student.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-10-workermi.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-12-workmi.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/build.make
 myCLionProject: CMakeFiles/myCLionProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Linking CXX executable myCLionProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Linking CXX executable myCLionProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myCLionProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
