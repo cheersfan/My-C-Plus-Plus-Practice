@@ -65,7 +65,7 @@
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.h" timestamp="1545572290572" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.h" timestamp="1545572629323" />
       <file name="/home/myCLionProject/13-6-usett1.cpp" timestamp="1544592661220">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="15" />
@@ -124,10 +124,10 @@
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545528639620">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545572593269">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp" timestamp="1545483324141">
         <mark key="[" line="5" column="0" />
@@ -238,8 +238,10 @@
         <mark key="]" line="47" column="17" />
         <mark key="." line="47" column="17" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545572294000">
-        <mark key="[" line="5" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545572523865">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="21" column="61" />
       </file>
       <file name="/home/myCLionProject/13-4-tabtenn1.h" timestamp="1544591587496">
         <mark key="[" line="35" column="0" />
@@ -260,11 +262,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>HasFriend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBkb3VibGUgbXl0ZXN0WzEwXVs1XTsK</text>
       </register>
       <register name="-" type="4">
-        <text>HasFriend</text>
+        <text encoding="base64">dGVtcGxhdGUgPGNsYXNzIFQ+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -273,31 +275,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGludCBkb3VibGUgbXl0ZXN0WzEwXVs1XTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNlcnIgPDwgIkVycm9yICEiIDw8IGVuZGw7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">dm9pZCBXb3JrZXI6OlNldCgpIHsKICAgIGNvdXQgPDwgIldvcmtlciBTZXQoKSIgPDwgZW5kbDsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIG5hbWU6ICIgOwogICAgZ2V0bGluZShjaW4sIGZ1bGxuYW1lKTsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIElEOiAiOwogICAgY2luID4+IGlkOwoKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOwp9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnByb3RlY3RlZDoKICAgIHZpcnR1YWwgdm9pZCBEYXRhKCkgY29uc3Q7CiAgICB2aXJ0dWFsIHZvaWQgR2V0KCk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCgoKICAgIHdoaWxlIChjaW4gPj4gdm9pY2UgJiYgKHZvaWNlIDwgMCB8fCB2b2ljZSA+PSBWdHlwZSkpewogICAgICAgIGNvdXQgPDwgIlBsZWFzZSBlbnRlciBhIHZhbHVlID49IDAgYW5kIDwgIiA8PCBWdHlwZSA8PCBlbmRsOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCiAgICBpZihpICUgNCAhPSAwKXsKICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbiA+PiB2b2ljZSAmJiAodm9pY2UgPCAwIHx8IHZvaWNlID49IFZ0eXBlKSl7CiAgICAgICAgY291dCA8PCAiUGxlYXNlIGVudGVyIGEgdmFsdWUgPj0gMCBhbmQgPCAiIDw8IFZ0eXBlIDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbi5nZXQoKSAhPSAnXG4nKXsKICAgICAgICBjb250aW51ZTsKICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aW4gPj4gcGFuYWNoZTsKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Y2luID4+IHBhbmFjaGU7CiAgICB3aGlsZSAoY2luLmdldCgpICE9ICdcbicpewogICAgICAgIGNvbnRpbnVlOwogICAgfQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">b3V0IDw8ICJOYW1lOiAiIDw8IGZ1bGxuYW1lIDw8IGVuZGw7CiAgICBjb3V0IDw8ICJFbXBsb3llZSBJRDogIiA8PCBpZCA8PCBlbmRsY291dDs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFdvcmtlcjo6V29ya2VyKCk7Cg==</text>
       </register>
     </registers>
     <search>
