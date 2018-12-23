@@ -123,7 +123,7 @@
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545404361273">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545528639620">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
@@ -173,8 +173,11 @@
       <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp" timestamp="1545528188566">
-        <mark key="[" line="5" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp" timestamp="1545529541327">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="/home/myCLionProject/12-7-saying2.cpp" timestamp="1544440879570">
         <mark key="[" line="53" column="37" />
@@ -248,10 +251,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCBXb3JrZXI6OlNldCgpIHsKICAgIGNvdXQgPDwgIldvcmtlciBTZXQoKSIgPDwgZW5kbDsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIG5hbWU6ICIgOwogICAgZ2V0bGluZShjaW4sIGZ1bGxuYW1lKTsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIElEOiAiOwogICAgY2luID4+IGlkOwoKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOwp9</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
