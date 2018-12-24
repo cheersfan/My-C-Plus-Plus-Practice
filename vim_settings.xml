@@ -41,10 +41,10 @@
         <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.h" timestamp="1545572629323" />
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1545644433094">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="46" />
-        <mark key="." line="37" column="46" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1545655525984">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
         <mark key="[" line="73" column="0" />
@@ -124,7 +124,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp" timestamp="1545308831446">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545644100985" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545654992959" />
       <file name="/home/myCLionProject/acctabc.h" timestamp="1544777537497">
         <mark key="[" line="6" column="0" />
       </file>
@@ -174,7 +174,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvdXQgPDwgInRoZSBkaXZpc2lvbiBhbnN3ZXIgaXM6ICIgPDwgYW5zIDw8IGVuZGw7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGNvdXQgPDwgIldyb25nIGRpdmlzaW9yLCB0cnkgYWdhaW4gISIgPDwgZW5kbDsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -186,32 +186,32 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGNvdXQgPDwgInRoZSBkaXZpc2lvbiBhbnN3ZXIgaXM6ICIgPDwgYW5zIDw8IGVuZGw7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGNvdXQgPDwgIldyb25nIGRpdmlzaW9yLCB0cnkgYWdhaW4gISIgPDwgZW5kbDsKICAgICAgICB9</text>
+      </register>
+      <register name="2" type="4">
         <text>//abort();
         exit(-1);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGludCBkb3VibGUgbXl0ZXN0WzEwXVs1XTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNlcnIgPDwgIkVycm9yICEiIDw8IGVuZGw7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dm9pZCBXb3JrZXI6OlNldCgpIHsKICAgIGNvdXQgPDwgIldvcmtlciBTZXQoKSIgPDwgZW5kbDsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIG5hbWU6ICIgOwogICAgZ2V0bGluZShjaW4sIGZ1bGxuYW1lKTsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIElEOiAiOwogICAgY2luID4+IGlkOwoKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOwp9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CnByb3RlY3RlZDoKICAgIHZpcnR1YWwgdm9pZCBEYXRhKCkgY29uc3Q7CiAgICB2aXJ0dWFsIHZvaWQgR2V0KCk7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCgoKICAgIHdoaWxlIChjaW4gPj4gdm9pY2UgJiYgKHZvaWNlIDwgMCB8fCB2b2ljZSA+PSBWdHlwZSkpewogICAgICAgIGNvdXQgPDwgIlBsZWFzZSBlbnRlciBhIHZhbHVlID49IDAgYW5kIDwgIiA8PCBWdHlwZSA8PCBlbmRsOwogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCiAgICBpZihpICUgNCAhPSAwKXsKICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbiA+PiB2b2ljZSAmJiAodm9pY2UgPCAwIHx8IHZvaWNlID49IFZ0eXBlKSl7CiAgICAgICAgY291dCA8PCAiUGxlYXNlIGVudGVyIGEgdmFsdWUgPj0gMCBhbmQgPCAiIDw8IFZ0eXBlIDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbi5nZXQoKSAhPSAnXG4nKXsKICAgICAgICBjb250aW51ZTsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW4gPj4gcGFuYWNoZTsKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Y2luID4+IHBhbmFjaGU7CiAgICB3aGlsZSAoY2luLmdldCgpICE9ICdcbicpewogICAgICAgIGNvbnRpbnVlOwogICAgfQ==</text>
+        <text encoding="base64">aW4gPj4gcGFuYWNoZTsKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOw==</text>
       </register>
     </registers>
     <search>
