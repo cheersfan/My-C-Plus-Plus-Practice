@@ -33,8 +33,11 @@
       <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp" timestamp="1545719193823">
-        <mark key="[" line="4" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp" timestamp="1545720947419">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
@@ -75,10 +78,10 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545643608531">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" timestamp="1545720329393">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp" timestamp="1545483324141">
         <mark key="[" line="5" column="0" />
@@ -157,6 +160,9 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ReadMesosCode/MyTest/MyStout/stout/os.hpp" timestamp="1545276017067">
         <mark key="[" line="84" column="10" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h" timestamp="1545719623400">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/SIGINT_Test.cpp" timestamp="1545719160351" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545574851961">
         <mark key="[" line="15" column="0" />
@@ -178,10 +184,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvdXQgPDwgInRoZSBkaXZpc2lvbiBhbnN3ZXIgaXM6ICIgPDwgYW5zIDw8IGVuZGw7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGNvdXQgPDwgIldyb25nIGRpdmlzaW9yLCB0cnkgYWdhaW4gISIgPDwgZW5kbDsKICAgICAgICB9</text>
+        <text>SIG_DFL</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>SIG_DFL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -189,33 +195,33 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvdXQgPDwgInRoZSBkaXZpc2lvbiBhbnN3ZXIgaXM6ICIgPDwgYW5zIDw8IGVuZGw7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGNvdXQgPDwgIldyb25nIGRpdmlzaW9yLCB0cnkgYWdhaW4gISIgPDwgZW5kbDsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW5jbHVkZSA8aW9zdHJlYW0+Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CnVzaW5nIG5hbWVzcGFjZSBzdGQ7</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsKCi8vI2luY2x1ZGUgPHRpbWUuaD4KLy9pbnQgbWFpbigpewovLwovLyAgICB0aW1lX3QgdGltZXA7Ci8vICAgIHRpbWUgKCZ0aW1lcCk7Ci8vICAgIHByaW50ZigiJXMiLCBjdGltZSgmdGltZXApKTsKLy8gICAgcmV0dXJuIDA7Ci8vfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG15X2Vycm9yMl9tYWluKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGNvdXQgPDwgInRoZSBkaXZpc2lvbiBhbnN3ZXIgaXM6ICIgPDwgYW5zIDw8IGVuZGw7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIGNvdXQgPDwgIldyb25nIGRpdmlzaW9yLCB0cnkgYWdhaW4gISIgPDwgZW5kbDsKICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
         <text>//abort();
         exit(-1);</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGludCBkb3VibGUgbXl0ZXN0WzEwXVs1XTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNlcnIgPDwgIkVycm9yICEiIDw8IGVuZGw7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dm9pZCBXb3JrZXI6OlNldCgpIHsKICAgIGNvdXQgPDwgIldvcmtlciBTZXQoKSIgPDwgZW5kbDsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIG5hbWU6ICIgOwogICAgZ2V0bGluZShjaW4sIGZ1bGxuYW1lKTsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIElEOiAiOwogICAgY2luID4+IGlkOwoKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOwp9</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnByb3RlY3RlZDoKICAgIHZpcnR1YWwgdm9pZCBEYXRhKCkgY29uc3Q7CiAgICB2aXJ0dWFsIHZvaWQgR2V0KCk7</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCgoKICAgIHdoaWxlIChjaW4gPj4gdm9pY2UgJiYgKHZvaWNlIDwgMCB8fCB2b2ljZSA+PSBWdHlwZSkpewogICAgICAgIGNvdXQgPDwgIlBsZWFzZSBlbnRlciBhIHZhbHVlID49IDAgYW5kIDwgIiA8PCBWdHlwZSA8PCBlbmRsOwogICAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGludCBpIDsKICAgIGZvcihpID0gMDsgaSA8IFZ0eXBlOyBpKyspewogICAgICAgIGNvdXQgPDwgaSA8PCAiOiAiIDw8IHB2W2ldIDw8ICIgIjsKICAgICAgICBpZihpICUgNCA9PSAzKXsKICAgICAgICAgICAgY291dCA8PCBlbmRsOwogICAgICAgIH0KICAgIH0KCiAgICBpZihpICUgNCAhPSAwKXsKICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbiA+PiB2b2ljZSAmJiAodm9pY2UgPCAwIHx8IHZvaWNlID49IFZ0eXBlKSl7CiAgICAgICAgY291dCA8PCAiUGxlYXNlIGVudGVyIGEgdmFsdWUgPj0gMCBhbmQgPCAiIDw8IFZ0eXBlIDw8IGVuZGw7CiAgICB9CgogICAgd2hpbGUgKGNpbi5nZXQoKSAhPSAnXG4nKXsKICAgICAgICBjb250aW51ZTsKICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aW4gPj4gcGFuYWNoZTsKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOw==</text>
+        <text encoding="base64">dm9pZCBXb3JrZXI6OlNldCgpIHsKICAgIGNvdXQgPDwgIldvcmtlciBTZXQoKSIgPDwgZW5kbDsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIG5hbWU6ICIgOwogICAgZ2V0bGluZShjaW4sIGZ1bGxuYW1lKTsKICAgIGNvdXQgPDwgIkVudGVyIHdvcmtlcmBzIElEOiAiOwogICAgY2luID4+IGlkOwoKICAgIHdoaWxlKGNpbi5nZXQoKSAhPSAnXG4nKQogICAgICAgIGNvbnRpbnVlOwp9</text>
       </register>
     </registers>
     <search>
@@ -261,6 +267,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
