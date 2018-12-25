@@ -2,11 +2,11 @@
 // Created by root on 11/29/18.
 //
 
-//#include <stdio.h>
-//#include <unistd.h>
-//#include <signal.h>
-//#include <errno.h>
-//
+#include <stdio.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+
 //static void sig_usr(int signum)
 //{
 //    if(signum == SIGINT)
@@ -22,7 +22,7 @@
 //        printf("signal %d received\n", signum);
 //    }
 //}
-//
+
 //int main(void)
 //{
 //    char buf[512];

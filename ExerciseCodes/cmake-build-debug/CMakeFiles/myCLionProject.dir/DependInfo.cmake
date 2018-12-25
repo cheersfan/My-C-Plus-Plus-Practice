@@ -42,6 +42,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-13.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/4-13.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-6b-numstr.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/4-6b-numstr.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/8-11-funtemp.cpp.o"
@@ -49,8 +50,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/SIGINT_Test.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/SIGINT_Test.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/TestCin.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/TestCin.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/acctabc.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/acctabc.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/main.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/readFile.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/readFile.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

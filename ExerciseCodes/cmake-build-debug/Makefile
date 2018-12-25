@@ -1149,6 +1149,33 @@ myCLionProject/fast:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/14-3-use_stuc.cpp.s
 .PHONY : 14-3-use_stuc.cpp.s
 
+15-7-error1.o: 15-7-error1.cpp.o
+
+.PHONY : 15-7-error1.o
+
+# target to build an object file
+15-7-error1.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o
+.PHONY : 15-7-error1.cpp.o
+
+15-7-error1.i: 15-7-error1.cpp.i
+
+.PHONY : 15-7-error1.i
+
+# target to preprocess a source file
+15-7-error1.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/15-7-error1.cpp.i
+.PHONY : 15-7-error1.cpp.i
+
+15-7-error1.s: 15-7-error1.cpp.s
+
+.PHONY : 15-7-error1.s
+
+# target to generate assembly for a file
+15-7-error1.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/15-7-error1.cpp.s
+.PHONY : 15-7-error1.cpp.s
+
 4-13.o: 4-13.cpp.o
 
 .PHONY : 4-13.o
@@ -1338,6 +1365,33 @@ acctabc.cpp.s:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/acctabc.cpp.s
 .PHONY : acctabc.cpp.s
 
+getopt-function-test.o: getopt-function-test.cpp.o
+
+.PHONY : getopt-function-test.o
+
+# target to build an object file
+getopt-function-test.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o
+.PHONY : getopt-function-test.cpp.o
+
+getopt-function-test.i: getopt-function-test.cpp.i
+
+.PHONY : getopt-function-test.i
+
+# target to preprocess a source file
+getopt-function-test.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.i
+.PHONY : getopt-function-test.cpp.i
+
+getopt-function-test.s: getopt-function-test.cpp.s
+
+.PHONY : getopt-function-test.s
+
+# target to generate assembly for a file
+getopt-function-test.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.s
+.PHONY : getopt-function-test.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -1391,6 +1445,33 @@ readFile.s: readFile.cpp.s
 readFile.cpp.s:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/readFile.cpp.s
 .PHONY : readFile.cpp.s
+
+signal-function-test.o: signal-function-test.cpp.o
+
+.PHONY : signal-function-test.o
+
+# target to build an object file
+signal-function-test.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o
+.PHONY : signal-function-test.cpp.o
+
+signal-function-test.i: signal-function-test.cpp.i
+
+.PHONY : signal-function-test.i
+
+# target to preprocess a source file
+signal-function-test.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/signal-function-test.cpp.i
+.PHONY : signal-function-test.cpp.i
+
+signal-function-test.s: signal-function-test.cpp.s
+
+.PHONY : signal-function-test.s
+
+# target to generate assembly for a file
+signal-function-test.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/signal-function-test.cpp.s
+.PHONY : signal-function-test.cpp.s
 
 # Help Target
 help:
@@ -1515,6 +1596,9 @@ help:
 	@echo "... 14-3-use_stuc.o"
 	@echo "... 14-3-use_stuc.i"
 	@echo "... 14-3-use_stuc.s"
+	@echo "... 15-7-error1.o"
+	@echo "... 15-7-error1.i"
+	@echo "... 15-7-error1.s"
 	@echo "... 4-13.o"
 	@echo "... 4-13.i"
 	@echo "... 4-13.s"
@@ -1536,12 +1620,18 @@ help:
 	@echo "... acctabc.o"
 	@echo "... acctabc.i"
 	@echo "... acctabc.s"
+	@echo "... getopt-function-test.o"
+	@echo "... getopt-function-test.i"
+	@echo "... getopt-function-test.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... readFile.o"
 	@echo "... readFile.i"
 	@echo "... readFile.s"
+	@echo "... signal-function-test.o"
+	@echo "... signal-function-test.i"
+	@echo "... signal-function-test.s"
 .PHONY : help
 
 

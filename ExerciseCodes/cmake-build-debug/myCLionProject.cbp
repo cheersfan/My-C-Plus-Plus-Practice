@@ -308,6 +308,12 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h">
 			<Option target="myCLionProject"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h">
+			<Option target="myCLionProject"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/4-13.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
@@ -347,6 +353,9 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/acctabc.h">
 			<Option target="myCLionProject"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
@@ -354,6 +363,12 @@
 			<Option target="myCLionProject"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/readFile.h">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h">
 			<Option target="myCLionProject"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt">

@@ -46,6 +46,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o"
   "CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o"
   "CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
+  "CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o"
+  "CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o"
+  "CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o"
   "myCLionProject.pdb"
   "myCLionProject"
 )
