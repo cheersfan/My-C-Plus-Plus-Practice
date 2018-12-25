@@ -6,23 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp
-14-24-manyfrnd.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
-iostream
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp
+unistd.h
 -
-
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
-form.h
+stdio.h
 -
-
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/main.cpp
-iostream
--
-string
--
-cstring
--
-14-24-manyfrnd.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h
 

@@ -1,16 +1,10 @@
-//#include <stdio.h>
-//#include "signal-function-test.h"
 //
-//int main(){
-//    my_defined_signal_main();
-//    //printf("hello world");
-//    return 0;
-//}
-
+// Created by root on 12/25/18.
+//
 
 #include <unistd.h>
 #include <stdio.h>
-int main(int argc, char * argv[])
+int my_getopt_function_main(int argc, char * argv[])
 {
     int aflag=0, bflag=0, cflag=0;
     int ch;
@@ -18,7 +12,6 @@ int main(int argc, char * argv[])
     printf("--------------------------\n");
     while ((ch = getopt(argc, argv, "ab:c:de::")) != -1)
     {
-        printf("opt is %c\n",ch);
         printf("optind: %d,argc:%d,argv[%d]:%s\n", optind,argc,optind,argv[optind]);
         switch (ch) {
             case 'a':

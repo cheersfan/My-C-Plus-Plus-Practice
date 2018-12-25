@@ -668,6 +668,45 @@ CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.cpp -o CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.s
 
+CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o: ../15-7-error1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp
+
+CMakeFiles/myCLionProject.dir/15-7-error1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/15-7-error1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp > CMakeFiles/myCLionProject.dir/15-7-error1.cpp.i
+
+CMakeFiles/myCLionProject.dir/15-7-error1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/15-7-error1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp -o CMakeFiles/myCLionProject.dir/15-7-error1.cpp.s
+
+CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o: ../signal-function-test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp
+
+CMakeFiles/myCLionProject.dir/signal-function-test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/signal-function-test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp > CMakeFiles/myCLionProject.dir/signal-function-test.cpp.i
+
+CMakeFiles/myCLionProject.dir/signal-function-test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/signal-function-test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp -o CMakeFiles/myCLionProject.dir/signal-function-test.cpp.s
+
+CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o: CMakeFiles/myCLionProject.dir/flags.make
+CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o: ../getopt-function-test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp
+
+CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp > CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.i
+
+CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp -o CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.s
+
 # Object files for target myCLionProject
 myCLionProject_OBJECTS = \
 "CMakeFiles/myCLionProject.dir/main.cpp.o" \
@@ -716,7 +755,10 @@ myCLionProject_OBJECTS = \
 "CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o" \
 "CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o" \
 "CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o" \
-"CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o"
+"CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o" \
+"CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o" \
+"CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o" \
+"CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o"
 
 # External object files for target myCLionProject
 myCLionProject_EXTERNAL_OBJECTS =
@@ -768,9 +810,12 @@ myCLionProject: CMakeFiles/myCLionProject.dir/14-14-stacktem.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/14-17-arraytp.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/14-22-frnd2tmp2.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/14-24-manyfrnd.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/15-7-error1.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o
+myCLionProject: CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o
 myCLionProject: CMakeFiles/myCLionProject.dir/build.make
 myCLionProject: CMakeFiles/myCLionProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Linking CXX executable myCLionProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Linking CXX executable myCLionProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myCLionProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
