@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-10-workermi.cpp" timestamp="1545530242821" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp" timestamp="1545051577582">
         <mark key="[" line="5" column="0" />
       </file>
@@ -40,11 +39,10 @@
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.h" timestamp="1545572629323" />
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1545699177956">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="8" />
-        <mark key="." line="57" column="8" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1545701651329">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
         <mark key="[" line="73" column="0" />
@@ -124,7 +122,9 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp" timestamp="1545308831446">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545654992959" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545701679311">
+        <mark key="[" line="12" column="21" />
+      </file>
       <file name="/home/myCLionProject/acctabc.h" timestamp="1544777537497">
         <mark key="[" line="6" column="0" />
       </file>
@@ -154,6 +154,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ReadMesosCode/MyTest/MyStout/stout/os.hpp" timestamp="1545276017067">
         <mark key="[" line="84" column="10" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/SIGINT_Test.cpp" timestamp="1545702533863" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545574851961">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
