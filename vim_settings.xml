@@ -171,10 +171,10 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h" timestamp="1545719623400">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp" timestamp="1546181758498">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp" timestamp="1546184382219">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545574851961">
         <mark key="[" line="15" column="0" />
@@ -196,10 +196,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RkOjpjb3V0IDw8ICJIZWxsbywgV29ybGQhIiA8PCBzdGQ6OmVuZGw7</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjpjb3V0IDw8ICJIZWxsbywgV29ybGQhIiA8PCBzdGQ6OmVuZGw7</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
