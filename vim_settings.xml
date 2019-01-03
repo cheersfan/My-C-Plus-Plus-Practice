@@ -120,10 +120,10 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp" timestamp="1546505529678">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp" timestamp="1546507608602">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="44" />
       </file>
       <file name="/home/myCLionProject/10-8-stock20.h" timestamp="1543666458196">
         <mark key="[" line="29" column="0" />
@@ -202,8 +202,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="21" column="61" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h" timestamp="1546505148209">
-        <mark key="[" line="6" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h" timestamp="1546506815473">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h" timestamp="1545575377759">
         <mark key="[" line="16" column="4" />
@@ -224,10 +224,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>printf(&quot;hello&quot;);</text>
+        <text encoding="base64">JiYgZmdldHMoYnVmLCBzaXplb2YoYnVmKSxzdHJlYW0pICE9IE5VTEw=</text>
       </register>
       <register name="-" type="4">
-        <text>printf(&quot;hello&quot;);</text>
+        <text encoding="base64">JiYgZmdldHMoYnVmLCBzaXplb2YoYnVmKSxzdHJlYW0pICE9IE5VTEw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
