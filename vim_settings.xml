@@ -39,12 +39,6 @@
       <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.cpp" timestamp="1545721297950">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546411442105">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
@@ -53,14 +47,19 @@
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
+        <mark key="[" line="8" column="18" />
+      </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h" timestamp="1546523214946" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1546338117432">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp" timestamp="1546523973663" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -81,13 +80,14 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt" timestamp="1545528273051">
         <mark key="[" line="5" column="1267" />
       </file>
+      <file name="/usr/include/unistd.h" timestamp="1546523506643" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" timestamp="1545725221389">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" timestamp="1546505351767">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" timestamp="1546523166409">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
@@ -114,12 +114,6 @@
       <file name="/home/myCLionProject/12-1-stringbad.h" timestamp="1544329028059">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.h" timestamp="1545392791248">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="30" column="20" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp" timestamp="1546507608602">
         <mark key="[" line="38" column="44" />
         <mark key="]" line="38" column="44" />
@@ -137,18 +131,15 @@
       <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.cpp" timestamp="1545530214094">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="34" />
-      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt" timestamp="1546504980413">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
       <file name="/home/myCLionProject/11-15-randwalk.h" timestamp="1544098680205">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dupe.h" timestamp="1546522589544">
         <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/myCLionProject/11-18-stone.cpp" timestamp="1544106720378">
@@ -214,20 +205,14 @@
         <mark key="]" line="11" column="5" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-17-arraytp.h" timestamp="1545535482579">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgZmdldHMoYnVmLCBzaXplb2YoYnVmKSxzdHJlYW0pICE9IE5VTEw=</text>
+        <text>communication_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgZmdldHMoYnVmLCBzaXplb2YoYnVmKSxzdHJlYW0pICE9IE5VTEw=</text>
+        <text>communication_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
