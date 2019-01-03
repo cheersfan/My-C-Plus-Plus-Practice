@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.c" timestamp="1546505315529">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp" timestamp="1545051577582">
         <mark key="[" line="5" column="0" />
       </file>
@@ -17,6 +20,9 @@
       </file>
       <file name="/home/myCLionProject/11-13-vector.h" timestamp="1544077905818">
         <mark key="[" line="5" column="36" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.h" timestamp="1546505311049">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/myCLionProject/string1.h" timestamp="1544336088398">
         <mark key="[" line="41" column="32" />
@@ -78,8 +84,10 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" timestamp="1545725221389">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" timestamp="1546503896630">
-        <mark key="[" line="1" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" timestamp="1546505351767">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
         <mark key="[" line="7" column="0" />
@@ -112,6 +120,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp" timestamp="1546505529678">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="/home/myCLionProject/10-8-stock20.h" timestamp="1543666458196">
         <mark key="[" line="29" column="0" />
       </file>
@@ -130,8 +143,10 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt" timestamp="1546504144086">
-        <mark key="[" line="5" column="44" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt" timestamp="1546504980413">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="/home/myCLionProject/11-15-randwalk.h" timestamp="1544098680205">
         <mark key="[" line="6" column="0" />
@@ -187,7 +202,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="21" column="61" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h" timestamp="1546503627154">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h" timestamp="1546505148209">
         <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h" timestamp="1545575377759">
@@ -195,10 +210,9 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.c" timestamp="1546504026970">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="4" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.c" timestamp="1546504354209">
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-17-arraytp.h" timestamp="1545535482579">
         <mark key="[" line="24" column="11" />
@@ -210,10 +224,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGl0ZXJhdG9yPGludD4gYW5zID0gbnVtc19tYXA7CiAgICBmb3IoaW50IGkgPSAwOyBpIDwgbnVtcy5zaXplKCk7IGkgKyspewogICAgICAgIGlmKG51bXNfbWFwLmZpbmQodGFyZ2V0LW51bXNbaV0pICE9IG51bXNbbnVtcy5zaXplKCktMV0pCiAgICAgICAgbnVtc19tYXAuaW5zZXJ0KHBhaXI8aW50LGludD4obnVtc1tpXSxpKSk7CiAgICB9</text>
+        <text>printf(&quot;hello&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>printf(&quot;hello&quot;);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
