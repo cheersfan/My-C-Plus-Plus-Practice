@@ -42,8 +42,6 @@
       <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546608111879" />
-      <file name="/home/myCLionProject/12-10-queue.cpp" timestamp="1546605301670" />
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
       </file>
@@ -58,12 +56,12 @@
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" timestamp="1546609230007">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" timestamp="1546612414800">
         <mark key="'" line="6" column="22" />
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="8" />
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="79" column="49" />
         <mark key="^" line="6" column="6" />
-        <mark key="." line="80" column="8" />
+        <mark key="." line="79" column="49" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
         <mark key="[" line="73" column="0" />
@@ -193,7 +191,6 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h" timestamp="1545719623400">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/myCLionProject/12-12-bank.cpp" timestamp="1546605213155" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp" timestamp="1546588692399">
         <mark key="[" line="71" column="15" />
         <mark key="]" line="71" column="15" />
@@ -223,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2FycnkgPSAocHRyMS0+dmFsICsgcHRyMi0+dmFsKSAvIDEwOw==</text>
+        <text>|| (oldsum/10 != 0))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FycnkgPSAocHRyMS0+dmFsICsgcHRyMi0+dmFsKSAvIDEwOw==</text>
+        <text>|| (oldsum/10 != 0))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -234,32 +231,32 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGludCBjYXJyeSA9IDA7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICBMaXN0Tm9kZSAqbmV3Tm9kZSA9IG5ldyBMaXN0Tm9kZShjaGFyMVswXS00OCk7CiAgICBMaXN0Tm9kZSAqb2xkTm9kZTsKICAgIGZvcihpbnQgaSA9IDE7IGkgPCBzdHIxLmxlbmd0aCgpOyBpICsrKXsKICAgICAgIG9sZE5vZGUgPSBuZXdOb2RlOwogICAgICAgbmV3Tm9kZS52YWwgPSBjaGFyMVtpXTsKICAgICAgIG9sZE5vZGUubmV4dCA9CiAgICB9CgogICAgY291dCA8PCBzdHIxIDw8ICIsIiA8PCBzdHIyOw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNoYXIyID0gc3RyMi5jX3N0cigpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGNoYXIxID0gc3RyMS5jX3N0cigpOwogICAgaW50IHggPSBjaGFyMVswXTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgc3RyaW5nIHN0ciA9ICIxMjMiOwogICBjb25zdCBjaGFyICogY2hhcnMgPSBzdHIuY19zdHIoKTsKICAgaW50IHggPSBjaGFyc1swXS00ODsKICAgY291dCA8PCB4Ow==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvdXQgPDwgYWRkLT52YWwgPDwgZW5kbDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJpOiIgPDwgaSA8PCBlbmRsOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJ2OiIgPDwgdiA8PCBlbmRsOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Zm9yKGludCBpID0gMDsgaSA8IHN0cjEubGVuZ3RoKCk7IGkgKyspewogICAgICAgIAogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlKCk6dmFsKDApe307Cg==</text>
       </register>
     </registers>
     <search>
