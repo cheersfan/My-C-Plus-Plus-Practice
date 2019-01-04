@@ -34,20 +34,19 @@ void my_twosum_main(){
 //
 //    int target = 9;
 
-    vector<int> ans(s.twoSum(nums, target));
+    vector<int> ans(s.twoSum3(nums, target));
     cout << ans[0] << "," << ans[1] << endl;
     //system("pause");
 }
 
-//wrong answer! -out of time
-vector<int> Solution::twoSum(vector<int> & num, int target){
+vector<int> Solution::twoSum(vector<int> & nums, int target){
     vector<int> ans(2);
     int i,j;
-    for(i = 0; i < num.size()-1; i ++){
-        for(j = i+1; j < num.size(); j ++){
-            if(target == num[i] + num[j]){
-                ans[0] = num[i];
-                ans[1] = num[j];
+    for(i = 0; i < nums.size()-1; i ++){
+        for(j = i+1; j < nums.size(); j ++){
+            if(target == nums[i] + nums[j]){
+                ans[0] = i;
+                ans[1] = j;
                 return ans;
             }
         }
@@ -58,8 +57,41 @@ vector<int> Solution::twoSum(vector<int> & num, int target){
 
 vector<int> Solution::twoSum2(vector<int> &nums, int target) {
     vector<int> ans(2);
+    //vector<int> ans;
     map<int,int> nums_map;
 
+    //add <num, num_Index> into the hashmap
+    for (int i = 0; i < nums.size(); ++i) {
+        nums_map[nums[i]] = i;
+    }
 
+    //find out if there is the (target - num) in hashmap
+    for(int i = 0; i < nums.size(); i ++){
+        int temp = target - nums[i];
+        if(nums_map.find(temp) != nums_map.end() && nums_map[temp] != i ){
+            //ans.push_back(i);
+            //ans.push_back(nums_map[temp]);
+            ans[0] = i;
+            ans[1] = nums_map[temp];
+            break;
+        }
+    }
+    return ans;
+}
 
+vector<int> Solution::twoSum3(vector<int> &nums, int target) {
+    vector<int> ans;
+    map<int,int> nums_map;
+    for(int i = 0; i < nums.size(); i ++){
+        int temp = target - nums[i];
+        nums_map[nums[i]] = i;
+        if(nums_map.find(temp) != nums_map.end() && nums_map[temp] != i){
+            int ans1_index = i > nums_map[temp] ? nums_map[temp] : i;
+            int ans2_index = i > nums_map[temp] ? i : nums_map[temp];
+            ans.push_back(ans1_index);
+            ans.push_back(ans2_index);
+            break;
+        }
+    }
+    return ans;
 }

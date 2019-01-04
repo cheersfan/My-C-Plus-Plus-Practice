@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/main.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o"
   "LeetCodeProject.pdb"
   "LeetCodeProject"
 )

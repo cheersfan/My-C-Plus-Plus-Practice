@@ -12,27 +12,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d40484b8-2a4c-4c1e-805d-442059b2a190" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe-communication.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe-communication.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe-dup.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipe-dup.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.ipynb_checkpoints/chapter16-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.ipynb_checkpoints/chapter16-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/2-addtwonumbers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/2-addtwonumbers.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/47" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/1-twosum.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/进程间的通信-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/进程间的通信-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../进程间的通信.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../进程间的通信.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapter16.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter16.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,9 +58,11 @@
     <session id="1375516718">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,6 +73,7 @@
           <entry key="cmake" value="1" />
           <entry key="cpp" value="4" />
           <entry key="h" value="14" />
+          <entry key="ipynb" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -67,13 +82,13 @@
           <entry key="CMakeCache.txt" value="2" />
           <entry key="CMakeLists.txt" value="1" />
           <entry key="ObjectiveC" value="23" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="725" />
-          <entry key="cpp" value="963" />
+          <entry key="cpp" value="1043" />
           <entry key="h" value="607" />
           <entry key="txt" value="19" />
         </counts>
@@ -81,7 +96,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="19" />
-          <entry key="ObjectiveC" value="2295" />
+          <entry key="ObjectiveC" value="2375" />
         </counts>
       </usages-collector>
     </session>
@@ -100,16 +115,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.ipynb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
+            <state relative-caret-position="150">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#37#58#0" expanded="true" />
@@ -130,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="330">
               <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
             </state>
           </provider>
@@ -164,11 +188,11 @@
         <option value="$PROJECT_DIR$/pipe-communication.cpp" />
         <option value="$PROJECT_DIR$/pipe-dupe.h" />
         <option value="$PROJECT_DIR$/pipe-dup.c" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/pipe-dup.h" />
         <option value="$PROJECT_DIR$/pipe-dup-1.h" />
         <option value="$PROJECT_DIR$/pipe-dup-1.cpp" />
         <option value="$PROJECT_DIR$/pipe-dup.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -178,8 +202,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="28" />
     <option name="width" value="960" />
     <option name="height" value="1018" />
@@ -257,31 +280,33 @@
       <option name="presentableId" value="Default" />
       <updated>1546503469011</updated>
       <workItem from="1546503470854" duration="824000" />
-      <workItem from="1546504321620" duration="7071000" />
+      <workItem from="1546504321620" duration="7730000" />
+      <workItem from="1546585376807" duration="37000" />
+      <workItem from="1546603654066" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7895000" />
+    <option name="totallyTimeSpent" value="8654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="7" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19818376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20245726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893162" weight="0.32990867" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49412394" visible="true" weight="0.32990867" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49358973" visible="true" weight="0.32990867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49305555" weight="0.32990867" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49252138" weight="0.32990867" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50587606" side_tool="true" visible="true" weight="0.32990867" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50641024" side_tool="true" visible="true" weight="0.3321918" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49946582" weight="0.32990867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -300,13 +325,7 @@
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode.cbp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-communication.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-communication.c" />
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -318,30 +337,8 @@
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pipe_communication.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#138#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe_communication.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe_communication.h" />
+    <entry file="file://$PROJECT_DIR$/pipe_communication.c" />
     <entry file="file:///usr/include/sched.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -353,9 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="96" column="11" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-          <folding>
-            <element signature="e#2257#2304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -363,6 +357,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="621" column="13" selection-start-line="621" selection-start-column="13" selection-end-line="621" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-dup.c" />
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#37#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-dup.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -376,55 +416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.h">
+    <entry file="file://$PROJECT_DIR$/README.ipynb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/unistd.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#37#58#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
