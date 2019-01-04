@@ -15,6 +15,9 @@
       <file name="/home/myCLionProject/usebrass2.h" timestamp="1544621391674">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h" timestamp="1546588254723">
+        <mark key="[" line="12" column="54" />
+      </file>
       <file name="/home/myCLionProject/10-6-usestock2.h" timestamp="1543501833724">
         <mark key="[" line="6" column="0" />
       </file>
@@ -39,10 +42,10 @@
       <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546411442105">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546588246134">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
@@ -53,13 +56,11 @@
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h" timestamp="1546523214946" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.cpp" timestamp="1546338117432">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="65" column="8" />
         <mark key="." line="65" column="8" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp" timestamp="1546523973663" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -80,7 +81,6 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt" timestamp="1545528273051">
         <mark key="[" line="5" column="1267" />
       </file>
-      <file name="/usr/include/unistd.h" timestamp="1546523506643" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" timestamp="1545725221389">
         <mark key="[" line="6" column="4" />
       </file>
@@ -183,10 +183,10 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h" timestamp="1545719623400">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp" timestamp="1546338408115">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp" timestamp="1546588692399">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-22-frnd2tmp2.cpp" timestamp="1545574851961">
         <mark key="[" line="15" column="0" />
@@ -209,10 +209,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>communication_</text>
+        <text encoding="base64">CiAgdmVjdG9yPGludD4gdGVtcCgyKTsKICB0ZW1wWzBdID0gMzsKICB0ZW1wWzFdPTQ7CiAgdGVtcFsyXSA9IDU7CiAgZm9yKGludCBpID0gMDsgaSA8IHRlbXAuc2l6ZSgpOyBpICsrKQogIHsKICAgICAgY291dCA8PCB0ZW1wW2ldIDw8ICIsIiA7CiAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>communication_</text>
+        <text>push_back(3)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -221,32 +221,32 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIGl0ZXJhdG9yPGludD4gYW5zID0gbnVtc19tYXA7CiAgICBmb3IoaW50IGkgPSAwOyBpIDwgbnVtcy5zaXplKCk7IGkgKyspewogICAgICAgIGlmKG51bXNfbWFwLmZpbmQodGFyZ2V0LW51bXNbaV0pICE9IG51bXNbbnVtcy5zaXplKCktMV0pCiAgICAgICAgbnVtc19tYXAuaW5zZXJ0KHBhaXI8aW50LGludD4obnVtc1tpXSxpKSk7CiAgICB9</text>
+        <text encoding="base64">CiAgdmVjdG9yPGludD4gdGVtcCgyKTsKICB0ZW1wWzBdID0gMzsKICB0ZW1wWzFdPTQ7CiAgdGVtcFsyXSA9IDU7CiAgZm9yKGludCBpID0gMDsgaSA8IHRlbXAuc2l6ZSgpOyBpICsrKQogIHsKICAgICAgY291dCA8PCB0ZW1wW2ldIDw8ICIsIiA7CiAgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGludCBhID0gMTsKICAgIGludCBiID0gMjsKICAgIGNvdXQgPDwgImE6ICIgPDwgYSA8PCAiICxiOiAiIDw8IGIgPDwgZW5kbDsKICAgIHN3YXAxKCZhLCZiKTsKICAgIGNvdXQgPDwgImE6ICIgPDwgYSA8PCAiICxiOiAiIDw8IGIgPDwgZW5kbDs=</text>
+        <text encoding="base64">IGZvcihpbnQgaSA9IDA7IGkgPCB0ZW1wLnNpemUoKTsgaSArKykKICB7CiAgICAgIGNvdXQgPDwgdGVtcFtpXSA8PCAiLCIgOwogIH0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiNkZWZpbmUgQSAwMDAxCiNkZWZpbmUgQiAwMDQw</text>
+        <text encoding="base64">IHN0cmluZyBzdHJpbmcxID0gImhlbGxvIjsKICAgIGNvbnN0IGNoYXIgKiBteWNoYXJzID0gc3RyaW5nMS5jX3N0cigpOwogICAgY291dCA8PCAibXljaGFycyA6ICIgPDwgKm15Y2hhcnMgPDwgZW5kbDsKICAgIGNvdXQgPDwgIm15Y2hhcnMrKyA6ICIgPDwgKm15Y2hhcnMrKyA8PCBlbmRsOwogICAgY291dCA8PCAiKm15Y2hhcnMgOiAiIDw8ICpteWNoYXJzIDw8IGVuZGw7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgaW50IGEgPSAxLCBiOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vd3JvbmcgYW5zd2VyISAtb3V0IG9mIHRpbWU=</text>
       </register>
       <register name="5" type="4">
-        <text>my_defined_signal_main();
-    //printf(&quot;hello world&quot;);</text>
+        <text encoding="base64">ICAgIGl0ZXJhdG9yPGludD4gYW5zID0gbnVtc19tYXA7CiAgICBmb3IoaW50IGkgPSAwOyBpIDwgbnVtcy5zaXplKCk7IGkgKyspewogICAgICAgIGlmKG51bXNfbWFwLmZpbmQodGFyZ2V0LW51bXNbaV0pICE9IG51bXNbbnVtcy5zaXplKCktMV0pCiAgICAgICAgbnVtc19tYXAuaW5zZXJ0KHBhaXI8aW50LGludD4obnVtc1tpXSxpKSk7CiAgICB9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgojaW5jbHVkZSA8c3RkaW8uaD4KaW50IG1haW4oaW50IGFyZ2MsIGNoYXIgKiBhcmd2W10pCnsKICAgIGludCBhZmxhZz0wLCBiZmxhZz0wLCBjZmxhZz0wOwogICAgaW50IGNoOwogICAgcHJpbnRmKCJvcHRpbmQ6JWTvvIxvcHRlcnLvvJolZFxuIixvcHRpbmQsb3B0ZXJyKTsKICAgIHByaW50ZigiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpOwogICAgd2hpbGUgKChjaCA9IGdldG9wdChhcmdjLCBhcmd2LCAiYWI6YzpkZTo6IikpICE9IC0xKQogICAgewogICAgICAgIHByaW50Zigib3B0IGlzICVjXG4iLGNoKTsKICAgICAgICBwcmludGYoIm9wdGluZDogJWQsYXJnYzolZCxhcmd2WyVkXTolc1xuIiwgb3B0aW5kLGFyZ2Msb3B0aW5kLGFyZ3Zbb3B0aW5kXSk7CiAgICAgICAgc3dpdGNoIChjaCkgewogICAgICAgICAgICBjYXNlICdhJzoKICAgICAgICAgICAgICAgIHByaW50ZigiSEFWRSBvcHRpb246IC1hXG5cbiIpOwoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICdiJzoKICAgICAgICAgICAgICAgIHByaW50ZigiSEFWRSBvcHRpb246IC1iXG4iKTsKCiAgICAgICAgICAgICAgICBwcmludGYoIlRoZSBhcmd1bWVudCBvZiAtYiBpcyAlc1xuXG4iLCBvcHRhcmcpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ2MnOgogICAgICAgICAgICAgICAgcHJpbnRmKCJIQVZFIG9wdGlvbjogLWNcbiIpOwogICAgICAgICAgICAgICAgcHJpbnRmKCJUaGUgYXJndW1lbnQgb2YgLWMgaXMgJXNcblxuIiwgb3B0YXJnKTsKCiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAnZCc6CiAgICAgICAgICAgICAgICBwcmludGYoIkhBVkUgb3B0aW9uOiAtZFxuIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAnZSc6CiAgICAgICAgICAgICAgICBwcmludGYoIkhBVkUgb3B0aW9uOiAtZVxuIik7CiAgICAgICAgICAgICAgICBwcmludGYoIlRoZSBhcmd1bWVudCBvZiAtZSBpcyAlc1xuXG4iLCBvcHRhcmcpOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBjYXNlICc/JzoKICAgICAgICAgICAgICAgIHByaW50ZigiVW5rbm93biBvcHRpb246ICVjXG4iLChjaGFyKW9wdG9wdCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9CiAgICBwcmludGYoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbiIpOwogICAgcHJpbnRmKCJvcHRpbmQ9JWQsYXJndlslZF09JXNcbiIsb3B0aW5kLG9wdGluZCxhcmd2W29wdGluZF0pOwp9</text>
+        <text encoding="base64">IGludCBhID0gMTsKICAgIGludCBiID0gMjsKICAgIGNvdXQgPDwgImE6ICIgPDwgYSA8PCAiICxiOiAiIDw8IGIgPDwgZW5kbDsKICAgIHN3YXAxKCZhLCZiKTsKICAgIGNvdXQgPDwgImE6ICIgPDwgYSA8PCAiICxiOiAiIDw8IGIgPDwgZW5kbDs=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpLdW5pa2RhCiAgICAgICAg5p2l5rqQ77yaQ1NETgogICAgICAgIOWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9rdW5pa2lkYS9hcnRpY2xlL2RldGFpbHMvODkyMjQwMiAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+        <text encoding="base64">CiNkZWZpbmUgQSAwMDAxCiNkZWZpbmUgQiAwMDQw</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSA8aW9zdHJlYW0+Cg==</text>
+        <text encoding="base64">ICAgaW50IGEgPSAxLCBiOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CnVzaW5nIG5hbWVzcGFjZSBzdGQ7</text>
+        <text>my_defined_signal_main();
+    //printf(&quot;hello world&quot;);</text>
       </register>
     </registers>
     <search>
