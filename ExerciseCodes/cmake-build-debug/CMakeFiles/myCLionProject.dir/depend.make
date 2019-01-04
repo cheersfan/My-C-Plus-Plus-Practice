@@ -157,6 +157,7 @@ CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.h
 CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o: ../getopt-function-test.cpp
 
 CMakeFiles/myCLionProject.dir/main.cpp.o: ../main.cpp
+CMakeFiles/myCLionProject.dir/main.cpp.o: ../signal-function-test.h
 
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.cpp
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.h
