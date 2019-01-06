@@ -42,7 +42,7 @@
       <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546764222577">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546767336948">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -53,7 +53,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1546765560838">
+      <file name="/LLDB" timestamp="1546767476118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
@@ -135,11 +135,11 @@
       <file name="/home/myCLionProject/brass.h" timestamp="1544617619868">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" timestamp="1546766765860">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" timestamp="1546767473617">
         <mark key="'" line="21" column="50" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="11" />
-        <mark key="." line="40" column="11" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
@@ -236,11 +236,11 @@
       <jump line="20" column="50" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>longest_length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihsb25nZXN0X2xlbmd0aCkK</text>
       </register>
       <register name="-" type="4">
-        <text>longest_length</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -248,38 +248,34 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aW50IGxvbmdlc3RfbGVuZ3RoID0gMDsKICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpICsrKXsKICAgICAgICBzdHJpbmcgdG1wX3N0ciA9IHMuc3Vic3RyKGksMSk7CgogICAgICAgIGZvcihpbnQgaiA9IGkrMTsgaiA8IHMubGVuZ3RoKCk7IGogKyspewogICAgICAgICAgICBpZih0bXBfc3RyLmZpbmQoc1tqXSkgPT0gdG1wX3N0ci5ucG9zICl7CiAgICAgICAgICAgICAgICAvL3RtcF9zdHIgZG9lc25gdCBoYXZlIHRoZSBuZXcgY2hhcmFjdGVyCiAgICAgICAgICAgICAgICBjb3V0IDw8ICJ0bXBfc3RyOiIgPDwgdG1wX3N0ciA8PCAiICwgc3RyW2pdOiIgPDwgc1tqXSA8PCAiICxqOiIgPDwgaiA8PCBlbmRsOwogICAgICAgICAgICAgICAgdG1wX3N0ciArPSBzW2pdOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIGogPSBzLmxlbmd0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gbG9uZ2VzdF9sZW5ndGggPCB0bXBfc3RyLmxlbmd0aCgpID8gKGludCl0bXBfc3RyLmxlbmd0aCgpIDogbG9uZ2VzdF9sZW5ndGg7CiAgICB9CgogICAgY291dCA8PCAibG9uZ2VzdF9sZW5ndGg6IiA8PCBsb25nZXN0X2xlbmd0aCA8PCBlbmRsOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZihsb25nZXN0X2xlbmd0aCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpK2xvbmdlc3RfbGVuZ3RoIDw9IHMubGVuZ3RoKCkpewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgfWVsc2V7</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">c3RyaW5nIGhlbGxvID0gImhlbGxvIjsKY291dCA8PCBoZWxsby5maW5kKCJlIik7</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aW50IGxvbmdlc3RfbGVuZ3RoID0gMDsKICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpICsrKXsKICAgICAgICBzdHJpbmcgdG1wX3N0ciA9IHMuc3Vic3RyKGksMSk7CgogICAgICAgIGZvcihpbnQgaiA9IGkrMTsgaiA8IHMubGVuZ3RoKCk7IGogKyspewogICAgICAgICAgICBpZih0bXBfc3RyLmZpbmQoc1tqXSkgPT0gdG1wX3N0ci5ucG9zICl7CiAgICAgICAgICAgICAgICAvL3RtcF9zdHIgZG9lc25gdCBoYXZlIHRoZSBuZXcgY2hhcmFjdGVyCiAgICAgICAgICAgICAgICBjb3V0IDw8ICJ0bXBfc3RyOiIgPDwgdG1wX3N0ciA8PCAiICwgc3RyW2pdOiIgPDwgc1tqXSA8PCAiICxqOiIgPDwgaiA8PCBlbmRsOwogICAgICAgICAgICAgICAgdG1wX3N0ciArPSBzW2pdOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIGogPSBzLmxlbmd0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gbG9uZ2VzdF9sZW5ndGggPCB0bXBfc3RyLmxlbmd0aCgpID8gKGludCl0bXBfc3RyLmxlbmd0aCgpIDogbG9uZ2VzdF9sZW5ndGg7CiAgICB9CgogICAgY291dCA8PCAibG9uZ2VzdF9sZW5ndGg6IiA8PCBsb25nZXN0X2xlbmd0aCA8PCBlbmRsOw==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZihpK2xvbmdlc3RfbGVuZ3RoIDw9IHMubGVuZ3RoKCkpewo=</text>
+      </register>
+      <register name="6" type="4">
         <text>else{
                 flag = false;
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBib29sIGZsYWcgPSB0cnVlOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmKHRtcF9zdHIubGVuZ3RoKCkgPiBsb25nZXN0X2xlbmd0aCl7CiAgICAgICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gCiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbCA9IDA7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiaGVsbG8iOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyLmZpbmQoIngiKSA8PCAiICIgPDwgc3RyLm5wb3M7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>if(result == tmp_str.end()){
-                break;
-            }else{
-                tmp_str.push_back()
-            }</text>
       </register>
     </registers>
     <search>
