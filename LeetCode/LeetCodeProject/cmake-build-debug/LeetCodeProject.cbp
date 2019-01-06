@@ -86,6 +86,12 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>

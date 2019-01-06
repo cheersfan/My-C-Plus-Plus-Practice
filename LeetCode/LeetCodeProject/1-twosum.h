@@ -11,7 +11,8 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target);
     vector<int> twoSum2(vector<int>& nums, int target);
-};
+    vector<int> twoSum3(vector<int>& nums, int target);
+ };
 
 void my_twosum_main();
 

@@ -6,21 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp
+iostream
+-
 pipe-dup.h
 /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h
-pipe-dup.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h
-stdio.h
--
-stdlib.h
--
-unistd.h
--
-fcntl.h
--
-sys/wait.h
--
 
 /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h
 

@@ -1,15 +1,11 @@
 #include <iostream>
 #include <string>
-#include "1-twosum.h"
+#include "2-addtwonumbers.h"
+using namespace std;
 
 int main() {
-    //my_twosum_main();
+    my_addtwonumbers_main();
 
-    string string1 = "hello";
-    const char * mychars = string1.c_str();
-    cout << "mychars : " << *mychars << endl;
-    cout << "mychars++ : " << *mychars++ << endl;
-    cout << "*mychars : " << *mychars << endl;
 
     return 0;
 }

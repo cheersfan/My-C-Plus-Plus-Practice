@@ -4,6 +4,9 @@
 CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o: ../1-twosum.cpp
 CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o: ../1-twosum.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../1-twosum.h
+CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.cpp
+CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.h
+
+CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../2-addtwonumbers.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../main.cpp
 

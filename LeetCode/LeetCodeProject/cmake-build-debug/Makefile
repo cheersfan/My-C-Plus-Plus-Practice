@@ -150,6 +150,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.s
 .PHONY : 1-twosum.cpp.s
 
+2-addtwonumbers.o: 2-addtwonumbers.cpp.o
+
+.PHONY : 2-addtwonumbers.o
+
+# target to build an object file
+2-addtwonumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o
+.PHONY : 2-addtwonumbers.cpp.o
+
+2-addtwonumbers.i: 2-addtwonumbers.cpp.i
+
+.PHONY : 2-addtwonumbers.i
+
+# target to preprocess a source file
+2-addtwonumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.i
+.PHONY : 2-addtwonumbers.cpp.i
+
+2-addtwonumbers.s: 2-addtwonumbers.cpp.s
+
+.PHONY : 2-addtwonumbers.s
+
+# target to generate assembly for a file
+2-addtwonumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s
+.PHONY : 2-addtwonumbers.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... 1-twosum.o"
 	@echo "... 1-twosum.i"
 	@echo "... 1-twosum.s"
+	@echo "... 2-addtwonumbers.o"
+	@echo "... 2-addtwonumbers.i"
+	@echo "... 2-addtwonumbers.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
