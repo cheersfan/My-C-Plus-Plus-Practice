@@ -96,11 +96,39 @@ CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp -o CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s
 
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o: ../3-longestsubstring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp
+
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp > CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp -o CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwosortedarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp
+
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp > CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp -o CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s
+
 # Object files for target LeetCodeProject
 LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/main.cpp.o" \
 "CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o" \
-"CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o"
+"CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o"
 
 # External object files for target LeetCodeProject
 LeetCodeProject_EXTERNAL_OBJECTS =
@@ -108,9 +136,11 @@ LeetCodeProject_EXTERNAL_OBJECTS =
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/main.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/build.make
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable LeetCodeProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable LeetCodeProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCodeProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

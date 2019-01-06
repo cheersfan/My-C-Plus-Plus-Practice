@@ -7,6 +7,12 @@ CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o: ../1-twosum.h
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.cpp
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../2-addtwonumbers.h
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o: ../3-longestsubstring.cpp
+CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o: ../3-longestsubstring.h
+
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwosortedarray.cpp
+CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwosortedarray.h
+
+CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../4-medianoftwosortedarray.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../main.cpp
 

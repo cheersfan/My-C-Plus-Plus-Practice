@@ -16,6 +16,7 @@ struct ListNode{
 class Solution{
 public:
     ListNode * addTwoNumbers(ListNode * l1, ListNode *l2);
+    ListNode * addTwoNumbers2(ListNode *l1, ListNode *l2);
     void printList(ListNode* l);
 };
 

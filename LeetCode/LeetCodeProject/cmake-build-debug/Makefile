@@ -177,6 +177,60 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s
 .PHONY : 2-addtwonumbers.cpp.s
 
+3-longestsubstring.o: 3-longestsubstring.cpp.o
+
+.PHONY : 3-longestsubstring.o
+
+# target to build an object file
+3-longestsubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o
+.PHONY : 3-longestsubstring.cpp.o
+
+3-longestsubstring.i: 3-longestsubstring.cpp.i
+
+.PHONY : 3-longestsubstring.i
+
+# target to preprocess a source file
+3-longestsubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.i
+.PHONY : 3-longestsubstring.cpp.i
+
+3-longestsubstring.s: 3-longestsubstring.cpp.s
+
+.PHONY : 3-longestsubstring.s
+
+# target to generate assembly for a file
+3-longestsubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.s
+.PHONY : 3-longestsubstring.cpp.s
+
+4-medianoftwosortedarray.o: 4-medianoftwosortedarray.cpp.o
+
+.PHONY : 4-medianoftwosortedarray.o
+
+# target to build an object file
+4-medianoftwosortedarray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o
+.PHONY : 4-medianoftwosortedarray.cpp.o
+
+4-medianoftwosortedarray.i: 4-medianoftwosortedarray.cpp.i
+
+.PHONY : 4-medianoftwosortedarray.i
+
+# target to preprocess a source file
+4-medianoftwosortedarray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.i
+.PHONY : 4-medianoftwosortedarray.cpp.i
+
+4-medianoftwosortedarray.s: 4-medianoftwosortedarray.cpp.s
+
+.PHONY : 4-medianoftwosortedarray.s
+
+# target to generate assembly for a file
+4-medianoftwosortedarray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s
+.PHONY : 4-medianoftwosortedarray.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -219,6 +273,12 @@ help:
 	@echo "... 2-addtwonumbers.o"
 	@echo "... 2-addtwonumbers.i"
 	@echo "... 2-addtwonumbers.s"
+	@echo "... 3-longestsubstring.o"
+	@echo "... 3-longestsubstring.i"
+	@echo "... 3-longestsubstring.s"
+	@echo "... 4-medianoftwosortedarray.o"
+	@echo "... 4-medianoftwosortedarray.i"
+	@echo "... 4-medianoftwosortedarray.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
