@@ -53,7 +53,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1546764577221">
+      <file name="/LLDB" timestamp="1546765560838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
@@ -68,7 +68,7 @@
         <mark key="'" line="6" column="22" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.h" timestamp="1546762927366">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.h" timestamp="1546766732268">
         <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-7-Worker0.h.cpp" timestamp="1545393686423">
@@ -135,10 +135,11 @@
       <file name="/home/myCLionProject/brass.h" timestamp="1544617619868">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" timestamp="1546764604510">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" timestamp="1546766765860">
+        <mark key="'" line="21" column="50" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
       </file>
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
@@ -232,13 +233,14 @@
     <jumps>
       <jump line="46" column="44" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
       <jump line="48" column="22" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
+      <jump line="20" column="50" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmKHRtcF9zdHIubGVuZ3RoKCkgPiBsb25nZXN0X2xlbmd0aCl7CiAgICAgICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gCiAgICAgICAgfQ==</text>
+        <text>longest_length</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVjdG9yPGNoYXI+OjppdGVyYXRvciByZXN1bHQgPSBmaW5kKHRtcF9zdHIuYmVnaW4oKSwgdG1wX3N0ci5lbmQoKSwgc3RyW2pdKTs=</text>
+        <text>longest_length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -247,35 +249,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGlmKHRtcF9zdHIubGVuZ3RoKCkgPiBsb25nZXN0X2xlbmd0aCl7CiAgICAgICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gCiAgICAgICAgfQ==</text>
+        <text encoding="base64">aW50IGxvbmdlc3RfbGVuZ3RoID0gMDsKICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpICsrKXsKICAgICAgICBzdHJpbmcgdG1wX3N0ciA9IHMuc3Vic3RyKGksMSk7CgogICAgICAgIGZvcihpbnQgaiA9IGkrMTsgaiA8IHMubGVuZ3RoKCk7IGogKyspewogICAgICAgICAgICBpZih0bXBfc3RyLmZpbmQoc1tqXSkgPT0gdG1wX3N0ci5ucG9zICl7CiAgICAgICAgICAgICAgICAvL3RtcF9zdHIgZG9lc25gdCBoYXZlIHRoZSBuZXcgY2hhcmFjdGVyCiAgICAgICAgICAgICAgICBjb3V0IDw8ICJ0bXBfc3RyOiIgPDwgdG1wX3N0ciA8PCAiICwgc3RyW2pdOiIgPDwgc1tqXSA8PCAiICxqOiIgPDwgaiA8PCBlbmRsOwogICAgICAgICAgICAgICAgdG1wX3N0ciArPSBzW2pdOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIGogPSBzLmxlbmd0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gbG9uZ2VzdF9sZW5ndGggPCB0bXBfc3RyLmxlbmd0aCgpID8gKGludCl0bXBfc3RyLmxlbmd0aCgpIDogbG9uZ2VzdF9sZW5ndGg7CiAgICB9CgogICAgY291dCA8PCAibG9uZ2VzdF9sZW5ndGg6IiA8PCBsb25nZXN0X2xlbmd0aCA8PCBlbmRsOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihpK2xvbmdlc3RfbGVuZ3RoIDw9IHMubGVuZ3RoKCkpewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiaGVsbG8iOwo=</text>
+      <register name="3" type="4">
+        <text>else{
+                flag = false;
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyLmZpbmQoIngiKSA8PCAiICIgPDwgc3RyLm5wb3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sIGZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IGlmKHRtcF9zdHIubGVuZ3RoKCkgPiBsb25nZXN0X2xlbmd0aCl7CiAgICAgICAgICAgIGxvbmdlc3RfbGVuZ3RoID0gCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbCA9IDA7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0cmluZyBzdHIgPSAiaGVsbG8iOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyLmZpbmQoIngiKSA8PCAiICIgPDwgc3RyLm5wb3M7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>if(result == tmp_str.end()){
                 break;
             }else{
                 tmp_str.push_back()
             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3ROb2RlICogYWRkVHdvTnVtYmVyczEoTGlzdE5vZGUgKiBsMSwgTGlzdE5vZGUgKmwyKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ckxpc3ROb2RlICogU29sdXRpb246OmFkZFR3b051bWJlcnMxKExpc3ROb2RlICpsMSwgTGlzdE5vZGUgKmwyKSB7CgogICAgaW50IHN1bSA9IDA7CiAgICBpbnQgY2FycnkgPSAwOwogICAgTGlzdE5vZGUgKiBhbnMgPSBudWxscHRyOwogICAgTGlzdE5vZGUgKiBhbnNfZW5kID0gbnVsbHB0cjsKICAgIHdoaWxlKGwxICE9IG51bGxwdHIgfHwgbDIgIT0gbnVsbHB0cil7CiAgICAgICAgCiAgICAgICAgaWYobDEgPT0gbnVsbHB0cil7CgogICAgICAgICAgICBzdW0gKz0gbDItPnZhbDsKICAgICAgICAgICAgbDItPnZhbCA9IHN1bSAlIDEwOwogICAgICAgICAgICBjYXJyeSA9IHN1bSAvIDEwOwogICAgICAgICAgICBhbnNfZW5kLT5uZXh0ID0gbDI7CiAgICAgICAgICAgIGFuc19lbmQgPSBsMjsKICAgICAgICAgICAgbDIgPSBsMi0+bmV4dDsKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgfQoKICAgICAgICBpZihsMiA9PSBudWxscHRyKXsKCiAgICAgICAgICAgIHN1bSA9IGwxLT52YWwgKyBjYXJyeTsKICAgICAgICAgICAgbDEtPnZhbCA9IHN1bSAlIDEwOwogICAgICAgICAgICBjYXJyeSA9IHN1bSAvIDEwOwoKICAgICAgICAgICAgYW5zX2VuZC0+bmV4dCA9IGwxOwogICAgICAgICAgICBhbnNfZW5kID0gbDE7CiAgICAgICAgICAgIGwxID0gbDEtPm5leHQ7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KCiAgICAgICAgc3VtID0gbDEtPnZhbCArIGwyLT52YWwgKyBjYXJyeTsKICAgICAgICBjb3V0IDw8ICJsMS52YWw6IiA8PCBsMS0+dmFsIDw8ICIsbDIudmFsOiIgPDwgbDItPnZhbCA8PCAiLHN1bToiIDw8IHN1bSA8PCBlbmRsOwogICAgICAgIExpc3ROb2RlICogbm9kZSA9IG5ldyBMaXN0Tm9kZShzdW0gJSAxMCk7CgogICAgICAgIGlmKGFucyA9PSBudWxscHRyKXsKICAgICAgICAgICAgYW5zID0gbm9kZTsKICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgYW5zX2VuZC0+bmV4dCA9IG5vZGU7CiAgICAgICAgfQogICAgICAgIGFuc19lbmQgPSBub2RlOwoKICAgICAgICBjYXJyeSA9IHN1bSAvIDEwOwogICAgICAgIGwxID0gbDEtPm5leHQ7CiAgICAgICAgbDIgPSBsMi0+bmV4dDsKICAgIH0KCiAgICBpZihjYXJyeSA+IDApewogICAgICAgIExpc3ROb2RlICogbm9kZSA9IG5ldyBMaXN0Tm9kZShjYXJyeSk7CiAgICAgICAgYW5zX2VuZC0+bmV4dCA9IG5vZGU7CiAgICAgICAgYW5zX2VuZCA9IG5vZGU7CiAgICB9CiAgICBwcmludExpc3QoYW5zKTsKCiAgICByZXR1cm4gYW5zOwp9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">YW5zX2VuZC0+bmV4dCA9IGwyOwogICAgICAgICAgICBhbnNfZW5kID0gbDI7</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">bDItPnZhbCA9IHN1bSAlIDEwOwogICAgICAgICAgICBjYXJyeSA9IHN1bSAvIDEwOw==</text>
       </register>
     </registers>
     <search>
