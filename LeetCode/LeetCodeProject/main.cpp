@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
-#include "2-addtwonumbers.h"
+#include "4-medianoftwosortedarray.h"
 using namespace std;
 
 int main() {
-    my_addtwonumbers_main();
+   my_median_main();
 
 
     return 0;

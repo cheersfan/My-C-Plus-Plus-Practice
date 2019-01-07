@@ -43,33 +43,36 @@ void my_addtwonumbers_main(){
 
     //s.printList(l1);
     //s.printList(l2);
-    s.addTwoNumbers(l1,l2);
+    s.addTwoNumbers2(l1,l2);
 
-//    string str1;
-//    getline(cin, str1);
-//    ListNode *beg = NULL;
-//    ListNode *end = NULL;
-//    cout << str1.length() << endl;
-//    for(int i = 0; i < str1.length(); i ++){
-//        int v = str1[i] - 48;
-//        ListNode * add = new ListNode(v);
-//        if(i == 0){
-//            beg = add;
-//        }else{
-//            end->next = add;
-//        }
-//        end = add;
-//    }
-//
-//    ListNode *ptr = beg;
-//   while(ptr != NULL){
-//       cout << ptr->val << ",";
-//       ptr = ptr->next;
-//   }
-//   cout << endl;
-//   cout << "hello" << endl;
+    //Exercise for link list
+    /*
+    string str1;
+    getline(cin, str1);
+    ListNode *beg = NULL;
+    ListNode *end = NULL;
+    cout << str1.length() << endl;
+    for(int i = 0; i < str1.length(); i ++){
+        int v = str1[i] - 48;
+        ListNode * add = new ListNode(v);
+        if(i == 0){
+            beg = add;
+        }else{
+            end->next = add;
+        }
+        end = add;
+    }
+
+    ListNode *ptr = beg;
+   while(ptr != NULL){
+       cout << ptr->val << ",";
+       ptr = ptr->next;
+   }
+   cout << endl;
+   cout << "hello" << endl;*/
 }
 
+//This code need some change to become more effective
 ListNode * Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
 
     int sum = 0;
@@ -79,9 +82,9 @@ ListNode * Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
     while(l1 != nullptr || l2 != nullptr){
         if(l1 == nullptr){
 
-                sum = l2->val + carry;
-                l2->val = sum % 10;
-                carry = sum / 10;
+            sum = l2->val + carry;
+            l2->val = sum % 10;
+            carry = sum / 10;
             ans_end->next = l2;
             ans_end = l2;
             l2 = l2->next;
@@ -115,6 +118,7 @@ ListNode * Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
         l1 = l1->next;
         l2 = l2->next;
     }
+
     if(carry > 0){
         ListNode * node = new ListNode(carry);
         ans_end->next = node;
@@ -122,6 +126,38 @@ ListNode * Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
     }
     printList(ans);
 
+    return ans;
+}
+
+ListNode * Solution::addTwoNumbers2(ListNode *l1, ListNode *l2) {
+    ListNode * ans = new ListNode(0);
+    ListNode * ans_ptr = ans;
+    int sum = 0;
+
+    while (1){
+        if(l1 != nullptr){
+            sum += l1->val;
+            l1 = l1->next;
+        }
+
+        if(l2 != nullptr){
+            sum += l2->val;
+            l2 = l2->next;
+        }
+
+        ans_ptr->val = sum % 10;
+        sum /= 10;
+
+
+        if(l1 != nullptr || l2 != nullptr || sum != 0){
+            ans_ptr->next = new ListNode(0);
+            ans_ptr = ans_ptr->next;
+        }else{
+            break;
+        }
+    }
+
+    printList(ans);
     return ans;
 }
 
