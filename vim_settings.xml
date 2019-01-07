@@ -27,9 +27,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.h" timestamp="1546505311049">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h" timestamp="1546838710918">
-        <mark key="[" line="6" column="0" />
-      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h" timestamp="1546841638934" />
       <file name="/home/myCLionProject/string1.h" timestamp="1544336088398">
         <mark key="[" line="41" column="32" />
       </file>
@@ -243,10 +241,10 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" timestamp="1546841545868">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" timestamp="1546843358325">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -256,7 +254,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sizeof(char))</text>
+        <text>void my_read();
+void my_write();</text>
       </register>
       <register name="-" type="4">
         <text>sizeof(char))</text>
@@ -267,32 +266,33 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJ0cnVlIiA8PCBlbmRsOwo=</text>
+      <register name="1" type="4">
+        <text>void my_read();
+void my_write();</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Zm9yKGludCBpID0gMDsgaSA8IG5ld19hcnJheS5zaXplKCk7IGkgKyspewogICAgICAgIGNvdXQgPDwgbmV3X2FycmF5W2ldIDw8ICIsIjsKICAgIH0=</text>
+        <text encoding="base64">CnZvaWQgbXlfd3JpdGUoKXsKCn0KCnZvaWQgbXlfcmVhZCgpewoKfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNvdXQgPDwgYS5zaXplKCkgPDxlbmRsOwogICAgZm9yKGludCBpID0gMDsgaSA8IGEuc2l6ZSgpOyBpICsrKXsKICAgICAgICBjb3V0IDw8IGFbaV0gPDwgIiwiIDw8ZW5kbDsKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJ0cnVlIiA8PCBlbmRsOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Zm9yKGludCBpID0gMDsgaSA8IG5ld19hcnJheS5zaXplKCk7IGkgKyspewogICAgICAgIGNvdXQgPDwgbmV3X2FycmF5W2ldIDw8ICIsIjsKICAgIH0=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGdldGxpbmUoY2luLCBzdHIxKTsKICAgIGNvdXQgPDwgImlucHV0IHN0cjE6ICIgPDwgZW5kbDsKICAgIGdldGxpbmUoY2luLCBzdHIyKTs=</text>
+        <text encoding="base64">IGNvdXQgPDwgYS5zaXplKCkgPDxlbmRsOwogICAgZm9yKGludCBpID0gMDsgaSA8IGEuc2l6ZSgpOyBpICsrKXsKICAgICAgICBjb3V0IDw8IGFbaV0gPDwgIiwiIDw8ZW5kbDsKICAgIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly9zdHJpbmcgaGVsbG8gPSAiaGVsbG8iOwovL2NvdXQgPDwgaGVsbG8uZmluZCgiZSIpIDw8ICIgIiA8PCBoZWxsby5zdWJzdHIoMSk7</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb3V0IDw8ICJzOiIgPDwgcy5sZW5ndGgoKSA8PCBlbmRsOw==</text>
+        <text encoding="base64">ICAgIGdldGxpbmUoY2luLCBzdHIxKTsKICAgIGNvdXQgPDwgImlucHV0IHN0cjE6ICIgPDwgZW5kbDsKICAgIGdldGxpbmUoY2luLCBzdHIyKTs=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBpZihzID09IE5VTEwpewogICAgICAgIHJldHVybiAwOwogICAgfQ==</text>
+        <text encoding="base64">Ly9zdHJpbmcgaGVsbG8gPSAiaGVsbG8iOwovL2NvdXQgPDwgaGVsbG8uZmluZCgiZSIpIDw8ICIgIiA8PCBoZWxsby5zdWJzdHIoMSk7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsb25nZXN0X2xlbmd0aCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBjb3V0IDw8ICJzOiIgPDwgcy5sZW5ndGgoKSA8PCBlbmRsOw==</text>
       </register>
     </registers>
     <search>
