@@ -48,11 +48,11 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp" timestamp="1546862727406">
-        <mark key="[" line="84" column="25" />
-        <mark key="]" line="84" column="34" />
-        <mark key="." line="84" column="34" />
-        <mark key="^" line="84" column="34" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp" timestamp="1546865374020">
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
+        <mark key="^" line="88" column="34" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546772999480">
         <mark key="[" line="2" column="13" />
@@ -156,6 +156,10 @@
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" timestamp="1546867879469">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
         <mark key="[" line="6" column="0" />
       </file>
@@ -241,6 +245,9 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h" timestamp="1546867797129">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" timestamp="1546843358325">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -251,13 +258,14 @@
       <jump line="46" column="44" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
       <jump line="48" column="22" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
       <jump line="20" column="50" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" />
+      <jump line="10" column="24" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new vector(array_a);</text>
+        <text>(array_s.size()+1) / 2</text>
       </register>
       <register name="-" type="4">
-        <text>new vector(array_a);</text>
+        <text>(array_s.size()+1) / 2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -340,6 +348,9 @@ void my_write();</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
