@@ -243,10 +243,10 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" timestamp="1546840040128">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" timestamp="1546841545868">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -256,10 +256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>sizeof(char))</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>sizeof(char))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
