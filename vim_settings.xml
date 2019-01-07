@@ -156,11 +156,11 @@
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" timestamp="1546872566890">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" timestamp="1546874663757">
         <mark key="'" line="19" column="24" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
         <mark key="[" line="6" column="0" />
@@ -264,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym9vbCBmbGFnWzJdWzJdID0gZmFsc2U7CiAgICBjb3V0IDw8IGZsYWc=</text>
+        <text encoding="base64">ICAgICAgICBwTWF0cml4W2ldW2ldID0gdHJ1ZTsKICAgICAgICBpZihsb25nZXN0TGVuZ3RoID09IDApewogICAgICAgICAgICBsb25nZXN0TGVuZ3RoID0gMTsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>end</text>
@@ -276,32 +276,32 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Ym9vbCBmbGFnWzJdWzJdID0gZmFsc2U7CiAgICBjb3V0IDw8IGZsYWc=</text>
+        <text encoding="base64">ICAgICAgICBwTWF0cml4W2ldW2ldID0gdHJ1ZTsKICAgICAgICBpZihsb25nZXN0TGVuZ3RoID09IDApewogICAgICAgICAgICBsb25nZXN0TGVuZ3RoID0gMTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmKHMubGVuZ3RoKCkgPD0gMSl7CiAgICAgICAgY291dCA8PCBzIDw8IGVuZGw7CiAgICAgICAgcmV0dXJuIHM7CiAgICB9</text>
+        <text encoding="base64">Ym9vbCBmbGFnWzJdWzJdID0gZmFsc2U7CiAgICBjb3V0IDw8IGZsYWc=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgIGlmKHMubGVuZ3RoKCkgPD0gMSl7CiAgICAgICAgY291dCA8PCBzIDw8IGVuZGw7CiAgICAgICAgcmV0dXJuIHM7CiAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>void my_read();
 void my_write();</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnZvaWQgbXlfd3JpdGUoKXsKCn0KCnZvaWQgbXlfcmVhZCgpewoKfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJ0cnVlIiA8PCBlbmRsOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Zm9yKGludCBpID0gMDsgaSA8IG5ld19hcnJheS5zaXplKCk7IGkgKyspewogICAgICAgIGNvdXQgPDwgbmV3X2FycmF5W2ldIDw8ICIsIjsKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNvdXQgPDwgYS5zaXplKCkgPDxlbmRsOwogICAgZm9yKGludCBpID0gMDsgaSA8IGEuc2l6ZSgpOyBpICsrKXsKICAgICAgICBjb3V0IDw8IGFbaV0gPDwgIiwiIDw8ZW5kbDsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIGdldGxpbmUoY2luLCBzdHIxKTsKICAgIGNvdXQgPDwgImlucHV0IHN0cjE6ICIgPDwgZW5kbDsKICAgIGdldGxpbmUoY2luLCBzdHIyKTs=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
     </registers>
     <search>
