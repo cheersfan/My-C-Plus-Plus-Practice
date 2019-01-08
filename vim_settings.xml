@@ -61,7 +61,7 @@
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" timestamp="1546950772680">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" timestamp="1546954042656">
         <mark key="'" line="20" column="24" />
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="24" />
@@ -74,7 +74,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1546952157079">
+      <file name="/LLDB" timestamp="1546952814902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
@@ -186,11 +186,11 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp" timestamp="1546952085138">
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="34" column="16" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp" timestamp="1546954154109">
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="36" column="6" />
       </file>
       <file name="/home/myCLionProject/11-15-randwalk.h" timestamp="1544098680205">
         <mark key="[" line="6" column="0" />
@@ -200,6 +200,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="7" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.h" timestamp="1546952884804">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dupe.h" timestamp="1546522589544">
         <mark key="[" line="6" column="0" />
@@ -290,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKTs=</text>
+        <text>range_error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKTs=</text>
+        <text>range_error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -302,31 +307,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgKHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIElOVF9NQVgKICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjb2x1bW4gPSAwOwo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBncm91cF9pbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cF9pbmRleCA9IGkgLyBncm91cF9udW07Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb2x1bW4gPSAwOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGludCBncm91cF9pbmRleCA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBncm91cF9jb3VudCA9IHN0cl9sZW5ndGggLyBncm91cF9udW0gKyAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBncm91cF9pbmRleCA9IGkgLyBncm91cF9udW07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBzdHJfbGVuZ3RoID0gcy5sZW5ndGgoKTsK</text>
+        <text encoding="base64">ICAgIGludCBncm91cF9pbmRleCA9IDA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCBudW1Sb3dzOyBpICsrKXsKICAgICAgICBmb3IoaW50IGogPSAwOyBqIDwgZ3JvdXBfY291bnQqKG51bVJvd3MtMSk7IGogKyspewogICAgICAgICAgICBpZihzdHJNYXRyaXhbaV1bal0gIT0gLTEpewogICAgICAgICAgICAgICAgY291dCA8PCAiY2hhcjoiIDw8IHN0ck1hdHJpeFtpXVtqXSA8PCBlbmRsOwogICAgICAgICAgICAgICAgLy9hbnMgKz0gc1tzdHJNYXRyaXhbaV1bal1dOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGludCBncm91cF9jb3VudCA9IHN0cl9sZW5ndGggLyBncm91cF9udW0gKyAxOwo=</text>
       </register>
     </registers>
     <search>
