@@ -53,10 +53,10 @@
         <mark key="." line="87" column="12" />
         <mark key="^" line="88" column="34" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546955932202">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1546958472472">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
@@ -93,7 +93,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp" timestamp="1546957615881">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h" timestamp="1546958353223">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp" timestamp="1546958450741">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -166,12 +169,6 @@
       <file name="/home/myCLionProject/brass.h" timestamp="1544617619868">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" timestamp="1546772331112">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-      </file>
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
       </file>
@@ -230,6 +227,9 @@
       </file>
       <file name="/home/myCLionProject/11-16-stonewt.h" timestamp="1544104612020">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp" timestamp="1546958437685">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h" timestamp="1545051561790">
         <mark key="[" line="6" column="0" />
@@ -299,7 +299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbnM7Cg==</text>
+        <text encoding="base64">ICBjb3V0IDw8IDB4MTIzIDw8ZW5kbDsK</text>
       </register>
       <register name="-" type="4">
         <text>ans</text>
@@ -311,31 +311,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBjb3V0IDw8IDB4MTIzIDw8ZW5kbDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIjgtU3RyaW5nVG9JbnRlZ2VyLmgiCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBhbnM7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGFucyA9ID8gSU5UX01BWCA6IGFuczsKICAgIGFucyA9IGFucyA8IElOVF9NSU4gPyBJTlRfTUlOIDogYW5zOwogICAgCiAgICBjb3V0IDw8IGFuc19zdHIgPDwgZW5kbDsKICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7CiAgICByZXR1cm4gYW5zOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYoYW5zID4gSU5UX01BWCl7CiAgICAgICAgcmV0dXJuIAogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvdXQgPDwgKHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIElOVF9NQVgKICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBjb2x1bW4gPSAwOwo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBncm91cF9pbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyIDw8IGVuZGw7Cg==</text>
       </register>
     </registers>
     <search>
