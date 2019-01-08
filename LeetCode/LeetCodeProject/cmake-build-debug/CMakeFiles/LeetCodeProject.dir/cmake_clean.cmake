@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o"
   "LeetCodeProject.pdb"
   "LeetCodeProject"
 )

@@ -95,6 +95,12 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

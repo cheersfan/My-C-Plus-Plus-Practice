@@ -22,7 +22,7 @@ void my_median_main(){
         }
     }
 
-    medianOfTwoSortedArrays_main(a, b);
+    medianOfTwoSortedArrays_main2(a, b);
 }
 
 double medianOfTwoSortedArrays_main(vector<int> & nums1, vector<int> & nums2){
@@ -72,4 +72,30 @@ double medianOfTwoSortedArrays_main(vector<int> & nums1, vector<int> & nums2){
 
     cout << ans << endl;
     return ans;
+}
+
+//not finished
+double medianOfTwoSortedArrays_main2(vector<int>& array_a, vector<int>& array_b){
+    double median = 0.0;
+
+    vector<int> array_s = array_a.size() < array_b.size() ? array_a : array_b;
+    vector<int> array_l = array_a.size() < array_b.size() ? array_b : array_a;
+
+    //range of i : 0 ~ iMax
+    int iMax = array_s.size()-1;
+
+
+    int i = (iMax + 1) / 2;
+    int j = (array_s.size() + array_l.size() + 1) / 2 - i;
+
+//    while(0<i && i <= iMax){
+//        if(array_s[i] <= array_l[j+1] && array_s[i+1] >= array_l[j]){
+//            return array_s[i] >= array_l[j] ? array_s[i] : array_l[j];
+//        } else if{
+//
+//        }
+//    }
+
+
+    return median;
 }

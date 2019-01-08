@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp
-4-medianoftwosortedarray.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp
+5-LongestPalindromicSubstring.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h
 iostream
 -
-vector
+string
 -
 

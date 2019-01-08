@@ -13,6 +13,9 @@ CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o: ../3-longestsubstring.h
 CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwosortedarray.cpp
 CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwosortedarray.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../4-medianoftwosortedarray.h
+CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o: ../5-LongestPalindromicSubstring.cpp
+CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o: ../5-LongestPalindromicSubstring.h
+
+CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../5-LongestPalindromicSubstring.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../main.cpp
 

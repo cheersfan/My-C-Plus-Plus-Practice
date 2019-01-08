@@ -231,6 +231,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s
 .PHONY : 4-medianoftwosortedarray.cpp.s
 
+5-LongestPalindromicSubstring.o: 5-LongestPalindromicSubstring.cpp.o
+
+.PHONY : 5-LongestPalindromicSubstring.o
+
+# target to build an object file
+5-LongestPalindromicSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o
+.PHONY : 5-LongestPalindromicSubstring.cpp.o
+
+5-LongestPalindromicSubstring.i: 5-LongestPalindromicSubstring.cpp.i
+
+.PHONY : 5-LongestPalindromicSubstring.i
+
+# target to preprocess a source file
+5-LongestPalindromicSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.i
+.PHONY : 5-LongestPalindromicSubstring.cpp.i
+
+5-LongestPalindromicSubstring.s: 5-LongestPalindromicSubstring.cpp.s
+
+.PHONY : 5-LongestPalindromicSubstring.s
+
+# target to generate assembly for a file
+5-LongestPalindromicSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.s
+.PHONY : 5-LongestPalindromicSubstring.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -279,6 +306,9 @@ help:
 	@echo "... 4-medianoftwosortedarray.o"
 	@echo "... 4-medianoftwosortedarray.i"
 	@echo "... 4-medianoftwosortedarray.s"
+	@echo "... 5-LongestPalindromicSubstring.o"
+	@echo "... 5-LongestPalindromicSubstring.i"
+	@echo "... 5-LongestPalindromicSubstring.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
