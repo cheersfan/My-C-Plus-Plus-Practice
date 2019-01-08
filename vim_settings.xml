@@ -61,15 +61,15 @@
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" timestamp="1546940130306">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" timestamp="1546941996230">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1546874985444">
+      <file name="/LLDB" timestamp="1546941969387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
@@ -250,6 +250,9 @@
       <file name="/fragment.mm" timestamp="1546761285369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/usr/src/debug/gcc-4.8.5-20150702/obj-x86_64-redhat-linux/x86_64-redhat-linux/libstdc++-v3/include/ext/atomicity.h" timestamp="1546941431801">
+        <mark key="[" line="66" column="1" />
+      </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-24-manyfrnd.h" timestamp="1545575377759">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
@@ -271,11 +274,11 @@
       <jump line="10" column="24" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgc3RyX2xlbmd0aCA8PCBlbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>char</text>
       </register>
       <register name="-" type="4">
-        <text>(2 * numRows - 2) + 1;</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -283,33 +286,33 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLy9jb2x1bW4=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvdXQgPDwgc3RyX2xlbmd0aCA8PCBlbmRsOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">d2hpbGUgKHN0cl9sZW5ndGggLz0gKDIgKiBudW1Sb3dzIC0gMikgPiAwKXsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmb3IoaW50IGogPSAwOyApCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBwTWF0cml4W2ldW2ldID0gdHJ1ZTsKICAgICAgICBpZihsb25nZXN0TGVuZ3RoID09IDApewogICAgICAgICAgICBsb25nZXN0TGVuZ3RoID0gMTsKICAgICAgICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ym9vbCBmbGFnWzJdWzJdID0gZmFsc2U7CiAgICBjb3V0IDw8IGZsYWc=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGlmKHMubGVuZ3RoKCkgPD0gMSl7CiAgICAgICAgY291dCA8PCBzIDw8IGVuZGw7CiAgICAgICAgcmV0dXJuIHM7CiAgICB9</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>void my_read();
 void my_write();</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CnZvaWQgbXlfd3JpdGUoKXsKCn0KCnZvaWQgbXlfcmVhZCgpewoKfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8ICJ0cnVlIiA8PCBlbmRsOwo=</text>
       </register>
     </registers>
     <search>
