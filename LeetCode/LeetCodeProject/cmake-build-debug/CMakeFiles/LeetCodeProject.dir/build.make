@@ -135,6 +135,58 @@ CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp -o CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.s
 
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o: ../6-ZigZagConversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp
+
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp > CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp -o CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o: ../7-ReverseInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp
+
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp > CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp -o CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: ../8-StringToInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp
+
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp > CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp -o CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o: ../9-PalindromeNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp
+
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp > CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp -o CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.s
+
 # Object files for target LeetCodeProject
 LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/main.cpp.o" \
@@ -142,7 +194,11 @@ LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o" \
 "CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o" \
 "CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o" \
-"CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o"
+"CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o"
 
 # External object files for target LeetCodeProject
 LeetCodeProject_EXTERNAL_OBJECTS =
@@ -153,9 +209,13 @@ LeetCodeProject: CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/build.make
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable LeetCodeProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable LeetCodeProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCodeProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

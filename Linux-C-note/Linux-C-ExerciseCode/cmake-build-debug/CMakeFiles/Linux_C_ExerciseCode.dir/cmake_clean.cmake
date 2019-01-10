@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o"
   "CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o"
   "CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o"
+  "CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o"
   "Linux_C_ExerciseCode.pdb"
   "Linux_C_ExerciseCode"
 )

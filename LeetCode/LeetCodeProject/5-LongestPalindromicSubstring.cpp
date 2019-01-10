@@ -48,6 +48,7 @@ string longestPalindrome(string s){
 
 }
 
+//dynamic programming --> did not pass in leetcode and i do not know why...
 string longestPalindrome2(string s){
     if(s.length() <= 1){
         cout << s << endl;
@@ -57,9 +58,12 @@ string longestPalindrome2(string s){
     int longestLength = 1;
     int begIndex = 0;
     int pMatrix[s.length()][s.length()];
+    pMatrix[0][0] = 0;
+
 
     //the length of the substring: 1 ~ 2
     for(int i = 0; i < s.length(); i ++){
+        pMatrix[i][i] = 1;
         if(s[i] == s[i+1] && i < s.length() - 1){
             pMatrix[i][i+1] = 1;
             longestLength = 2;

@@ -123,6 +123,33 @@ Linux_C_ExerciseCode/fast:
 	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/build
 .PHONY : Linux_C_ExerciseCode/fast
 
+execve.o: execve.cpp.o
+
+.PHONY : execve.o
+
+# target to build an object file
+execve.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o
+.PHONY : execve.cpp.o
+
+execve.i: execve.cpp.i
+
+.PHONY : execve.i
+
+# target to preprocess a source file
+execve.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.i
+.PHONY : execve.cpp.i
+
+execve.s: execve.cpp.s
+
+.PHONY : execve.s
+
+# target to generate assembly for a file
+execve.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s
+.PHONY : execve.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -240,6 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Linux_C_ExerciseCode"
+	@echo "... execve.o"
+	@echo "... execve.i"
+	@echo "... execve.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

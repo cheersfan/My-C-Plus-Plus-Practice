@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o  -o Linux_C_ExerciseCode 
+/usr/bin/c++  -g   CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o  -o Linux_C_ExerciseCode 

@@ -16,6 +16,15 @@ CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o: ../4-medianoftwos
 CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o: ../5-LongestPalindromicSubstring.cpp
 CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o: ../5-LongestPalindromicSubstring.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../5-LongestPalindromicSubstring.h
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o: ../6-ZigZagConversion.cpp
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o: ../6-ZigZagConversion.h
+
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o: ../7-ReverseInteger.cpp
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o: ../7-ReverseInteger.h
+
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: ../8-StringToInteger.cpp
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: ../8-StringToInteger.h
+
+CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../8-StringToInteger.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../main.cpp
 
