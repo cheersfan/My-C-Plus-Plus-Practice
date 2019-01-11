@@ -58,10 +58,10 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp" timestamp="1547191772331">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp" timestamp="1547192951873">
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
         <mark key="^" line="25" column="4" />
       </file>
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
@@ -83,7 +83,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
         <mark key="[" line="8" column="18" />
       </file>
-      <file name="/LLDB" timestamp="1546952814902">
+      <file name="/LLDB" timestamp="1547192884733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
@@ -317,10 +317,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">dG9wKCkgPT0gTlVMTCA=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">dG9wKCkgPT0gTlVMTCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -328,32 +328,32 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">c3RyaW5nIHN0ciA9IHN0ZDo6dG9fc3RyaW5nKHgpOwogICAgICAgIGludCBsZW5ndGggPSBzdHIubGVuZ3RoKCk7CgogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBsZW5ndGggLyAyOyBpICsrKXsKICAgICAgICAgICAgaWYoc3RyW2ldICE9IHN0cltsZW5ndGgtMS1pXSl7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIG15X3BhbGluZHJvbWVfbWFpbigpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjb3V0IDw8IDB4MTIzIDw8ZW5kbDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">I2luY2x1ZGUgIjgtU3RyaW5nVG9JbnRlZ2VyLmgiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBhbnM7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGFucyA9ID8gSU5UX01BWCA6IGFuczsKICAgIGFucyA9IGFucyA8IElOVF9NSU4gPyBJTlRfTUlOIDogYW5zOwogICAgCiAgICBjb3V0IDw8IGFuc19zdHIgPDwgZW5kbDsKICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7CiAgICByZXR1cm4gYW5zOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYoYW5zID4gSU5UX01BWCl7CiAgICAgICAgcmV0dXJuIAogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgKHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElOVF9NQVgKICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgKHggPj0gMCA/IGF0b2koYW5zX3N0ci5jX3N0cigpKSA6ICgtYXRvaShhbnNfc3RyLmNfc3RyKCkpKSk7Cg==</text>
       </register>
     </registers>
     <search>
