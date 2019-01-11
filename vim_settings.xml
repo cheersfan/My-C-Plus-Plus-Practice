@@ -58,6 +58,12 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp" timestamp="1547191772331">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+      </file>
       <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
         <mark key="[" line="5" column="0" />
       </file>
@@ -102,7 +108,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h" timestamp="1547120197115">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp" timestamp="1547120205517">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp" timestamp="1547191579093">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -175,6 +181,9 @@
       <file name="/home/myCLionProject/brass.h" timestamp="1544617619868">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h" timestamp="1547191474816">
+        <mark key="[" line="13" column="15" />
+      </file>
       <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
         <mark key="[" line="7" column="18" />
       </file>
@@ -234,7 +243,7 @@
       <file name="/home/myCLionProject/11-16-stonewt.h" timestamp="1544104612020">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp" timestamp="1547120666526">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp" timestamp="1547191453498">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="42" column="8" />
         <mark key="." line="42" column="8" />
@@ -308,10 +317,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RyaW5nIHN0ciA9IHN0ZDo6dG9fc3RyaW5nKHgpOwogICAgICAgIGludCBsZW5ndGggPSBzdHIubGVuZ3RoKCk7CgogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBsZW5ndGggLyAyOyBpICsrKXsKICAgICAgICAgICAgaWYoc3RyW2ldICE9IHN0cltsZW5ndGgtMS1pXSl7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>my_parlindrome_main</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
