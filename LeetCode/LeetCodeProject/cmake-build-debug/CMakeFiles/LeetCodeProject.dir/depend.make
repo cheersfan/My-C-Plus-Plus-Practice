@@ -4,6 +4,9 @@
 CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o: ../1-twosum.cpp
 CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o: ../1-twosum.h
 
+CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o: ../10-RegularExpressionMatching.cpp
+CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o: ../10-RegularExpressionMatching.h
+
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.cpp
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o: ../2-addtwonumbers.h
 
@@ -25,6 +28,9 @@ CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o: ../7-ReverseInteger.h
 CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: ../8-StringToInteger.cpp
 CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o: ../8-StringToInteger.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../8-StringToInteger.h
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o: ../9-PalindromeNumber.cpp
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o: ../9-PalindromeNumber.h
+
+CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../10-RegularExpressionMatching.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o: ../main.cpp
 

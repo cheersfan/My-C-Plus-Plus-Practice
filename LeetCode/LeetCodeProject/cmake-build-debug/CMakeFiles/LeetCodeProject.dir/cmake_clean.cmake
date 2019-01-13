@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o"
   "LeetCodeProject.pdb"
   "LeetCodeProject"
 )

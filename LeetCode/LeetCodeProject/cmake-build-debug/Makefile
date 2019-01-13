@@ -150,6 +150,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.s
 .PHONY : 1-twosum.cpp.s
 
+10-RegularExpressionMatching.o: 10-RegularExpressionMatching.cpp.o
+
+.PHONY : 10-RegularExpressionMatching.o
+
+# target to build an object file
+10-RegularExpressionMatching.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o
+.PHONY : 10-RegularExpressionMatching.cpp.o
+
+10-RegularExpressionMatching.i: 10-RegularExpressionMatching.cpp.i
+
+.PHONY : 10-RegularExpressionMatching.i
+
+# target to preprocess a source file
+10-RegularExpressionMatching.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.i
+.PHONY : 10-RegularExpressionMatching.cpp.i
+
+10-RegularExpressionMatching.s: 10-RegularExpressionMatching.cpp.s
+
+.PHONY : 10-RegularExpressionMatching.s
+
+# target to generate assembly for a file
+10-RegularExpressionMatching.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
+.PHONY : 10-RegularExpressionMatching.cpp.s
+
 2-addtwonumbers.o: 2-addtwonumbers.cpp.o
 
 .PHONY : 2-addtwonumbers.o
@@ -405,6 +432,9 @@ help:
 	@echo "... 1-twosum.o"
 	@echo "... 1-twosum.i"
 	@echo "... 1-twosum.s"
+	@echo "... 10-RegularExpressionMatching.o"
+	@echo "... 10-RegularExpressionMatching.i"
+	@echo "... 10-RegularExpressionMatching.s"
 	@echo "... 2-addtwonumbers.o"
 	@echo "... 2-addtwonumbers.i"
 	@echo "... 2-addtwonumbers.s"
