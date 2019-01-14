@@ -86,6 +86,12 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
@@ -102,6 +108,36 @@
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp">

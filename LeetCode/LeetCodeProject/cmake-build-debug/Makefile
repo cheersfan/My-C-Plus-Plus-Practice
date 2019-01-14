@@ -150,6 +150,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.s
 .PHONY : 1-twosum.cpp.s
 
+10-RegularExpressionMatching.o: 10-RegularExpressionMatching.cpp.o
+
+.PHONY : 10-RegularExpressionMatching.o
+
+# target to build an object file
+10-RegularExpressionMatching.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o
+.PHONY : 10-RegularExpressionMatching.cpp.o
+
+10-RegularExpressionMatching.i: 10-RegularExpressionMatching.cpp.i
+
+.PHONY : 10-RegularExpressionMatching.i
+
+# target to preprocess a source file
+10-RegularExpressionMatching.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.i
+.PHONY : 10-RegularExpressionMatching.cpp.i
+
+10-RegularExpressionMatching.s: 10-RegularExpressionMatching.cpp.s
+
+.PHONY : 10-RegularExpressionMatching.s
+
+# target to generate assembly for a file
+10-RegularExpressionMatching.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
+.PHONY : 10-RegularExpressionMatching.cpp.s
+
 2-addtwonumbers.o: 2-addtwonumbers.cpp.o
 
 .PHONY : 2-addtwonumbers.o
@@ -231,6 +258,141 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.s
 .PHONY : 4-medianoftwosortedarray.cpp.s
 
+5-LongestPalindromicSubstring.o: 5-LongestPalindromicSubstring.cpp.o
+
+.PHONY : 5-LongestPalindromicSubstring.o
+
+# target to build an object file
+5-LongestPalindromicSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o
+.PHONY : 5-LongestPalindromicSubstring.cpp.o
+
+5-LongestPalindromicSubstring.i: 5-LongestPalindromicSubstring.cpp.i
+
+.PHONY : 5-LongestPalindromicSubstring.i
+
+# target to preprocess a source file
+5-LongestPalindromicSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.i
+.PHONY : 5-LongestPalindromicSubstring.cpp.i
+
+5-LongestPalindromicSubstring.s: 5-LongestPalindromicSubstring.cpp.s
+
+.PHONY : 5-LongestPalindromicSubstring.s
+
+# target to generate assembly for a file
+5-LongestPalindromicSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.s
+.PHONY : 5-LongestPalindromicSubstring.cpp.s
+
+6-ZigZagConversion.o: 6-ZigZagConversion.cpp.o
+
+.PHONY : 6-ZigZagConversion.o
+
+# target to build an object file
+6-ZigZagConversion.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o
+.PHONY : 6-ZigZagConversion.cpp.o
+
+6-ZigZagConversion.i: 6-ZigZagConversion.cpp.i
+
+.PHONY : 6-ZigZagConversion.i
+
+# target to preprocess a source file
+6-ZigZagConversion.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.i
+.PHONY : 6-ZigZagConversion.cpp.i
+
+6-ZigZagConversion.s: 6-ZigZagConversion.cpp.s
+
+.PHONY : 6-ZigZagConversion.s
+
+# target to generate assembly for a file
+6-ZigZagConversion.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.s
+.PHONY : 6-ZigZagConversion.cpp.s
+
+7-ReverseInteger.o: 7-ReverseInteger.cpp.o
+
+.PHONY : 7-ReverseInteger.o
+
+# target to build an object file
+7-ReverseInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o
+.PHONY : 7-ReverseInteger.cpp.o
+
+7-ReverseInteger.i: 7-ReverseInteger.cpp.i
+
+.PHONY : 7-ReverseInteger.i
+
+# target to preprocess a source file
+7-ReverseInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.i
+.PHONY : 7-ReverseInteger.cpp.i
+
+7-ReverseInteger.s: 7-ReverseInteger.cpp.s
+
+.PHONY : 7-ReverseInteger.s
+
+# target to generate assembly for a file
+7-ReverseInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.s
+.PHONY : 7-ReverseInteger.cpp.s
+
+8-StringToInteger.o: 8-StringToInteger.cpp.o
+
+.PHONY : 8-StringToInteger.o
+
+# target to build an object file
+8-StringToInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o
+.PHONY : 8-StringToInteger.cpp.o
+
+8-StringToInteger.i: 8-StringToInteger.cpp.i
+
+.PHONY : 8-StringToInteger.i
+
+# target to preprocess a source file
+8-StringToInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.i
+.PHONY : 8-StringToInteger.cpp.i
+
+8-StringToInteger.s: 8-StringToInteger.cpp.s
+
+.PHONY : 8-StringToInteger.s
+
+# target to generate assembly for a file
+8-StringToInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.s
+.PHONY : 8-StringToInteger.cpp.s
+
+9-PalindromeNumber.o: 9-PalindromeNumber.cpp.o
+
+.PHONY : 9-PalindromeNumber.o
+
+# target to build an object file
+9-PalindromeNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o
+.PHONY : 9-PalindromeNumber.cpp.o
+
+9-PalindromeNumber.i: 9-PalindromeNumber.cpp.i
+
+.PHONY : 9-PalindromeNumber.i
+
+# target to preprocess a source file
+9-PalindromeNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.i
+.PHONY : 9-PalindromeNumber.cpp.i
+
+9-PalindromeNumber.s: 9-PalindromeNumber.cpp.s
+
+.PHONY : 9-PalindromeNumber.s
+
+# target to generate assembly for a file
+9-PalindromeNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.s
+.PHONY : 9-PalindromeNumber.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -270,6 +432,9 @@ help:
 	@echo "... 1-twosum.o"
 	@echo "... 1-twosum.i"
 	@echo "... 1-twosum.s"
+	@echo "... 10-RegularExpressionMatching.o"
+	@echo "... 10-RegularExpressionMatching.i"
+	@echo "... 10-RegularExpressionMatching.s"
 	@echo "... 2-addtwonumbers.o"
 	@echo "... 2-addtwonumbers.i"
 	@echo "... 2-addtwonumbers.s"
@@ -279,6 +444,21 @@ help:
 	@echo "... 4-medianoftwosortedarray.o"
 	@echo "... 4-medianoftwosortedarray.i"
 	@echo "... 4-medianoftwosortedarray.s"
+	@echo "... 5-LongestPalindromicSubstring.o"
+	@echo "... 5-LongestPalindromicSubstring.i"
+	@echo "... 5-LongestPalindromicSubstring.s"
+	@echo "... 6-ZigZagConversion.o"
+	@echo "... 6-ZigZagConversion.i"
+	@echo "... 6-ZigZagConversion.s"
+	@echo "... 7-ReverseInteger.o"
+	@echo "... 7-ReverseInteger.i"
+	@echo "... 7-ReverseInteger.s"
+	@echo "... 8-StringToInteger.o"
+	@echo "... 8-StringToInteger.i"
+	@echo "... 8-StringToInteger.s"
+	@echo "... 9-PalindromeNumber.o"
+	@echo "... 9-PalindromeNumber.i"
+	@echo "... 9-PalindromeNumber.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

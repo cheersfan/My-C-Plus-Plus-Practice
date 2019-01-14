@@ -123,6 +123,33 @@ Linux_C_ExerciseCode/fast:
 	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/build
 .PHONY : Linux_C_ExerciseCode/fast
 
+execve.o: execve.cpp.o
+
+.PHONY : execve.o
+
+# target to build an object file
+execve.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o
+.PHONY : execve.cpp.o
+
+execve.i: execve.cpp.i
+
+.PHONY : execve.i
+
+# target to preprocess a source file
+execve.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.i
+.PHONY : execve.cpp.i
+
+execve.s: execve.cpp.s
+
+.PHONY : execve.s
+
+# target to generate assembly for a file
+execve.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s
+.PHONY : execve.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -204,6 +231,33 @@ pipe-dup.cpp.s:
 	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.s
 .PHONY : pipe-dup.cpp.s
 
+read-write.o: read-write.cpp.o
+
+.PHONY : read-write.o
+
+# target to build an object file
+read-write.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o
+.PHONY : read-write.cpp.o
+
+read-write.i: read-write.cpp.i
+
+.PHONY : read-write.i
+
+# target to preprocess a source file
+read-write.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.i
+.PHONY : read-write.cpp.i
+
+read-write.s: read-write.cpp.s
+
+.PHONY : read-write.s
+
+# target to generate assembly for a file
+read-write.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.s
+.PHONY : read-write.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -213,6 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Linux_C_ExerciseCode"
+	@echo "... execve.o"
+	@echo "... execve.i"
+	@echo "... execve.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -222,6 +279,9 @@ help:
 	@echo "... pipe-dup.o"
 	@echo "... pipe-dup.i"
 	@echo "... pipe-dup.s"
+	@echo "... read-write.o"
+	@echo "... read-write.i"
+	@echo "... read-write.s"
 .PHONY : help
 
 

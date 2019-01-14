@@ -96,11 +96,39 @@ CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.s
 
+CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o: CMakeFiles/Linux_C_ExerciseCode.dir/flags.make
+CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o: ../read-write.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp
+
+CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp > CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.i
+
+CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.s
+
+CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o: CMakeFiles/Linux_C_ExerciseCode.dir/flags.make
+CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o: ../execve.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp
+
+CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp > CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.i
+
+CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s
+
 # Object files for target Linux_C_ExerciseCode
 Linux_C_ExerciseCode_OBJECTS = \
 "CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" \
 "CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o" \
-"CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o"
+"CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o" \
+"CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o" \
+"CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o"
 
 # External object files for target Linux_C_ExerciseCode
 Linux_C_ExerciseCode_EXTERNAL_OBJECTS =
@@ -108,9 +136,11 @@ Linux_C_ExerciseCode_EXTERNAL_OBJECTS =
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o
+Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o
+Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/build.make
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Linux_C_ExerciseCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Linux_C_ExerciseCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Linux_C_ExerciseCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

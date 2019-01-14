@@ -12,18 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb3827f-c6a6-4cb0-ba60-ba5191efa113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3-longestsubstring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-longestsubstring.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-medianoftwosortedarray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-medianoftwosortedarray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-RegularExpressionMatching.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-RegularExpressionMatching.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/47" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-addtwonumbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2-addtwonumbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-addtwonumbers.h" beforeDir="false" afterPath="$PROJECT_DIR$/2-addtwonumbers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-PalindromeNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/9-PalindromeNumber.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" afterDir="false" />
@@ -39,8 +35,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problems1~5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Problems1~5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/Linux-C-ExerciseCode/README.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_linux/laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codestyles/Default.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,38 +66,41 @@
     <session id="1245152669">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cc" value="1" />
-          <entry key="cpp" value="5" />
-          <entry key="h" value="5" />
+          <entry key="cpp" value="19" />
+          <entry key="h" value="14" />
           <entry key="tcc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ObjectiveC" value="12" />
+          <entry key="ObjectiveC" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="7964" />
-          <entry key="h" value="704" />
+          <entry key="cpp" value="15317" />
+          <entry key="h" value="1114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="8668" />
+          <entry key="ObjectiveC" value="16431" />
         </counts>
       </usages-collector>
     </session>
@@ -110,15 +111,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -126,20 +122,77 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.h">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="1173">
+              <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+              <folding>
+                <element signature="e#38#79#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-StringToInteger.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-ReverseInteger.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-ReverseInteger.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="65" column="19" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="73" selection-end-column="15" />
+            <state relative-caret-position="1479">
+              <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-StringToInteger.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-PalindromeNumber.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -159,8 +212,22 @@
         <option value="$PROJECT_DIR$/3-longestsubstring.h" />
         <option value="$PROJECT_DIR$/3-longestsubstring.cpp" />
         <option value="$PROJECT_DIR$/4-medianoftwosortedarray.h" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/4-medianoftwosortedarray.cpp" />
+        <option value="$PROJECT_DIR$/5-LongestPalindromicSubstring.h" />
+        <option value="$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp" />
+        <option value="$PROJECT_DIR$/6-ZigZagConversion.h" />
+        <option value="$PROJECT_DIR$/6-ZigZagConversion.cpp" />
+        <option value="$PROJECT_DIR$/6-ReverseInteger.h" />
+        <option value="$PROJECT_DIR$/6-ReverseInteger.cpp" />
+        <option value="$PROJECT_DIR$/7-ReverseInteger.h" />
+        <option value="$PROJECT_DIR$/7-ReverseInteger.cpp" />
+        <option value="$PROJECT_DIR$/8-StringToInteger.h" />
+        <option value="$PROJECT_DIR$/8-StringToInteger.cpp" />
+        <option value="$PROJECT_DIR$/9-PalindromeNumber.h" />
+        <option value="$PROJECT_DIR$/9-PalindromeNumber.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/10-RegularExpressionMatching.h" />
+        <option value="$PROJECT_DIR$/10-RegularExpressionMatching.cpp" />
       </list>
     </option>
   </component>
@@ -170,10 +237,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="28" />
-    <option name="width" value="950" />
-    <option name="height" value="763" />
+    <option name="width" value="1920" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +271,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -251,11 +318,17 @@
       <workItem from="1546504314303" duration="8000" />
       <workItem from="1546585414222" duration="12950000" />
       <workItem from="1546611011283" duration="17730000" />
+      <workItem from="1546838580199" duration="68000" />
+      <workItem from="1546862226851" duration="12791000" />
+      <workItem from="1546936345306" duration="9220000" />
+      <workItem from="1546952679296" duration="5506000" />
+      <workItem from="1547082783349" duration="12000" />
+      <workItem from="1547119438724" duration="9293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39234000" />
+    <option name="totallyTimeSpent" value="76124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,23 +340,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.08440171" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.13301282" />
       <window_info id="Structure" order="1" sideWeight="0.5008518" side_tool="true" weight="0.083333336" />
       <window_info id="Favorites" order="2" sideWeight="0.5008518" side_tool="true" weight="0.083333336" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.30593607" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.39954337" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.2522831" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.24657534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32990867" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" sideWeight="0.49786323" visible="true" weight="0.3219178" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49786323" weight="0.22945206" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32990867" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.32990867" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.2888128" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.33105022" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32990867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,6 +378,21 @@
           <line>48</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/10-RegularExpressionMatching.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/10-RegularExpressionMatching.cpp</url>
+          <line>90</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -322,9 +410,6 @@
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file:///usr/include/c++/4.8.2/bits/basic_string.tcc">
       <provider selected="true" editor-type-id="text-editor">
@@ -344,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="e#128#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -354,9 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="e#37#68#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -364,9 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-          <folding>
-            <element signature="e#39#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,33 +457,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2210">
           <caret line="145" column="2" selection-start-line="145" selection-start-column="2" selection-end-line="145" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/src/debug/gcc-4.8.5-20150702/obj-x86_64-redhat-linux/x86_64-redhat-linux/libstdc++-v3/include/ext/atomicity.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-ZigZagConversion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-LongestPalindromicSubstring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-ZigZagConversion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-StringToInteger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-ReverseInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-PalindromeNumber.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-StringToInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-PalindromeNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
-            <element signature="e#37#65#0" expanded="true" />
+            <element signature="e#37#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.h">
+    <entry file="file://$PROJECT_DIR$/7-ReverseInteger.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.cpp">
+    <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="65" column="19" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="73" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+          <folding>
+            <element signature="e#38#79#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

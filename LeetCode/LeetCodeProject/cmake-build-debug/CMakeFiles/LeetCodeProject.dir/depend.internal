@@ -4,6 +4,9 @@
 CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.o
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h
+CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.o
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.h
@@ -13,6 +16,21 @@ CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.o
 CMakeFiles/LeetCodeProject.dir/4-medianoftwosortedarray.cpp.o
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h
+CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h
+CMakeFiles/LeetCodeProject.dir/6-ZigZagConversion.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.h
+CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.h
+CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.h
+CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.o
- /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h
+ /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h
  /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp

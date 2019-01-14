@@ -4,9 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o"
   "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o"
+  "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp" "/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

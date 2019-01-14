@@ -11,4 +11,5 @@ using namespace std;
 
 void my_median_main();
 double medianOfTwoSortedArrays_main(vector<int>& array_a, vector<int>& array_b);
+double medianOfTwoSortedArrays_main2(vector<int>& array_a, vector<int>& array_b);
 #endif //LEETCODEPROJECT_4_MEDIANOFTWOSORTEDARRAY_H
