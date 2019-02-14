@@ -297,11 +297,10 @@
       <file name="/Dummy.txt" timestamp="1546761289287">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp" timestamp="1550111906556">
-        <mark key="[" line="55" column="16" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="0" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp" timestamp="1550112504837">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="/home/myCLionProject/11-16-stonewt.h" timestamp="1544104612020">
         <mark key="[" line="6" column="0" />
@@ -344,10 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>ans</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ans</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
