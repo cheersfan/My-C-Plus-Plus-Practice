@@ -1284,6 +1284,33 @@ myCLionProject/fast:
 	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/9-10-newplace.cpp.s
 .PHONY : 9-10-newplace.cpp.s
 
+Homework/chapter9.o: Homework/chapter9.cpp.o
+
+.PHONY : Homework/chapter9.o
+
+# target to build an object file
+Homework/chapter9.cpp.o:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.o
+.PHONY : Homework/chapter9.cpp.o
+
+Homework/chapter9.i: Homework/chapter9.cpp.i
+
+.PHONY : Homework/chapter9.i
+
+# target to preprocess a source file
+Homework/chapter9.cpp.i:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.i
+.PHONY : Homework/chapter9.cpp.i
+
+Homework/chapter9.s: Homework/chapter9.cpp.s
+
+.PHONY : Homework/chapter9.s
+
+# target to generate assembly for a file
+Homework/chapter9.cpp.s:
+	$(MAKE) -f CMakeFiles/myCLionProject.dir/build.make CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.s
+.PHONY : Homework/chapter9.cpp.s
+
 SIGINT_Test.o: SIGINT_Test.cpp.o
 
 .PHONY : SIGINT_Test.o
@@ -1611,6 +1638,9 @@ help:
 	@echo "... 9-10-newplace.o"
 	@echo "... 9-10-newplace.i"
 	@echo "... 9-10-newplace.s"
+	@echo "... Homework/chapter9.o"
+	@echo "... Homework/chapter9.i"
+	@echo "... Homework/chapter9.s"
 	@echo "... SIGINT_Test.o"
 	@echo "... SIGINT_Test.i"
 	@echo "... SIGINT_Test.s"

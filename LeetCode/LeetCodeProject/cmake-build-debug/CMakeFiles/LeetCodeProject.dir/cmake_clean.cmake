@@ -10,6 +10,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o"
   "CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o"
+  "CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o"
   "LeetCodeProject.pdb"
   "LeetCodeProject"
 )

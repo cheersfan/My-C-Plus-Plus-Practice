@@ -177,6 +177,141 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
 .PHONY : 10-RegularExpressionMatching.cpp.s
 
+11-ContainerMostWater.o: 11-ContainerMostWater.cpp.o
+
+.PHONY : 11-ContainerMostWater.o
+
+# target to build an object file
+11-ContainerMostWater.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o
+.PHONY : 11-ContainerMostWater.cpp.o
+
+11-ContainerMostWater.i: 11-ContainerMostWater.cpp.i
+
+.PHONY : 11-ContainerMostWater.i
+
+# target to preprocess a source file
+11-ContainerMostWater.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.i
+.PHONY : 11-ContainerMostWater.cpp.i
+
+11-ContainerMostWater.s: 11-ContainerMostWater.cpp.s
+
+.PHONY : 11-ContainerMostWater.s
+
+# target to generate assembly for a file
+11-ContainerMostWater.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.s
+.PHONY : 11-ContainerMostWater.cpp.s
+
+12-IntegerToRoma.o: 12-IntegerToRoma.cpp.o
+
+.PHONY : 12-IntegerToRoma.o
+
+# target to build an object file
+12-IntegerToRoma.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o
+.PHONY : 12-IntegerToRoma.cpp.o
+
+12-IntegerToRoma.i: 12-IntegerToRoma.cpp.i
+
+.PHONY : 12-IntegerToRoma.i
+
+# target to preprocess a source file
+12-IntegerToRoma.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.i
+.PHONY : 12-IntegerToRoma.cpp.i
+
+12-IntegerToRoma.s: 12-IntegerToRoma.cpp.s
+
+.PHONY : 12-IntegerToRoma.s
+
+# target to generate assembly for a file
+12-IntegerToRoma.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.s
+.PHONY : 12-IntegerToRoma.cpp.s
+
+13-RomaToInteger.o: 13-RomaToInteger.cpp.o
+
+.PHONY : 13-RomaToInteger.o
+
+# target to build an object file
+13-RomaToInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o
+.PHONY : 13-RomaToInteger.cpp.o
+
+13-RomaToInteger.i: 13-RomaToInteger.cpp.i
+
+.PHONY : 13-RomaToInteger.i
+
+# target to preprocess a source file
+13-RomaToInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.i
+.PHONY : 13-RomaToInteger.cpp.i
+
+13-RomaToInteger.s: 13-RomaToInteger.cpp.s
+
+.PHONY : 13-RomaToInteger.s
+
+# target to generate assembly for a file
+13-RomaToInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.s
+.PHONY : 13-RomaToInteger.cpp.s
+
+14-LongestCommPrefix.o: 14-LongestCommPrefix.cpp.o
+
+.PHONY : 14-LongestCommPrefix.o
+
+# target to build an object file
+14-LongestCommPrefix.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o
+.PHONY : 14-LongestCommPrefix.cpp.o
+
+14-LongestCommPrefix.i: 14-LongestCommPrefix.cpp.i
+
+.PHONY : 14-LongestCommPrefix.i
+
+# target to preprocess a source file
+14-LongestCommPrefix.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.i
+.PHONY : 14-LongestCommPrefix.cpp.i
+
+14-LongestCommPrefix.s: 14-LongestCommPrefix.cpp.s
+
+.PHONY : 14-LongestCommPrefix.s
+
+# target to generate assembly for a file
+14-LongestCommPrefix.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.s
+.PHONY : 14-LongestCommPrefix.cpp.s
+
+15-3Sum.o: 15-3Sum.cpp.o
+
+.PHONY : 15-3Sum.o
+
+# target to build an object file
+15-3Sum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o
+.PHONY : 15-3Sum.cpp.o
+
+15-3Sum.i: 15-3Sum.cpp.i
+
+.PHONY : 15-3Sum.i
+
+# target to preprocess a source file
+15-3Sum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.i
+.PHONY : 15-3Sum.cpp.i
+
+15-3Sum.s: 15-3Sum.cpp.s
+
+.PHONY : 15-3Sum.s
+
+# target to generate assembly for a file
+15-3Sum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCodeProject.dir/build.make CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.s
+.PHONY : 15-3Sum.cpp.s
+
 2-addtwonumbers.o: 2-addtwonumbers.cpp.o
 
 .PHONY : 2-addtwonumbers.o
@@ -435,6 +570,21 @@ help:
 	@echo "... 10-RegularExpressionMatching.o"
 	@echo "... 10-RegularExpressionMatching.i"
 	@echo "... 10-RegularExpressionMatching.s"
+	@echo "... 11-ContainerMostWater.o"
+	@echo "... 11-ContainerMostWater.i"
+	@echo "... 11-ContainerMostWater.s"
+	@echo "... 12-IntegerToRoma.o"
+	@echo "... 12-IntegerToRoma.i"
+	@echo "... 12-IntegerToRoma.s"
+	@echo "... 13-RomaToInteger.o"
+	@echo "... 13-RomaToInteger.i"
+	@echo "... 13-RomaToInteger.s"
+	@echo "... 14-LongestCommPrefix.o"
+	@echo "... 14-LongestCommPrefix.i"
+	@echo "... 14-LongestCommPrefix.s"
+	@echo "... 15-3Sum.o"
+	@echo "... 15-3Sum.i"
+	@echo "... 15-3Sum.s"
 	@echo "... 2-addtwonumbers.o"
 	@echo "... 2-addtwonumbers.i"
 	@echo "... 2-addtwonumbers.s"

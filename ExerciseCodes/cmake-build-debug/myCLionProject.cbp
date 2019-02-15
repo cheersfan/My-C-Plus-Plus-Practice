@@ -338,6 +338,12 @@
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/9-10-newplace.h">
 			<Option target="myCLionProject"/>
 		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.cpp">
+			<Option target="myCLionProject"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h">
+			<Option target="myCLionProject"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/SIGINT_Test.cpp">
 			<Option target="myCLionProject"/>
 		</Unit>
