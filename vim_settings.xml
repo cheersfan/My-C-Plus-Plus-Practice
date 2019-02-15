@@ -47,7 +47,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp" timestamp="1547117586626">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1550138743237">
+      <file name="/LLDB" timestamp="1550217590510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h" timestamp="1550213653707">
@@ -131,7 +131,11 @@
       <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp" timestamp="1550213858508" />
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp" timestamp="1550217876573">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+      </file>
       <file name="/home/myCLionProject/11-15-randwalk.h" timestamp="1544098680205">
         <mark key="[" line="6" column="0" />
       </file>
@@ -262,7 +266,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h" timestamp="1546870101577">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp" timestamp="1550216965665">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp" timestamp="1550218062253">
         <mark key="[" line="12" column="0" />
       </file>
     </filemarks>
@@ -274,11 +278,11 @@
       <jump line="27" column="24" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXQgPDwgImVsc2UiPDwgZW5kbDsK</text>
+      <register name="&quot;" type="4">
+        <text>console</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
