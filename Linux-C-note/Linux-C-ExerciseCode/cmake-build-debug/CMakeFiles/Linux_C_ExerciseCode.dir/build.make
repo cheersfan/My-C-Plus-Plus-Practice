@@ -122,13 +122,55 @@ CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.s
 
+CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o: CMakeFiles/Linux_C_ExerciseCode.dir/flags.make
+CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o: ../signal-test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp
+
+CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp > CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.i
+
+CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.s
+
+CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o: CMakeFiles/Linux_C_ExerciseCode.dir/flags.make
+CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o: ../create-process-test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp
+
+CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp > CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.i
+
+CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.s
+
+CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o: CMakeFiles/Linux_C_ExerciseCode.dir/flags.make
+CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o: ../asy-clean-child-process.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp
+
+CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp > CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.i
+
+CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp -o CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.s
+
 # Object files for target Linux_C_ExerciseCode
 Linux_C_ExerciseCode_OBJECTS = \
 "CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" \
 "CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp.o" \
 "CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o" \
 "CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o" \
-"CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o"
+"CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o" \
+"CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o" \
+"CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o" \
+"CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o"
 
 # External object files for target Linux_C_ExerciseCode
 Linux_C_ExerciseCode_EXTERNAL_OBJECTS =
@@ -138,9 +180,12 @@ Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/pipe-communication.cpp
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/pipe-dup.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/execve.cpp.o
+Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o
+Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o
+Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/build.make
 Linux_C_ExerciseCode: CMakeFiles/Linux_C_ExerciseCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Linux_C_ExerciseCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Linux_C_ExerciseCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Linux_C_ExerciseCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

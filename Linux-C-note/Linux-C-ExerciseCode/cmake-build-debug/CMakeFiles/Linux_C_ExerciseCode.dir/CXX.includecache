@@ -6,35 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp
-execve.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp
+asy-clean-child-process.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h
+signal.h
+-
+string.h
+-
+sys/types.h
+-
+sys/wait.h
+-
 unistd.h
 -
+iostream
+-
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h
 
 /home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp
 iostream
 -
-execve.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.h
+asy-clean-child-process.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp
-read-write.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp
+signal.h
+-
+string.h
+-
 sys/types.h
--
-sys/stat.h
--
-fcntl.h
 -
 unistd.h
 -
-stdio.h
+iostream
 -
-cstring
--
+signal-test.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h
 
