@@ -12,43 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d40484b8-2a4c-4c1e-805d-442059b2a190" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/6-ZigZagConversion.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/7-ReverseInteger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/7-ReverseInteger.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/8-StringToInteger.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/8-StringToInteger.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/9-PalindromeNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/9-PalindromeNumber.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/execve.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/execve.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/.ipynb_checkpoints/Problems1~5-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/.ipynb_checkpoints/Problems1~5-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/5-LongestPalindromicSubstring.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode/Problems1~5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/Problems1~5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asy-clean-child-process.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asy-clean-child-process.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-process-test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-process-test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal-test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal-test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/11-ContainerMostWater..cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/LeetCodeProject/11-ContainerMostWater..h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/Problems11～15.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/Problems11～15.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/build.make" afterDir="false" />
@@ -58,16 +33,21 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/cello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/cello-1.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/cello-1.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/cello-1.0/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPM-ExerciseCode/cello-1.0/cello.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../进程间的通信.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../进程间的通信.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../_linux/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../codestyles/Default.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,18 +68,21 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Makefile" value="2" />
           <entry key="S" value="1" />
-          <entry key="c" value="6" />
+          <entry key="c" value="7" />
           <entry key="cbp" value="2" />
           <entry key="cmake" value="1" />
-          <entry key="cpp" value="6" />
-          <entry key="h" value="20" />
+          <entry key="cpp" value="12" />
+          <entry key="h" value="24" />
           <entry key="ipynb" value="1" />
           <entry key="txt" value="2" />
         </counts>
@@ -109,22 +92,22 @@
           <entry key="Assembly file" value="1" />
           <entry key="CMakeCache.txt" value="2" />
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="32" />
+          <entry key="ObjectiveC" value="43" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="725" />
-          <entry key="cpp" value="2209" />
-          <entry key="h" value="705" />
+          <entry key="cpp" value="4527" />
+          <entry key="h" value="850" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="19" />
-          <entry key="ObjectiveC" value="3639" />
+          <entry key="ObjectiveC" value="6102" />
         </counts>
       </usages-collector>
     </session>
@@ -134,20 +117,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
+        <entry file="file://$PROJECT_DIR$/create-process-test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#38#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pipe-communication.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signal-test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#37#58#0" expanded="true" />
+                <element signature="e#37#56#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asy-clean-child-process.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="e#38#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asy-clean-child-process.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create-process-test.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signal-test.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -162,48 +205,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/read-write.cpp">
+        <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
-              <folding>
-                <element signature="e#37#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/execve.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#38#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/execve.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake-build-debug/Linux_C_ExerciseCode.cbp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/read-write.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="374">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -232,6 +237,12 @@
         <option value="$PROJECT_DIR$/read-write.cpp" />
         <option value="$PROJECT_DIR$/execve.h" />
         <option value="$PROJECT_DIR$/execve.cpp" />
+        <option value="$PROJECT_DIR$/signal-test.h" />
+        <option value="$PROJECT_DIR$/create-process-test.h" />
+        <option value="$PROJECT_DIR$/create-process-test.cpp" />
+        <option value="$PROJECT_DIR$/signal-test.cpp" />
+        <option value="$PROJECT_DIR$/asy-clean-child-process.h" />
+        <option value="$PROJECT_DIR$/asy-clean-child-process.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -242,12 +253,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="960" />
     <option name="y" value="28" />
-    <option name="width" value="920" />
-    <option name="height" value="784" />
+    <option name="width" value="950" />
+    <option name="height" value="1018" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -327,31 +342,43 @@
       <workItem from="1547082798880" duration="2314000" />
       <workItem from="1547111103950" duration="1409000" />
       <workItem from="1547119417223" duration="19000" />
+      <workItem from="1550213518820" duration="6980000" />
+      <workItem from="1550283640137" duration="359000" />
+      <workItem from="1550663553707" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17809000" />
+    <option name="totallyTimeSpent" value="25746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21153846" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13301282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893162" weight="0.32990867" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4866453" weight="0.32990867" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49786323" weight="0.39954337" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4861111" weight="0.32990867" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49786323" visible="true" weight="0.39954337" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32990867" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.48076922" weight="0.32990867" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5133547" side_tool="true" visible="true" weight="0.3321918" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.48023504" weight="0.32990867" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32990867" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5138889" side_tool="true" weight="0.32990867" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989035" weight="0.32990867" />
       <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49946582" weight="0.32990867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,6 +388,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_DETAILS" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -410,13 +440,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.ipynb" />
-    <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/sys/stat.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1938" />
@@ -450,51 +473,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-communication.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="e#37#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipe-dup.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/read-write.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
-          <folding>
-            <element signature="e#37#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/execve.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -508,12 +490,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/execve.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/execve.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-dup.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/src/debug/glibc-2.17-c758a686/csu/libc-start.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create-process-test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="e#38#57#0" expanded="true" />
+            <element signature="e#38#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-communication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signal-test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asy-clean-child-process.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create-process-test.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signal-test.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-dup.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipe-communication.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asy-clean-child-process.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#38#74#0" expanded="true" />
           </folding>
         </state>
       </provider>

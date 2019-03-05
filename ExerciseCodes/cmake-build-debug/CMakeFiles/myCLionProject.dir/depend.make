@@ -146,6 +146,9 @@ CMakeFiles/myCLionProject.dir/8-11-funtemp.cpp.o: ../8-11-funtemp.h
 CMakeFiles/myCLionProject.dir/9-10-newplace.cpp.o: ../9-10-newplace.cpp
 CMakeFiles/myCLionProject.dir/9-10-newplace.cpp.o: ../9-10-newplace.h
 
+CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.o: ../Homework/chapter9.cpp
+CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.o: ../Homework/chapter9.h
+
 CMakeFiles/myCLionProject.dir/SIGINT_Test.cpp.o: ../SIGINT_Test.cpp
 
 CMakeFiles/myCLionProject.dir/TestCin.cpp.o: ../TestCin.cpp
@@ -156,8 +159,8 @@ CMakeFiles/myCLionProject.dir/acctabc.cpp.o: ../acctabc.h
 
 CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o: ../getopt-function-test.cpp
 
+CMakeFiles/myCLionProject.dir/main.cpp.o: ../Homework/chapter9.h
 CMakeFiles/myCLionProject.dir/main.cpp.o: ../main.cpp
-CMakeFiles/myCLionProject.dir/main.cpp.o: ../signal-function-test.h
 
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.cpp
 CMakeFiles/myCLionProject.dir/readFile.cpp.o: ../readFile.h

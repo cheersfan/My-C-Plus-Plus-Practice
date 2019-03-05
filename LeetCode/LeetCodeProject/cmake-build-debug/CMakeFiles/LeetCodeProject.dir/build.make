@@ -200,6 +200,71 @@ CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp -o CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
 
+CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o: ../11-ContainerMostWater.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp
+
+CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp > CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp -o CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o: ../12-IntegerToRoma.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp
+
+CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp > CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp -o CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o: ../13-RomaToInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.cpp
+
+CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.cpp > CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.cpp -o CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o: ../14-LongestCommPrefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp
+
+CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp > CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp -o CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o: ../15-3Sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o -c /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp
+
+CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp > CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp -o CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.s
+
 # Object files for target LeetCodeProject
 LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/main.cpp.o" \
@@ -212,7 +277,12 @@ LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o" \
 "CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o" \
 "CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o" \
-"CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o"
+"CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o" \
+"CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o"
 
 # External object files for target LeetCodeProject
 LeetCodeProject_EXTERNAL_OBJECTS =
@@ -228,9 +298,14 @@ LeetCodeProject: CMakeFiles/LeetCodeProject.dir/7-ReverseInteger.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.o
+LeetCodeProject: CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.o
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/build.make
 LeetCodeProject: CMakeFiles/LeetCodeProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable LeetCodeProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable LeetCodeProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCodeProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

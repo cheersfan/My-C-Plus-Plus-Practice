@@ -123,6 +123,60 @@ Linux_C_ExerciseCode/fast:
 	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/build
 .PHONY : Linux_C_ExerciseCode/fast
 
+asy-clean-child-process.o: asy-clean-child-process.cpp.o
+
+.PHONY : asy-clean-child-process.o
+
+# target to build an object file
+asy-clean-child-process.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.o
+.PHONY : asy-clean-child-process.cpp.o
+
+asy-clean-child-process.i: asy-clean-child-process.cpp.i
+
+.PHONY : asy-clean-child-process.i
+
+# target to preprocess a source file
+asy-clean-child-process.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.i
+.PHONY : asy-clean-child-process.cpp.i
+
+asy-clean-child-process.s: asy-clean-child-process.cpp.s
+
+.PHONY : asy-clean-child-process.s
+
+# target to generate assembly for a file
+asy-clean-child-process.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/asy-clean-child-process.cpp.s
+.PHONY : asy-clean-child-process.cpp.s
+
+create-process-test.o: create-process-test.cpp.o
+
+.PHONY : create-process-test.o
+
+# target to build an object file
+create-process-test.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.o
+.PHONY : create-process-test.cpp.o
+
+create-process-test.i: create-process-test.cpp.i
+
+.PHONY : create-process-test.i
+
+# target to preprocess a source file
+create-process-test.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.i
+.PHONY : create-process-test.cpp.i
+
+create-process-test.s: create-process-test.cpp.s
+
+.PHONY : create-process-test.s
+
+# target to generate assembly for a file
+create-process-test.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/create-process-test.cpp.s
+.PHONY : create-process-test.cpp.s
+
 execve.o: execve.cpp.o
 
 .PHONY : execve.o
@@ -258,6 +312,33 @@ read-write.cpp.s:
 	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/read-write.cpp.s
 .PHONY : read-write.cpp.s
 
+signal-test.o: signal-test.cpp.o
+
+.PHONY : signal-test.o
+
+# target to build an object file
+signal-test.cpp.o:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.o
+.PHONY : signal-test.cpp.o
+
+signal-test.i: signal-test.cpp.i
+
+.PHONY : signal-test.i
+
+# target to preprocess a source file
+signal-test.cpp.i:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.i
+.PHONY : signal-test.cpp.i
+
+signal-test.s: signal-test.cpp.s
+
+.PHONY : signal-test.s
+
+# target to generate assembly for a file
+signal-test.cpp.s:
+	$(MAKE) -f CMakeFiles/Linux_C_ExerciseCode.dir/build.make CMakeFiles/Linux_C_ExerciseCode.dir/signal-test.cpp.s
+.PHONY : signal-test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -267,6 +348,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Linux_C_ExerciseCode"
+	@echo "... asy-clean-child-process.o"
+	@echo "... asy-clean-child-process.i"
+	@echo "... asy-clean-child-process.s"
+	@echo "... create-process-test.o"
+	@echo "... create-process-test.i"
+	@echo "... create-process-test.s"
 	@echo "... execve.o"
 	@echo "... execve.i"
 	@echo "... execve.s"
@@ -282,6 +369,9 @@ help:
 	@echo "... read-write.o"
 	@echo "... read-write.i"
 	@echo "... read-write.s"
+	@echo "... signal-test.o"
+	@echo "... signal-test.i"
+	@echo "... signal-test.s"
 .PHONY : help
 
 

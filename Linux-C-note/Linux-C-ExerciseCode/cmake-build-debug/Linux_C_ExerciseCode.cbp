@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.h">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
@@ -105,6 +117,12 @@
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp">
+			<Option target="Linux_C_ExerciseCode"/>
+		</Unit>
+		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
 		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt">
