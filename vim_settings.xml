@@ -27,7 +27,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.h" timestamp="1546505311049">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.h" timestamp="1550151909435">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.h" timestamp="1551100530440">
         <mark key="[" line="14" column="44" />
       </file>
       <file name="/home/myCLionProject/string1.h" timestamp="1544336088398">
@@ -88,6 +88,7 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/16-3ClosestSum.cpp" timestamp="1551103636612" />
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.h" timestamp="1549880186812">
         <mark key="[" line="11" column="0" />
       </file>
@@ -123,6 +124,11 @@
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/SchedulerProcess.cpp" timestamp="1548334196270">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/16-3ClosestSum.h" timestamp="1551102944043">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" timestamp="1545725221389">
         <mark key="[" line="6" column="4" />
@@ -226,7 +232,7 @@
       <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545701679311">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp" timestamp="1550197222756">
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp" timestamp="1551100617104">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="^" line="59" column="39" />
@@ -293,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSBpOwogICAgICAgICAgICAgICAgYiA9IGo7CiAgICAgICAgICAgICAgICBjID0gazs=</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>return ans;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2luZ1w+</text>
@@ -304,34 +310,32 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXQgPDwgImVsc2UiPDwgZW5kbDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSBpOwogICAgICAgICAgICAgICAgYiA9IGo7CiAgICAgICAgICAgICAgICBjID0gazs=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChqKzEgPCBrICYmIG51bXNbal0gPT0gbnVtc1tqKzFdKXsKICAgICAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgIGludCBkaXMgPSAwOwogICAgZm9yKGludCBpID0gMDsgaSA8IG51bXMuc2l6ZSgpLTI7IGkgKyspewogICAgICAgIGludCBqID0gaSsxOwogICAgICAgIGludCBrID0gbnVtcy5zaXplKCktMTsKICAgICAgICBkaXMgPSBhYnMobnVtc1tpXSArIG51bXNbal0gKyBudW1zW2tdIC0gdGFyZ2V0KTsKCiAgICAgICAgaisrOwogICAgICAgIHdoaWxlIChqIDwgayl7CiAgICAgICAgICAgIGludCB0c3VtID0gYWJzKG51bXNbaV0gKyBudW1zW2pdICsgbnVtc1trXSAtIHRhcmdldCk7CiAgICAgICAgICAgIGRpcyA9IHRkaXMgPCBkaXMgPyB0ZGlzIDogZGlzOwogICAgICAgICAgICBpZihkaXMgPT0gMCl7CiAgICAgICAgICAgICAgICByZXR1cm4gCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL251bXNbaV0gPT0gbnVtc1tqXQogICAgICAgICAgICAgICAgICAgIGlmKG51bXNbaV0gPT0gbnVtc1tqXSl7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhID0gbnVtc1tpXTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgd2hpbGUgKGsgPCBudW1zLnNpemUoKSAmJiAobnVtc1trXSA9PSBudW1zW2pdIHx8IG51bXNba10gPT0gbnVtc1tpXSkpewovLyAgICAgICAgICAgICAgICAgICAgaysrOwovLyAgICAgICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGludCBhLGIsYzsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25vdCBudW1zW2ldIGFuZCBudW1zW2pdCiAgICAgICAgICAgICAgICAgICAgdGVtcC5wb3BfYmFjaygpOwogICAgICAgICAgICAgICAgICAgIHRlbXAucG9wX2JhY2soKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcy5wcmludHZlY3Mocy50aHJlZVN1bTIodmVjKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrKys7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgcHJpbnR2ZWNzKHZlY3Rvcjx2ZWN0b3I8aW50Pj4gdmVjcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrKys7Cg==</text>
+        <text encoding="base64">ICAgIHZlY3Rvcjx2ZWN0b3I8aW50Pj4gdGhyZWVTdW0yKHZlY3RvcjxpbnQ+ICYgbnVtcyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>temp.push_back(nums[k]);
-                        ans.push_back(temp);
-                        break;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXQgPDwgImVsc2UiPDwgZW5kbDsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobnVtc1tpXSA9PSBudW1zW2pdKXsKICAgICAgICAgICAgICAgIHdoaWxlIChrIDwgbnVtcy5zaXplKCkpewogICAgICAgICAgICAgICAgICAgIGlmKG51bXNba10gPT0gLXR3b3N1bSl7CiAgICAgICAgICAgICAgICAgICAgICAgIHRlbXAucHVzaF9iYWNrKG51bXNba10pOwogICAgICAgICAgICAgICAgICAgICAgICBhbnMucHVzaF9iYWNrKHRlbXApOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaysrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChqKzEgPCBrICYmIG51bXNbal0gPT0gbnVtc1tqKzFdKXsKICAgICAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgICAgICB9</text>
       </register>
     </registers>
     <search>
