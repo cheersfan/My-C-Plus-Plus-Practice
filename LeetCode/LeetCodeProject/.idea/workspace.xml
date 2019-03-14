@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="LeetCodeProject" targetName="LeetCodeProject" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb3827f-c6a6-4cb0-ba60-ba5191efa113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/13-RomaToInteger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-RomaToInteger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-LongestCommPrefix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-LongestCommPrefix.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.ipynb_checkpoints/chapter13-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.ipynb_checkpoints/chapter13-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/myCLionProject.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/cmake-build-debug/myCLionProject.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciseCodes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciseCodes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Problems6~10-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Problems6~10-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Regular-Expression-Match.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Regular-Expression-Match.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-RegularExpressionMatching.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/10-RegularExpressionMatching.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-RegularExpressionMatching.h" beforeDir="false" afterPath="$PROJECT_DIR$/10-RegularExpressionMatching.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-ContainerMostWater..cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-ContainerMostWater..h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-IntegerToRoma.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/12-IntegerToRoma.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-IntegerToRoma.h" beforeDir="false" afterPath="$PROJECT_DIR$/12-IntegerToRoma.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCodeProject.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problems6~10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Problems6~10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/Linux系统编程-Note.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linux-C-note/Linux系统编程-Note.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/cello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/cello-1.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/cello-1.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/cello-1.0/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/RPM-ExerciseCode/cello-1.0/cello.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Linux-C-note/初学RPM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Linux-C-note/初学RPM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReadMesosCode/mesos1.8.0-make-0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter13.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter13.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter16.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapter16.ipynb" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1245152669">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="cbp" value="1" />
+          <entry key="cc" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="33" />
+          <entry key="h" value="25" />
+          <entry key="tcc" value="1" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeCache.txt" value="1" />
+          <entry key="CMakeLists.txt" value="3" />
+          <entry key="ObjectiveC" value="60" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="19812" />
+          <entry key="h" value="1538" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="10" />
+          <entry key="ObjectiveC" value="21350" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LeetCodeProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15-3Sum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+              <folding>
+                <element signature="e#38#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-3Sum.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding>
+                <element signature="e#107#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1-twosum.h" />
+        <option value="$PROJECT_DIR$/1-twosum.cpp" />
+        <option value="$PROJECT_DIR$/2-addtwonumbers.h" />
+        <option value="$PROJECT_DIR$/2-addtwonumbers.cpp" />
+        <option value="$PROJECT_DIR$/3-longestsubstring.h" />
+        <option value="$PROJECT_DIR$/3-longestsubstring.cpp" />
+        <option value="$PROJECT_DIR$/4-medianoftwosortedarray.h" />
+        <option value="$PROJECT_DIR$/4-medianoftwosortedarray.cpp" />
+        <option value="$PROJECT_DIR$/5-LongestPalindromicSubstring.h" />
+        <option value="$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp" />
+        <option value="$PROJECT_DIR$/6-ZigZagConversion.h" />
+        <option value="$PROJECT_DIR$/6-ZigZagConversion.cpp" />
+        <option value="$PROJECT_DIR$/6-ReverseInteger.h" />
+        <option value="$PROJECT_DIR$/6-ReverseInteger.cpp" />
+        <option value="$PROJECT_DIR$/7-ReverseInteger.h" />
+        <option value="$PROJECT_DIR$/7-ReverseInteger.cpp" />
+        <option value="$PROJECT_DIR$/8-StringToInteger.h" />
+        <option value="$PROJECT_DIR$/8-StringToInteger.cpp" />
+        <option value="$PROJECT_DIR$/9-PalindromeNumber.h" />
+        <option value="$PROJECT_DIR$/9-PalindromeNumber.cpp" />
+        <option value="$PROJECT_DIR$/Scheduler.h" />
+        <option value="$PROJECT_DIR$/SchedulerProcess.cpp" />
+        <option value="$PROJECT_DIR$/11-Container-Most-Water.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/10-RegularExpressionMatching.cpp" />
+        <option value="$PROJECT_DIR$/10-RegularExpressionMatching.h" />
+        <option value="$PROJECT_DIR$/11-ContainerMostWater.cpp" />
+        <option value="$PROJECT_DIR$/11-ContainerMostWater.h" />
+        <option value="$PROJECT_DIR$/12-IntegerToRoma.h" />
+        <option value="$PROJECT_DIR$/12-IntegerToRoma.cpp" />
+        <option value="$PROJECT_DIR$/13-RomaToInteger.h" />
+        <option value="$PROJECT_DIR$/13-RomaToInteger.cpp" />
+        <option value="$PROJECT_DIR$/14-LongestCommPrefix.h" />
+        <option value="$PROJECT_DIR$/14-LongestCommPrefix.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/15-3Sum.h" />
+        <option value="$PROJECT_DIR$/15-3Sum.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="990" />
+    <option name="y" value="133" />
+    <option name="width" value="950" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCodeProject" TARGET_NAME="LeetCodeProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCodeProject" RUN_TARGET_NAME="LeetCodeProject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeProject" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCodeProject" TARGET_NAME="LeetCodeProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCodeProject" RUN_TARGET_NAME="LeetCodeProject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.LeetCodeProject" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb3827f-c6a6-4cb0-ba60-ba5191efa113" name="Default Changelist" comment="" />
+      <created>1546181235078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546181235078</updated>
+      <workItem from="1546181236888" duration="5788000" />
+      <workItem from="1546411322197" duration="2453000" />
+      <workItem from="1546503281042" duration="192000" />
+      <workItem from="1546504186364" duration="113000" />
+      <workItem from="1546504314303" duration="8000" />
+      <workItem from="1546585414222" duration="12950000" />
+      <workItem from="1546611011283" duration="17730000" />
+      <workItem from="1546838580199" duration="68000" />
+      <workItem from="1546862226851" duration="12791000" />
+      <workItem from="1546936345306" duration="9220000" />
+      <workItem from="1546952679296" duration="5506000" />
+      <workItem from="1547082783349" duration="12000" />
+      <workItem from="1547119438724" duration="9293000" />
+      <workItem from="1548332996716" duration="2297000" />
+      <workItem from="1548598693063" duration="1428000" />
+      <workItem from="1548771553987" duration="733000" />
+      <workItem from="1549757565854" duration="13069000" />
+      <workItem from="1550111958258" duration="14590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108241000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.15277778" />
+      <window_info id="Structure" order="1" sideWeight="0.5008518" side_tool="true" weight="0.083333336" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008518" side_tool="true" weight="0.083333336" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.2522831" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.24657534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32990867" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49786323" weight="0.22488585" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32990867" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50213677" side_tool="true" weight="0.2888128" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.33105022" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3321918" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32959402" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/4-medianoftwosortedarray.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/src/debug/gcc-4.8.5-20150702/libstdc++-v3/libsupc++/new_op.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-addtwonumbers.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/4.8.2/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="759" column="4" selection-start-line="759" selection-start-column="4" selection-end-line="759" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/src/debug/gcc-4.8.5-20150702/obj-x86_64-redhat-linux/x86_64-redhat-linux/libstdc++-v3/include/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="2757" selection-start-line="2757" selection-end-line="2757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-longestsubstring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-longestsubstring.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-twosum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-twosum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-addtwonumbers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="145" column="2" selection-start-line="145" selection-start-column="2" selection-end-line="145" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/src/debug/gcc-4.8.5-20150702/obj-x86_64-redhat-linux/x86_64-redhat-linux/libstdc++-v3/include/ext/atomicity.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-ZigZagConversion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-LongestPalindromicSubstring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-ZigZagConversion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-LongestPalindromicSubstring.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-PalindromeNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scheduler.h" />
+    <entry file="file://$PROJECT_DIR$/SchedulerProcess.cpp" />
+    <entry file="file://$PROJECT_DIR$/8-StringToInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-ReverseInteger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-ReverseInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-medianoftwosortedarray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-StringToInteger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-PalindromeNumber.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Regular-Expression-Match.h" />
+    <entry file="file://$PROJECT_DIR$/10-Regular-Expression-Match.cpp" />
+    <entry file="file://$PROJECT_DIR$/11-ContainerMostWater..h" />
+    <entry file="file://$PROJECT_DIR$/11-ContainerMostWater..cpp" />
+    <entry file="file://$USER_HOME$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/LeetCodeProject.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-ContainerMostWater.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#134#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-ContainerMostWater.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#148#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-IntegerToRoma.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-RomaToInteger.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-IntegerToRoma.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#38#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-RegularExpressionMatching.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-LongestCommPrefix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#133#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/4.8.2/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="738" selection-start-line="738" selection-end-line="738" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-LongestCommPrefix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-RomaToInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#38#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-3Sum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#107#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-3Sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#38#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

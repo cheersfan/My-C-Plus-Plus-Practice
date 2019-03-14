@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.cpp
+chapter9.h
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h
+
+/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h
+iostream
+-
+vector
+-
+list
+-
+deque
+-
+

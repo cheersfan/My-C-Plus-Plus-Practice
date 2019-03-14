@@ -1,0 +1,403 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.c" timestamp="1546505315529">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.cpp" timestamp="1545051577582">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/myCLionProject/usebrass2.h" timestamp="1544621391674">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/10-3-usestock0.h" timestamp="1543501165781">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h" timestamp="1546588254723">
+        <mark key="[" line="12" column="54" />
+      </file>
+      <file name="/home/myCLionProject/10-6-usestock2.h" timestamp="1543501833724">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/11-13-vector.h" timestamp="1544077905818">
+        <mark key="[" line="5" column="36" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe_communication.h" timestamp="1546505311049">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.h" timestamp="1551100530440">
+        <mark key="[" line="14" column="44" />
+      </file>
+      <file name="/home/myCLionProject/string1.h" timestamp="1544336088398">
+        <mark key="[" line="41" column="32" />
+      </file>
+      <file name="/home/myCLionProject/12-10-queue.h" timestamp="1544531347223">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="/home/myCLionProject/usebrass2.cpp" timestamp="1544621405662">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/myCLionProject/12-12-bank.h" timestamp="1544533556443">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/Scheduler.h" timestamp="1548334102135">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/sayings1.h" timestamp="1544336301547">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp" timestamp="1549761229698">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="/home/myCLionProject/usett1.cpp" timestamp="1544592014571">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ReverseInteger.cpp" timestamp="1546951059959">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp" timestamp="1547117586626">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1550283958225">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.c" timestamp="1546523226460">
+        <mark key="[" line="8" column="18" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h" timestamp="1550213653707">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/home/myCLionProject/11-3-usetime0.h" timestamp="1544019825854">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.h" timestamp="1550216129963">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.h" timestamp="1549902393495">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.h" timestamp="1547084866876">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.h" timestamp="1549880481036">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.h" timestamp="1549880186812">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.h" timestamp="1546766732268">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h" timestamp="1547120197115">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/13-x-mydeconstructortest.h" timestamp="1544774428839">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/12-3-vegnews.h" timestamp="1544325262155">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/stacker.h" timestamp="1543667774954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/home/myCLionProject/10-3-usestock0.cpp" timestamp="1543501851734">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.h" timestamp="1546938866786">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp" timestamp="1549761874203">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/CMakeLists.txt" timestamp="1545528273051">
+        <mark key="[" line="5" column="1267" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/SchedulerProcess.cpp" timestamp="1548334196270">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/16-3ClosestSum.h" timestamp="1551102944043">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/getopt-function-test.cpp" timestamp="1545725221389">
+        <mark key="[" line="6" column="4" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/select-test.cpp" timestamp="1551771817088">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.h" timestamp="1546955869011">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp" timestamp="1550283988039">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp" timestamp="1551771831785">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.cpp" timestamp="1550106349676">
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="91" column="4" />
+        <mark key="." line="91" column="4" />
+      </file>
+      <file name="/home/myCLionProject/8-11-funtemp.h" timestamp="1544877422048">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-Container-Most-Water.cpp" timestamp="1548598947165">
+        <mark key="[" line="0" column="23" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.cpp" timestamp="1545483324141">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ReverseInteger.h" timestamp="1546951033665">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-14-stacktem.h" timestamp="1545528172582">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp" timestamp="1548599475171">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp" timestamp="1550055635624">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/home/myCLionProject/4-6b-numstr.h" timestamp="1544877317939">
+        <mark key="[" line="7" column="18" />
+      </file>
+      <file name="/home/myCLionProject/12-1-stringbad.h" timestamp="1544329028059">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h" timestamp="1548918385898">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+      </file>
+      <file name="/home/myCLionProject/brass.h" timestamp="1544617619868">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/10-8-stock20.h" timestamp="1543666458196">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="/home/myCLionProject/10-9-usestock3.h" timestamp="1543666069543">
+        <mark key="[" line="7" column="18" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.cpp" timestamp="1550110143456">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/CMakeLists.txt" timestamp="1548599343987">
+        <mark key="[" line="5" column="501" />
+      </file>
+      <file name="/home/myCLionProject/13-14-dma.h" timestamp="1544839435438">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/FIFO.h" timestamp="1551061149643">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp" timestamp="1550281969057">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+      </file>
+      <file name="/home/myCLionProject/11-15-randwalk.h" timestamp="1544098680205">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dupe.h" timestamp="1546522589544">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/11-18-stone.cpp" timestamp="1544106720378">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/8-11-funtemp.cpp" timestamp="1545308831446">
+        <mark key="[" line="36" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546761289287">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/15-7-error1.h" timestamp="1545701679311">
+        <mark key="[" line="12" column="21" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp" timestamp="1551100617104">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="59" column="39" />
+        <mark key="." line="109" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/FIFO.cpp" timestamp="1551061159213">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="/home/myCLionProject/acctabc.h" timestamp="1544777537497">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/11-16-stonewt.h" timestamp="1544104612020">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-3-use_stuc.h" timestamp="1545051561790">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/select-test.h" timestamp="1551771822115">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/home/myCLionProject/12-6-sayings1.cpp" timestamp="1544439866805">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/13-9-usebrass1.h" timestamp="1544620485882">
+        <mark key="[" line="9" column="39" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/14-12-workmi.h" timestamp="1545403557430">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/myCLionProject/usett1.h" timestamp="1544592003587">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ReadMesosCode/MyTest/MyStout/stout/os.hpp" timestamp="1545276017067">
+        <mark key="[" line="84" column="10" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h" timestamp="1550282118408">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/signal-function-test.h" timestamp="1545719623400">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9'.h" timestamp="1548771942007">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h" timestamp="1546506815473">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="/fragment.mm" timestamp="1546761285369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/src/debug/gcc-4.8.5-20150702/obj-x86_64-redhat-linux/x86_64-redhat-linux/libstdc++-v3/include/ext/atomicity.h" timestamp="1546941431801">
+        <mark key="[" line="66" column="1" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h" timestamp="1546870101577">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp" timestamp="1550218750339">
+        <mark key="[" line="12" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="46" column="44" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
+      <jump line="48" column="22" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp" />
+      <jump line="20" column="50" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp" />
+      <jump line="10" column="24" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp" />
+      <jump line="27" column="24" filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>void</text>
+      </register>
+      <register name="-" type="4">
+        <text>void</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1c2luZ1w+</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgPSBpOwogICAgICAgICAgICAgICAgYiA9IGo7CiAgICAgICAgICAgICAgICBjID0gazs=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGludCBkaXMgPSAwOwogICAgZm9yKGludCBpID0gMDsgaSA8IG51bXMuc2l6ZSgpLTI7IGkgKyspewogICAgICAgIGludCBqID0gaSsxOwogICAgICAgIGludCBrID0gbnVtcy5zaXplKCktMTsKICAgICAgICBkaXMgPSBhYnMobnVtc1tpXSArIG51bXNbal0gKyBudW1zW2tdIC0gdGFyZ2V0KTsKCiAgICAgICAgaisrOwogICAgICAgIHdoaWxlIChqIDwgayl7CiAgICAgICAgICAgIGludCB0c3VtID0gYWJzKG51bXNbaV0gKyBudW1zW2pdICsgbnVtc1trXSAtIHRhcmdldCk7CiAgICAgICAgICAgIGRpcyA9IHRkaXMgPCBkaXMgPyB0ZGlzIDogZGlzOwogICAgICAgICAgICBpZihkaXMgPT0gMCl7CiAgICAgICAgICAgICAgICByZXR1cm4gCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhID0gbnVtc1tpXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGludCBhLGIsYzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcy5wcmludHZlY3Mocy50aHJlZVN1bTIodmVjKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZvaWQgcHJpbnR2ZWNzKHZlY3Rvcjx2ZWN0b3I8aW50Pj4gdmVjcyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZlY3Rvcjx2ZWN0b3I8aW50Pj4gdGhyZWVTdW0yKHZlY3RvcjxpbnQ+ICYgbnVtcyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXQgPDwgImVsc2UiPDwgZW5kbDsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChqKzEgPCBrICYmIG51bXNbal0gPT0gbnVtc1tqKzFdKXsKICAgICAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgICAgICB9</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx1c2luZ1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1c2luZ1w+</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
+        <entry encoding="base64">XDx1c2luZ1w+</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
