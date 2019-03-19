@@ -7,7 +7,8 @@
 //#include "12-IntegerToRoma.h"
 //#include "13-RomaToInteger.h"
 //#include "14-LongestCommPrefix.h"
-#include "15-3Sum.h"
+//#include "15-3Sum.h"
+#include "18-fourSum.h"
 using namespace std;
 
 int main() {
@@ -20,6 +21,7 @@ int main() {
   //my_integertoroma_main();
   //my_romatointeger_main();
   //my_longestcommonprefix_main();
-  my_3sum_main();
+  //my_3sum_main();
+  my_foursum_main();
   return 0;
 }

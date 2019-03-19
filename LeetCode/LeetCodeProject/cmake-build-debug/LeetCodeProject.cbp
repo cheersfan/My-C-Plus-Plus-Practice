@@ -8,172 +8,180 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug"/>
+				<Option working_dir="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LeetCodeProject">
-				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug"/>
+				<Option output="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCodeProject"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCodeProject"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LeetCodeProject/fast">
-				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug"/>
+				<Option output="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/LeetCodeProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCodeProject/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCodeProject/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/1-twosum.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/1-twosum.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/1-twosum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/11-ContainerMostWater.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/11-ContainerMostWater.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/12-IntegerToRoma.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/12-IntegerToRoma.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/13-RomaToInteger.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/13-RomaToInteger.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/13-RomaToInteger.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/14-LongestCommPrefix.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/14-LongestCommPrefix.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/14-LongestCommPrefix.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/15-3Sum.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/15-3Sum.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/15-3Sum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/2-addtwonumbers.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/3-longestsubstring.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/4-medianoftwosortedarray.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/4-medianoftwosortedarray.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/6-ZigZagConversion.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/5-LongestPalindromicSubstring.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/6-ZigZagConversion.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/7-ReverseInteger.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/6-ZigZagConversion.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/7-ReverseInteger.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/8-StringToInteger.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/7-ReverseInteger.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/8-StringToInteger.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/9-PalindromeNumber.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/8-StringToInteger.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/main.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/LeetCode/LeetCodeProject/CMakeLists.txt">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/9-PalindromeNumber.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/main.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
