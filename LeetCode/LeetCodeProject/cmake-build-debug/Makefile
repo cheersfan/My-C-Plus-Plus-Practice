@@ -365,6 +365,60 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s
 .PHONY : 2-addtwonumbers.cpp.s
 
+26-RemoveDuplicates.obj: 26-RemoveDuplicates.cpp.obj
+
+.PHONY : 26-RemoveDuplicates.obj
+
+# target to build an object file
+26-RemoveDuplicates.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj
+.PHONY : 26-RemoveDuplicates.cpp.obj
+
+26-RemoveDuplicates.i: 26-RemoveDuplicates.cpp.i
+
+.PHONY : 26-RemoveDuplicates.i
+
+# target to preprocess a source file
+26-RemoveDuplicates.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.i
+.PHONY : 26-RemoveDuplicates.cpp.i
+
+26-RemoveDuplicates.s: 26-RemoveDuplicates.cpp.s
+
+.PHONY : 26-RemoveDuplicates.s
+
+# target to generate assembly for a file
+26-RemoveDuplicates.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.s
+.PHONY : 26-RemoveDuplicates.cpp.s
+
+27-RemoveElement.obj: 27-RemoveElement.cpp.obj
+
+.PHONY : 27-RemoveElement.obj
+
+# target to build an object file
+27-RemoveElement.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj
+.PHONY : 27-RemoveElement.cpp.obj
+
+27-RemoveElement.i: 27-RemoveElement.cpp.i
+
+.PHONY : 27-RemoveElement.i
+
+# target to preprocess a source file
+27-RemoveElement.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.i
+.PHONY : 27-RemoveElement.cpp.i
+
+27-RemoveElement.s: 27-RemoveElement.cpp.s
+
+.PHONY : 27-RemoveElement.s
+
+# target to generate assembly for a file
+27-RemoveElement.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s
+.PHONY : 27-RemoveElement.cpp.s
+
 3-longestsubstring.obj: 3-longestsubstring.cpp.obj
 
 .PHONY : 3-longestsubstring.obj
@@ -617,6 +671,12 @@ help:
 	@echo ... 2-addtwonumbers.obj
 	@echo ... 2-addtwonumbers.i
 	@echo ... 2-addtwonumbers.s
+	@echo ... 26-RemoveDuplicates.obj
+	@echo ... 26-RemoveDuplicates.i
+	@echo ... 26-RemoveDuplicates.s
+	@echo ... 27-RemoveElement.obj
+	@echo ... 27-RemoveElement.i
+	@echo ... 27-RemoveElement.s
 	@echo ... 3-longestsubstring.obj
 	@echo ... 3-longestsubstring.i
 	@echo ... 3-longestsubstring.s

@@ -136,6 +136,18 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>

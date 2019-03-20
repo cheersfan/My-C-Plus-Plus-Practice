@@ -28,6 +28,12 @@ CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.cpp
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.h
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj
+ E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.cpp
+ E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.h
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj
+ E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.cpp
+ E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
 CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.obj
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.cpp
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.h
@@ -50,5 +56,5 @@ CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/9-PalindromeNumber.cpp
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/9-PalindromeNumber.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.obj
- E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.h
+ E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
  E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/main.cpp

@@ -16,6 +16,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.obj"
   "CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.obj"
   "CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj"
+  "CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj"
+  "CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj"
   "LeetCodeProject.pdb"
   "LeetCodeProject.exe"
   "LeetCodeProject.exe.manifest"

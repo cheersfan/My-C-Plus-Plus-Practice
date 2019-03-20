@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.cpp
-18-fourSum.h
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.cpp
+27-RemoveElement.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
 iostream
 -
 vector
--
-string
--
-algorithm
 -
 

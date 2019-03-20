@@ -277,6 +277,32 @@ CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.s"
 	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\18-fourSum.cpp -o CMakeFiles\LeetCodeProject.dir\18-fourSum.cpp.s
 
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj"
+	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCodeProject.dir\26-RemoveDuplicates.cpp.obj -c E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\26-RemoveDuplicates.cpp
+
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.i"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\26-RemoveDuplicates.cpp > CMakeFiles\LeetCodeProject.dir\26-RemoveDuplicates.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.s"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\26-RemoveDuplicates.cpp -o CMakeFiles\LeetCodeProject.dir\26-RemoveDuplicates.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj"
+	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCodeProject.dir\27-RemoveElement.cpp.obj -c E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\27-RemoveElement.cpp
+
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.i"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\27-RemoveElement.cpp > CMakeFiles\LeetCodeProject.dir\27-RemoveElement.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\27-RemoveElement.cpp -o CMakeFiles\LeetCodeProject.dir\27-RemoveElement.cpp.s
+
 # Object files for target LeetCodeProject
 LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/main.cpp.obj" \
@@ -295,7 +321,9 @@ LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.obj" \
 "CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.obj" \
 "CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.obj" \
-"CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj"
+"CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj" \
+"CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj" \
+"CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj"
 
 # External object files for target LeetCodeProject
 LeetCodeProject_EXTERNAL_OBJECTS =
@@ -317,11 +345,13 @@ LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj
+LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj
+LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/build.make
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/linklibs.rsp
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/objects1.rsp
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable LeetCodeProject.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable LeetCodeProject.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCodeProject.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

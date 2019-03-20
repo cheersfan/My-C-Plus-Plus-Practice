@@ -28,6 +28,12 @@ CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj: ../18-fourSum.h
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.cpp
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.h
 
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.cpp
+CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.h
+
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.cpp
+CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.h
+
 CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.obj: ../3-longestsubstring.cpp
 CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.obj: ../3-longestsubstring.h
 
@@ -49,6 +55,6 @@ CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.obj: ../8-StringToInteger.h
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.cpp
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../18-fourSum.h
+CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../27-RemoveElement.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../main.cpp
 
