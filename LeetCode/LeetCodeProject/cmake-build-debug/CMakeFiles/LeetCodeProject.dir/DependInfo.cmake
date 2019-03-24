@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/1-twosum.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/1-twosum.cpp.obj"
   "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/10-RegularExpressionMatching.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.obj"
+  "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/105-BuildTree.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.obj"
+  "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj"
   "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/11-ContainerMostWater.cpp.obj"
   "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/12-IntegerToRoma.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/12-IntegerToRoma.cpp.obj"
   "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/13-RomaToInteger.cpp" "E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug/CMakeFiles/LeetCodeProject.dir/13-RomaToInteger.cpp.obj"

@@ -10,7 +10,9 @@
 //#include "15-3Sum.h"
 //#include "18-fourSum.h"
 //#include "26-RemoveDuplicates.h"
-#include "27-RemoveElement.h"
+//#include "27-RemoveElement.h"
+//#include "105-BuildTree.h"
+#include "106-BuildTree2.h"
 using namespace std;
 
 int main() {
@@ -27,6 +29,9 @@ int main() {
   //my_foursum_main();
 
    // my_remove_duplicate_main();
-   my_remove_element_main();
-  return 0;
+   // my_remove_element_main();
+
+   // my_build_tree_main();
+   my_build_tree2_main();
+   return 0;
 }

@@ -176,6 +176,60 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
 .PHONY : 10-RegularExpressionMatching.cpp.s
 
+105-BuildTree.obj: 105-BuildTree.cpp.obj
+
+.PHONY : 105-BuildTree.obj
+
+# target to build an object file
+105-BuildTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.obj
+.PHONY : 105-BuildTree.cpp.obj
+
+105-BuildTree.i: 105-BuildTree.cpp.i
+
+.PHONY : 105-BuildTree.i
+
+# target to preprocess a source file
+105-BuildTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.i
+.PHONY : 105-BuildTree.cpp.i
+
+105-BuildTree.s: 105-BuildTree.cpp.s
+
+.PHONY : 105-BuildTree.s
+
+# target to generate assembly for a file
+105-BuildTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.s
+.PHONY : 105-BuildTree.cpp.s
+
+106-BuildTree2.obj: 106-BuildTree2.cpp.obj
+
+.PHONY : 106-BuildTree2.obj
+
+# target to build an object file
+106-BuildTree2.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj
+.PHONY : 106-BuildTree2.cpp.obj
+
+106-BuildTree2.i: 106-BuildTree2.cpp.i
+
+.PHONY : 106-BuildTree2.i
+
+# target to preprocess a source file
+106-BuildTree2.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.i
+.PHONY : 106-BuildTree2.cpp.i
+
+106-BuildTree2.s: 106-BuildTree2.cpp.s
+
+.PHONY : 106-BuildTree2.s
+
+# target to generate assembly for a file
+106-BuildTree2.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.s
+.PHONY : 106-BuildTree2.cpp.s
+
 11-ContainerMostWater.obj: 11-ContainerMostWater.cpp.obj
 
 .PHONY : 11-ContainerMostWater.obj
@@ -650,6 +704,12 @@ help:
 	@echo ... 10-RegularExpressionMatching.obj
 	@echo ... 10-RegularExpressionMatching.i
 	@echo ... 10-RegularExpressionMatching.s
+	@echo ... 105-BuildTree.obj
+	@echo ... 105-BuildTree.i
+	@echo ... 105-BuildTree.s
+	@echo ... 106-BuildTree2.obj
+	@echo ... 106-BuildTree2.i
+	@echo ... 106-BuildTree2.s
 	@echo ... 11-ContainerMostWater.obj
 	@echo ... 11-ContainerMostWater.i
 	@echo ... 11-ContainerMostWater.s

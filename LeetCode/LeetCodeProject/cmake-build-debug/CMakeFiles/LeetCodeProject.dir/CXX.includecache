@@ -6,13 +6,21 @@
 
 #IncludeRegexTransform: 
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.cpp
-27-RemoveElement.h
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.cpp
+106-BuildTree2.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.h
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.h
 iostream
 -
 vector
 -
+
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/main.cpp
+iostream
+-
+string
+-
+106-BuildTree2.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.h
 

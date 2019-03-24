@@ -94,6 +94,18 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/105-BuildTree.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/105-BuildTree.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/106-BuildTree2.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/11-ContainerMostWater.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>

@@ -18,6 +18,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj"
   "CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj"
   "CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj"
+  "CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.obj"
+  "CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj"
   "LeetCodeProject.pdb"
   "LeetCodeProject.exe"
   "LeetCodeProject.exe.manifest"
