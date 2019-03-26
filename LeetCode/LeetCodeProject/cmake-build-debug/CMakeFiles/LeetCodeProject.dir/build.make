@@ -329,6 +329,32 @@ CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.s"
 	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\106-BuildTree2.cpp -o CMakeFiles\LeetCodeProject.dir\106-BuildTree2.cpp.s
 
+CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj: ../102-LevelOrder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj"
+	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCodeProject.dir\102-LevelOrder.cpp.obj -c E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\102-LevelOrder.cpp
+
+CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.i"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\102-LevelOrder.cpp > CMakeFiles\LeetCodeProject.dir\102-LevelOrder.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.s"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\102-LevelOrder.cpp -o CMakeFiles\LeetCodeProject.dir\102-LevelOrder.cpp.s
+
+CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj: CMakeFiles/LeetCodeProject.dir/flags.make
+CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj: ../3-26-2version.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj"
+	D:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCodeProject.dir\3-26-2version.cpp.obj -c E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\3-26-2version.cpp
+
+CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.i"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\3-26-2version.cpp > CMakeFiles\LeetCodeProject.dir\3-26-2version.cpp.i
+
+CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.s"
+	D:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\3-26-2version.cpp -o CMakeFiles\LeetCodeProject.dir\3-26-2version.cpp.s
+
 # Object files for target LeetCodeProject
 LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/main.cpp.obj" \
@@ -351,7 +377,9 @@ LeetCodeProject_OBJECTS = \
 "CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj" \
 "CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj" \
 "CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.obj" \
-"CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj"
+"CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj" \
+"CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj" \
+"CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj"
 
 # External object files for target LeetCodeProject
 LeetCodeProject_EXTERNAL_OBJECTS =
@@ -377,11 +405,13 @@ LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/105-BuildTree.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/106-BuildTree2.cpp.obj
+LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj
+LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/build.make
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/linklibs.rsp
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/objects1.rsp
 LeetCodeProject.exe: CMakeFiles/LeetCodeProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable LeetCodeProject.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable LeetCodeProject.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCodeProject.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

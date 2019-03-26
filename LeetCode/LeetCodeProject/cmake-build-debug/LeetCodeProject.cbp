@@ -94,6 +94,12 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/10-RegularExpressionMatching.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/102-LevelOrder.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/102-LevelOrder.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/105-BuildTree.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
@@ -158,6 +164,12 @@
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.cpp">

@@ -176,6 +176,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/10-RegularExpressionMatching.cpp.s
 .PHONY : 10-RegularExpressionMatching.cpp.s
 
+102-LevelOrder.obj: 102-LevelOrder.cpp.obj
+
+.PHONY : 102-LevelOrder.obj
+
+# target to build an object file
+102-LevelOrder.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.obj
+.PHONY : 102-LevelOrder.cpp.obj
+
+102-LevelOrder.i: 102-LevelOrder.cpp.i
+
+.PHONY : 102-LevelOrder.i
+
+# target to preprocess a source file
+102-LevelOrder.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.i
+.PHONY : 102-LevelOrder.cpp.i
+
+102-LevelOrder.s: 102-LevelOrder.cpp.s
+
+.PHONY : 102-LevelOrder.s
+
+# target to generate assembly for a file
+102-LevelOrder.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/102-LevelOrder.cpp.s
+.PHONY : 102-LevelOrder.cpp.s
+
 105-BuildTree.obj: 105-BuildTree.cpp.obj
 
 .PHONY : 105-BuildTree.obj
@@ -473,6 +500,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s
 .PHONY : 27-RemoveElement.cpp.s
 
+3-26-2version.obj: 3-26-2version.cpp.obj
+
+.PHONY : 3-26-2version.obj
+
+# target to build an object file
+3-26-2version.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj
+.PHONY : 3-26-2version.cpp.obj
+
+3-26-2version.i: 3-26-2version.cpp.i
+
+.PHONY : 3-26-2version.i
+
+# target to preprocess a source file
+3-26-2version.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.i
+.PHONY : 3-26-2version.cpp.i
+
+3-26-2version.s: 3-26-2version.cpp.s
+
+.PHONY : 3-26-2version.s
+
+# target to generate assembly for a file
+3-26-2version.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.s
+.PHONY : 3-26-2version.cpp.s
+
 3-longestsubstring.obj: 3-longestsubstring.cpp.obj
 
 .PHONY : 3-longestsubstring.obj
@@ -704,6 +758,9 @@ help:
 	@echo ... 10-RegularExpressionMatching.obj
 	@echo ... 10-RegularExpressionMatching.i
 	@echo ... 10-RegularExpressionMatching.s
+	@echo ... 102-LevelOrder.obj
+	@echo ... 102-LevelOrder.i
+	@echo ... 102-LevelOrder.s
 	@echo ... 105-BuildTree.obj
 	@echo ... 105-BuildTree.i
 	@echo ... 105-BuildTree.s
@@ -737,6 +794,9 @@ help:
 	@echo ... 27-RemoveElement.obj
 	@echo ... 27-RemoveElement.i
 	@echo ... 27-RemoveElement.s
+	@echo ... 3-26-2version.obj
+	@echo ... 3-26-2version.i
+	@echo ... 3-26-2version.s
 	@echo ... 3-longestsubstring.obj
 	@echo ... 3-longestsubstring.i
 	@echo ... 3-longestsubstring.s

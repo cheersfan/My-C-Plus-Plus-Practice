@@ -12,7 +12,8 @@
 //#include "26-RemoveDuplicates.h"
 //#include "27-RemoveElement.h"
 //#include "105-BuildTree.h"
-#include "106-BuildTree2.h"
+//#include "106-BuildTree2.h"
+#include "165-CompareVersion.h"
 using namespace std;
 
 int main() {
@@ -32,6 +33,8 @@ int main() {
    // my_remove_element_main();
 
    // my_build_tree_main();
-   my_build_tree2_main();
+   // my_build_tree2_main();
+
+   my_2version_main();
    return 0;
 }

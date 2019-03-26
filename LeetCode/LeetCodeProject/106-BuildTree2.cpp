@@ -35,12 +35,12 @@ TreeNode* Solution::build2(vector<int>& inorder, vector<int>& postorder, int sta
     for(int i = 0; i < inorder.size(); i ++){
         if(inorder.at(i) == rootValue){
             midIn = i;
+            cout <<"midIn:" <<  midIn << "," << inorder[i] << endl;
             break;
         }
     }
-    int midpost = startPost + midIn - startIn;
-    root->left = build2(inorder, postorder, startIn, midIn-1, startPost, midpost-1);
-    root->right = build2(inorder, postorder, midIn+1, endIn, midpost+1, endPost);
+    root->left = build2(inorder, postorder, startIn, midIn-1, startPost, midIn - startIn - 1 + startPost);
+    root->right = build2(inorder, postorder, midIn+1, endIn, midIn - startIn + startPost, endPost - 1);
 
     return root;
 }
