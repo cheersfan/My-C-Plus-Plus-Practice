@@ -31,11 +31,17 @@ CMakeFiles/LeetCodeProject.dir/14-LongestCommPrefix.cpp.obj: ../14-LongestCommPr
 CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.obj: ../15-3Sum.cpp
 CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.obj: ../15-3Sum.h
 
+CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.obj: ../165-CompareVersion.cpp
+CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.obj: ../165-CompareVersion.h
+
 CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj: ../18-fourSum.cpp
 CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj: ../18-fourSum.h
 
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.cpp
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.h
+
+CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.obj: ../20-IsValid.cpp
+CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.obj: ../20-IsValid.h
 
 CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.cpp
 CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.h
@@ -43,8 +49,11 @@ CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicat
 CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.cpp
 CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.h
 
-CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj: ../3-26-2version.cpp
-CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj: ../3-26-2version.h
+CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.obj: ../3-27-Bees.cpp
+CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.obj: ../3-27-Bees.h
+
+CMakeFiles/LeetCodeProject.dir/3-27-BigSmallPoint.cpp.obj: ../3-27-BigSmallPoint.cpp
+CMakeFiles/LeetCodeProject.dir/3-27-BigSmallPoint.cpp.obj: ../3-27-BigSmallPoint.h
 
 CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.obj: ../3-longestsubstring.cpp
 CMakeFiles/LeetCodeProject.dir/3-longestsubstring.cpp.obj: ../3-longestsubstring.h
@@ -67,6 +76,6 @@ CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.obj: ../8-StringToInteger.h
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.cpp
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../3-26-2version.h
+CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../20-IsValid.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../main.cpp
 

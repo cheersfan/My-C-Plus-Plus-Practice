@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.cpp
-3-26-2version.h
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.cpp
+20-IsValid.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.h
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.h
 iostream
 -
+stack
+-
 string
--
-vector
--
-stdio.h
--
-string.h
 -
 

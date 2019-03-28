@@ -142,6 +142,12 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/15-3Sum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/165-CompareVersion.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/165-CompareVersion.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
@@ -152,6 +158,12 @@
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.cpp">
@@ -166,10 +178,16 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.cpp">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-27-Bees.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
-		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-26-2version.h">
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-27-Bees.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-27-BigSmallPoint.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-27-BigSmallPoint.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-longestsubstring.cpp">

@@ -392,6 +392,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/15-3Sum.cpp.s
 .PHONY : 15-3Sum.cpp.s
 
+165-CompareVersion.obj: 165-CompareVersion.cpp.obj
+
+.PHONY : 165-CompareVersion.obj
+
+# target to build an object file
+165-CompareVersion.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.obj
+.PHONY : 165-CompareVersion.cpp.obj
+
+165-CompareVersion.i: 165-CompareVersion.cpp.i
+
+.PHONY : 165-CompareVersion.i
+
+# target to preprocess a source file
+165-CompareVersion.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.i
+.PHONY : 165-CompareVersion.cpp.i
+
+165-CompareVersion.s: 165-CompareVersion.cpp.s
+
+.PHONY : 165-CompareVersion.s
+
+# target to generate assembly for a file
+165-CompareVersion.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.s
+.PHONY : 165-CompareVersion.cpp.s
+
 18-fourSum.obj: 18-fourSum.cpp.obj
 
 .PHONY : 18-fourSum.obj
@@ -445,6 +472,33 @@ LeetCodeProject/fast:
 2-addtwonumbers.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.s
 .PHONY : 2-addtwonumbers.cpp.s
+
+20-IsValid.obj: 20-IsValid.cpp.obj
+
+.PHONY : 20-IsValid.obj
+
+# target to build an object file
+20-IsValid.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.obj
+.PHONY : 20-IsValid.cpp.obj
+
+20-IsValid.i: 20-IsValid.cpp.i
+
+.PHONY : 20-IsValid.i
+
+# target to preprocess a source file
+20-IsValid.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.i
+.PHONY : 20-IsValid.cpp.i
+
+20-IsValid.s: 20-IsValid.cpp.s
+
+.PHONY : 20-IsValid.s
+
+# target to generate assembly for a file
+20-IsValid.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.s
+.PHONY : 20-IsValid.cpp.s
 
 26-RemoveDuplicates.obj: 26-RemoveDuplicates.cpp.obj
 
@@ -500,32 +554,59 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s
 .PHONY : 27-RemoveElement.cpp.s
 
-3-26-2version.obj: 3-26-2version.cpp.obj
+3-27-Bees.obj: 3-27-Bees.cpp.obj
 
-.PHONY : 3-26-2version.obj
+.PHONY : 3-27-Bees.obj
 
 # target to build an object file
-3-26-2version.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.obj
-.PHONY : 3-26-2version.cpp.obj
+3-27-Bees.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.obj
+.PHONY : 3-27-Bees.cpp.obj
 
-3-26-2version.i: 3-26-2version.cpp.i
+3-27-Bees.i: 3-27-Bees.cpp.i
 
-.PHONY : 3-26-2version.i
+.PHONY : 3-27-Bees.i
 
 # target to preprocess a source file
-3-26-2version.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.i
-.PHONY : 3-26-2version.cpp.i
+3-27-Bees.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.i
+.PHONY : 3-27-Bees.cpp.i
 
-3-26-2version.s: 3-26-2version.cpp.s
+3-27-Bees.s: 3-27-Bees.cpp.s
 
-.PHONY : 3-26-2version.s
+.PHONY : 3-27-Bees.s
 
 # target to generate assembly for a file
-3-26-2version.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-26-2version.cpp.s
-.PHONY : 3-26-2version.cpp.s
+3-27-Bees.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.s
+.PHONY : 3-27-Bees.cpp.s
+
+3-27-BigSmallPoint.obj: 3-27-BigSmallPoint.cpp.obj
+
+.PHONY : 3-27-BigSmallPoint.obj
+
+# target to build an object file
+3-27-BigSmallPoint.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-BigSmallPoint.cpp.obj
+.PHONY : 3-27-BigSmallPoint.cpp.obj
+
+3-27-BigSmallPoint.i: 3-27-BigSmallPoint.cpp.i
+
+.PHONY : 3-27-BigSmallPoint.i
+
+# target to preprocess a source file
+3-27-BigSmallPoint.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-BigSmallPoint.cpp.i
+.PHONY : 3-27-BigSmallPoint.cpp.i
+
+3-27-BigSmallPoint.s: 3-27-BigSmallPoint.cpp.s
+
+.PHONY : 3-27-BigSmallPoint.s
+
+# target to generate assembly for a file
+3-27-BigSmallPoint.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/3-27-BigSmallPoint.cpp.s
+.PHONY : 3-27-BigSmallPoint.cpp.s
 
 3-longestsubstring.obj: 3-longestsubstring.cpp.obj
 
@@ -782,21 +863,30 @@ help:
 	@echo ... 15-3Sum.obj
 	@echo ... 15-3Sum.i
 	@echo ... 15-3Sum.s
+	@echo ... 165-CompareVersion.obj
+	@echo ... 165-CompareVersion.i
+	@echo ... 165-CompareVersion.s
 	@echo ... 18-fourSum.obj
 	@echo ... 18-fourSum.i
 	@echo ... 18-fourSum.s
 	@echo ... 2-addtwonumbers.obj
 	@echo ... 2-addtwonumbers.i
 	@echo ... 2-addtwonumbers.s
+	@echo ... 20-IsValid.obj
+	@echo ... 20-IsValid.i
+	@echo ... 20-IsValid.s
 	@echo ... 26-RemoveDuplicates.obj
 	@echo ... 26-RemoveDuplicates.i
 	@echo ... 26-RemoveDuplicates.s
 	@echo ... 27-RemoveElement.obj
 	@echo ... 27-RemoveElement.i
 	@echo ... 27-RemoveElement.s
-	@echo ... 3-26-2version.obj
-	@echo ... 3-26-2version.i
-	@echo ... 3-26-2version.s
+	@echo ... 3-27-Bees.obj
+	@echo ... 3-27-Bees.i
+	@echo ... 3-27-Bees.s
+	@echo ... 3-27-BigSmallPoint.obj
+	@echo ... 3-27-BigSmallPoint.i
+	@echo ... 3-27-BigSmallPoint.s
 	@echo ... 3-longestsubstring.obj
 	@echo ... 3-longestsubstring.i
 	@echo ... 3-longestsubstring.s

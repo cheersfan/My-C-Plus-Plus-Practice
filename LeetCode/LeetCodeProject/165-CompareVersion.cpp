@@ -31,7 +31,7 @@ void my_2version_main(){
     Solution s;
     string version1,version2;
     while(cin >> version1 >> version2){
-        cout << s.compareVersion(version1, version2) << endl;
+        cout << s.compareVersion2(version1, version2) << endl;
     }
 
 }
@@ -85,5 +85,26 @@ int Solution::compareVersion(string version1, string version2) {
         }
     }
 
+    return 0;
+}
+
+int Solution::compareVersion2(string version1, string version2) {
+    istringstream is1(version1);
+    istringstream is2(version2);
+    int num1 = 0;
+    int num2 = 0;
+    char c;
+    while((bool(is1 >> num1) + bool(is2 >> num2))){
+        //cout << "num1:" << num1 << endl;
+        //cout << "num2:" << num2 << endl;
+        if(num1 > num2){
+            return 1;
+        }else if(num1 < num2){
+            return -1;
+        }
+        is1 >> c;
+        is2 >> c;
+        num1 = num2 = 0;
+    }
     return 0;
 }

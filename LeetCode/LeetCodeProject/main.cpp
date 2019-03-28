@@ -9,11 +9,14 @@
 //#include "14-LongestCommPrefix.h"
 //#include "15-3Sum.h"
 //#include "18-fourSum.h"
+#include "20-IsValid.h"
 //#include "26-RemoveDuplicates.h"
 //#include "27-RemoveElement.h"
 //#include "105-BuildTree.h"
 //#include "106-BuildTree2.h"
-#include "165-CompareVersion.h"
+//#include "165-CompareVersion.h"
+//#include "3-27-Bees.h"
+//#include "3-27-BigSmallPoint.h"
 using namespace std;
 
 int main() {
@@ -29,12 +32,17 @@ int main() {
   //my_3sum_main();
   //my_foursum_main();
 
+  my_is_valid_main();
+
    // my_remove_duplicate_main();
    // my_remove_element_main();
 
    // my_build_tree_main();
    // my_build_tree2_main();
 
-   my_2version_main();
+   //my_2version_main();
+
+   //my_bee_main();
+   //my_big_small_point_main();
    return 0;
 }
