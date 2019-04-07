@@ -154,6 +154,12 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/18-fourSum.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/19-RemoveNthFromEnd.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/19-RemoveNthFromEnd.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/2-addtwonumbers.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
@@ -166,6 +172,18 @@
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/20-IsValid.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/21-MergeTwoLists.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/21-MergeTwoLists.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/22-GenerateParenthesis.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/22-GenerateParenthesis.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/26-RemoveDuplicates.cpp">
 			<Option target="LeetCodeProject"/>
 		</Unit>
@@ -176,6 +194,12 @@
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/27-RemoveElement.h">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/28-StrStr.cpp">
+			<Option target="LeetCodeProject"/>
+		</Unit>
+		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/28-StrStr.h">
 			<Option target="LeetCodeProject"/>
 		</Unit>
 		<Unit filename="E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/3-27-Bees.cpp">

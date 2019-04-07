@@ -446,6 +446,33 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.s
 .PHONY : 18-fourSum.cpp.s
 
+19-RemoveNthFromEnd.obj: 19-RemoveNthFromEnd.cpp.obj
+
+.PHONY : 19-RemoveNthFromEnd.obj
+
+# target to build an object file
+19-RemoveNthFromEnd.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/19-RemoveNthFromEnd.cpp.obj
+.PHONY : 19-RemoveNthFromEnd.cpp.obj
+
+19-RemoveNthFromEnd.i: 19-RemoveNthFromEnd.cpp.i
+
+.PHONY : 19-RemoveNthFromEnd.i
+
+# target to preprocess a source file
+19-RemoveNthFromEnd.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/19-RemoveNthFromEnd.cpp.i
+.PHONY : 19-RemoveNthFromEnd.cpp.i
+
+19-RemoveNthFromEnd.s: 19-RemoveNthFromEnd.cpp.s
+
+.PHONY : 19-RemoveNthFromEnd.s
+
+# target to generate assembly for a file
+19-RemoveNthFromEnd.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/19-RemoveNthFromEnd.cpp.s
+.PHONY : 19-RemoveNthFromEnd.cpp.s
+
 2-addtwonumbers.obj: 2-addtwonumbers.cpp.obj
 
 .PHONY : 2-addtwonumbers.obj
@@ -500,6 +527,60 @@ LeetCodeProject/fast:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.s
 .PHONY : 20-IsValid.cpp.s
 
+21-MergeTwoLists.obj: 21-MergeTwoLists.cpp.obj
+
+.PHONY : 21-MergeTwoLists.obj
+
+# target to build an object file
+21-MergeTwoLists.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/21-MergeTwoLists.cpp.obj
+.PHONY : 21-MergeTwoLists.cpp.obj
+
+21-MergeTwoLists.i: 21-MergeTwoLists.cpp.i
+
+.PHONY : 21-MergeTwoLists.i
+
+# target to preprocess a source file
+21-MergeTwoLists.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/21-MergeTwoLists.cpp.i
+.PHONY : 21-MergeTwoLists.cpp.i
+
+21-MergeTwoLists.s: 21-MergeTwoLists.cpp.s
+
+.PHONY : 21-MergeTwoLists.s
+
+# target to generate assembly for a file
+21-MergeTwoLists.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/21-MergeTwoLists.cpp.s
+.PHONY : 21-MergeTwoLists.cpp.s
+
+22-GenerateParenthesis.obj: 22-GenerateParenthesis.cpp.obj
+
+.PHONY : 22-GenerateParenthesis.obj
+
+# target to build an object file
+22-GenerateParenthesis.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/22-GenerateParenthesis.cpp.obj
+.PHONY : 22-GenerateParenthesis.cpp.obj
+
+22-GenerateParenthesis.i: 22-GenerateParenthesis.cpp.i
+
+.PHONY : 22-GenerateParenthesis.i
+
+# target to preprocess a source file
+22-GenerateParenthesis.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/22-GenerateParenthesis.cpp.i
+.PHONY : 22-GenerateParenthesis.cpp.i
+
+22-GenerateParenthesis.s: 22-GenerateParenthesis.cpp.s
+
+.PHONY : 22-GenerateParenthesis.s
+
+# target to generate assembly for a file
+22-GenerateParenthesis.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/22-GenerateParenthesis.cpp.s
+.PHONY : 22-GenerateParenthesis.cpp.s
+
 26-RemoveDuplicates.obj: 26-RemoveDuplicates.cpp.obj
 
 .PHONY : 26-RemoveDuplicates.obj
@@ -553,6 +634,33 @@ LeetCodeProject/fast:
 27-RemoveElement.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.s
 .PHONY : 27-RemoveElement.cpp.s
+
+28-StrStr.obj: 28-StrStr.cpp.obj
+
+.PHONY : 28-StrStr.obj
+
+# target to build an object file
+28-StrStr.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/28-StrStr.cpp.obj
+.PHONY : 28-StrStr.cpp.obj
+
+28-StrStr.i: 28-StrStr.cpp.i
+
+.PHONY : 28-StrStr.i
+
+# target to preprocess a source file
+28-StrStr.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/28-StrStr.cpp.i
+.PHONY : 28-StrStr.cpp.i
+
+28-StrStr.s: 28-StrStr.cpp.s
+
+.PHONY : 28-StrStr.s
+
+# target to generate assembly for a file
+28-StrStr.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCodeProject.dir\build.make CMakeFiles/LeetCodeProject.dir/28-StrStr.cpp.s
+.PHONY : 28-StrStr.cpp.s
 
 3-27-Bees.obj: 3-27-Bees.cpp.obj
 
@@ -869,18 +977,30 @@ help:
 	@echo ... 18-fourSum.obj
 	@echo ... 18-fourSum.i
 	@echo ... 18-fourSum.s
+	@echo ... 19-RemoveNthFromEnd.obj
+	@echo ... 19-RemoveNthFromEnd.i
+	@echo ... 19-RemoveNthFromEnd.s
 	@echo ... 2-addtwonumbers.obj
 	@echo ... 2-addtwonumbers.i
 	@echo ... 2-addtwonumbers.s
 	@echo ... 20-IsValid.obj
 	@echo ... 20-IsValid.i
 	@echo ... 20-IsValid.s
+	@echo ... 21-MergeTwoLists.obj
+	@echo ... 21-MergeTwoLists.i
+	@echo ... 21-MergeTwoLists.s
+	@echo ... 22-GenerateParenthesis.obj
+	@echo ... 22-GenerateParenthesis.i
+	@echo ... 22-GenerateParenthesis.s
 	@echo ... 26-RemoveDuplicates.obj
 	@echo ... 26-RemoveDuplicates.i
 	@echo ... 26-RemoveDuplicates.s
 	@echo ... 27-RemoveElement.obj
 	@echo ... 27-RemoveElement.i
 	@echo ... 27-RemoveElement.s
+	@echo ... 28-StrStr.obj
+	@echo ... 28-StrStr.i
+	@echo ... 28-StrStr.s
 	@echo ... 3-27-Bees.obj
 	@echo ... 3-27-Bees.i
 	@echo ... 3-27-Bees.s

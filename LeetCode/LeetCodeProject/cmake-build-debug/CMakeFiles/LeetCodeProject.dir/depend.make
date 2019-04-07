@@ -37,17 +37,29 @@ CMakeFiles/LeetCodeProject.dir/165-CompareVersion.cpp.obj: ../165-CompareVersion
 CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj: ../18-fourSum.cpp
 CMakeFiles/LeetCodeProject.dir/18-fourSum.cpp.obj: ../18-fourSum.h
 
+CMakeFiles/LeetCodeProject.dir/19-RemoveNthFromEnd.cpp.obj: ../19-RemoveNthFromEnd.cpp
+CMakeFiles/LeetCodeProject.dir/19-RemoveNthFromEnd.cpp.obj: ../19-RemoveNthFromEnd.h
+
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.cpp
 CMakeFiles/LeetCodeProject.dir/2-addtwonumbers.cpp.obj: ../2-addtwonumbers.h
 
 CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.obj: ../20-IsValid.cpp
 CMakeFiles/LeetCodeProject.dir/20-IsValid.cpp.obj: ../20-IsValid.h
 
+CMakeFiles/LeetCodeProject.dir/21-MergeTwoLists.cpp.obj: ../21-MergeTwoLists.cpp
+CMakeFiles/LeetCodeProject.dir/21-MergeTwoLists.cpp.obj: ../21-MergeTwoLists.h
+
+CMakeFiles/LeetCodeProject.dir/22-GenerateParenthesis.cpp.obj: ../22-GenerateParenthesis.cpp
+CMakeFiles/LeetCodeProject.dir/22-GenerateParenthesis.cpp.obj: ../22-GenerateParenthesis.h
+
 CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.cpp
 CMakeFiles/LeetCodeProject.dir/26-RemoveDuplicates.cpp.obj: ../26-RemoveDuplicates.h
 
 CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.cpp
 CMakeFiles/LeetCodeProject.dir/27-RemoveElement.cpp.obj: ../27-RemoveElement.h
+
+CMakeFiles/LeetCodeProject.dir/28-StrStr.cpp.obj: ../28-StrStr.cpp
+CMakeFiles/LeetCodeProject.dir/28-StrStr.cpp.obj: ../28-StrStr.h
 
 CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.obj: ../3-27-Bees.cpp
 CMakeFiles/LeetCodeProject.dir/3-27-Bees.cpp.obj: ../3-27-Bees.h
@@ -76,6 +88,6 @@ CMakeFiles/LeetCodeProject.dir/8-StringToInteger.cpp.obj: ../8-StringToInteger.h
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.cpp
 CMakeFiles/LeetCodeProject.dir/9-PalindromeNumber.cpp.obj: ../9-PalindromeNumber.h
 
-CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../20-IsValid.h
+CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../28-StrStr.h
 CMakeFiles/LeetCodeProject.dir/main.cpp.obj: ../main.cpp
 
