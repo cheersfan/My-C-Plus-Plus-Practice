@@ -8,38 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.aMBTNBp8nN/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.aMBTNBp8nN/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Linux_C_ExerciseCode">
-				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Linux_C_ExerciseCode" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug"/>
+				<Option output="/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Linux_C_ExerciseCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.aMBTNBp8nN/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +42,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linux_C_ExerciseCode"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linux_C_ExerciseCode"/>
+					<CompileFile command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Linux_C_ExerciseCode/fast">
-				<Option output="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Linux_C_ExerciseCode" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug"/>
+				<Option output="/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Linux_C_ExerciseCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.aMBTNBp8nN/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,59 +63,69 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linux_C_ExerciseCode/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linux_C_ExerciseCode/fast"/>
+					<CompileFile command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.aMBTNBp8nN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j16 -f &quot;/tmp/tmp.aMBTNBp8nN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/asy-clean-child-process.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/asy-clean-child-process.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/asy-clean-child-process.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/create-process-test.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/create-process-test.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/create-process-test.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/execve.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/execve.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/execve.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/main.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/main.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/pipe-communication.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-communication.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/pipe-communication.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/pipe-dup.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/pipe-dup.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/pipe-dup.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/read-write.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/read-write.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/read-write.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.cpp">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/signal-test.cpp">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/signal-test.h">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/signal-test.h">
 			<Option target="Linux_C_ExerciseCode"/>
 		</Unit>
-		<Unit filename="/home/CheersGitHubStore/My-C-Plus-Plus-Practice/Linux-C-note/Linux-C-ExerciseCode/CMakeLists.txt">
+		<Unit filename="/tmp/tmp.aMBTNBp8nN/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

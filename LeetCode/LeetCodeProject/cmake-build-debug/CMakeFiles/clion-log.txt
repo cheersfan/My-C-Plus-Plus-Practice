@@ -1,4 +1,4 @@
-"D:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\GitStroe\cheersgithub\LeetCode\LeetCodeProject
+/usr/local/cmake-3.13.0-Linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/bin/make -DCMAKE_C_COMPILER=/bin/gcc -DCMAKE_CXX_COMPILER=/bin/g++ -G "CodeBlocks - Unix Makefiles" /tmp/tmp.So9d1zoeQ5
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/cmake-build-debug
+-- Build files have been written to: /tmp/tmp.So9d1zoeQ5/cmake-build-debug
