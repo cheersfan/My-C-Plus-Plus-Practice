@@ -50,6 +50,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/myCLionProject.dir/signal-function-test.cpp.o"
   "CMakeFiles/myCLionProject.dir/getopt-function-test.cpp.o"
   "CMakeFiles/myCLionProject.dir/Homework/chapter9.cpp.o"
+  "CMakeFiles/myCLionProject.dir/Homework/chapter3.cpp.o"
   "myCLionProject.pdb"
   "myCLionProject"
 )

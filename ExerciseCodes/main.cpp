@@ -1,7 +1,8 @@
 #include <iostream>
 #include <stdio.h>
 //#include "signal-function-test.h"
-#include "Homework/chapter9.h"
+//#include "Homework/chapter9.h"
+#include "Homework/chapter3.h"
 using namespace std;
 
 void swap1(int * a, int *b){
@@ -21,7 +22,11 @@ void swap2(int & a, int &b){
 int main(){
 
     //cout << sizeof(long) << endl;
-    my_chapter9_main();
+
+    //my_3_2_main();
+    my_3_3_main();
+
+    //my_chapter9_main();
     return 0;
 }
 

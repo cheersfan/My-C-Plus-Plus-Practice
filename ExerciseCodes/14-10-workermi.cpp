@@ -58,17 +58,17 @@ void Waiter::Show() const {
 }
 
 //Singer
-char * Singer::pv[] = {"other", "alto", "contralto", "soprano", "bass", "baritone", "tenor"};
+//char * Singer::pv[] = {"other", "alto", "contralto", "soprano", "bass", "baritone", "tenor"};
 
 void Singer::Data() const {
-    cout << "Vocal range: " << pv[voice] << endl;
+//    cout << "Vocal range: " << pv[voice] << endl;
 }
 
 void Singer::Get() {
     cout << "Enter number for singer`s vocal range: \n: ";
     int i;
     for(i = 0; i < Vtype; i++){
-        cout << i << ": " << pv[i] << " ";
+ //       cout << i << ": " << pv[i] << " ";
         if(i % 4 == 3){
             cout << endl;
         }
