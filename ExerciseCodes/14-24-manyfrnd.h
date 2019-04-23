@@ -2,11 +2,11 @@
 // Created by root on 12/23/18.
 //
 
-#include <form.h>
+
 
 #ifndef MYCLIONPROJECT_14_24_MANYFRND_H
 #define MYCLIONPROJECT_14_24_MANYFRND_H
-
+//#include <form.h>
 template <typename T>
 class MyFriend{
 private:

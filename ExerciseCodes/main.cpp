@@ -24,7 +24,8 @@ int main(){
     //cout << sizeof(long) << endl;
 
     //my_3_2_main();
-    my_3_3_main();
+    //my_3_3_main();
+    my_3_4_main();
 
     //my_chapter9_main();
     return 0;

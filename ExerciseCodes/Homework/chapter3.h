@@ -6,7 +6,9 @@
 #define MYCLIONPROJECT_CHAPTER3_H
 #include <iostream>
 #include <string>
+#include <vector>
 void my_3_2_main();
 void my_3_3_main();
+void my_3_4_main();
 
 #endif //MYCLIONPROJECT_CHAPTER3_H

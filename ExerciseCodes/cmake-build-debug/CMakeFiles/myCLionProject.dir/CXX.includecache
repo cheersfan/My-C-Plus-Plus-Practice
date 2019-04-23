@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.cpp
-chapter9.h
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h
+E:/GitStroe/cheersgithub/ExerciseCodes/Homework/chapter3.cpp
+chapter3.h
+E:/GitStroe/cheersgithub/ExerciseCodes/Homework/chapter3.h
 
-/home/CheersGitHubStore/My-C-Plus-Plus-Practice/ExerciseCodes/Homework/chapter9.h
+E:/GitStroe/cheersgithub/ExerciseCodes/Homework/chapter3.h
 iostream
 -
+string
+-
 vector
--
-list
--
-deque
 -
 
