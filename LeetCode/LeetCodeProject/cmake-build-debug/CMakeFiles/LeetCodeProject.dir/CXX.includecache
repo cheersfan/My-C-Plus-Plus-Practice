@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/28-StrStr.cpp
-28-StrStr.h
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/28-StrStr.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/23-MergeKLists.cpp
+23-MergeKLists.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/23-MergeKLists.h
 
-E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/28-StrStr.h
+E:/GitStroe/cheersgithub/LeetCode/LeetCodeProject/23-MergeKLists.h
 iostream
 -
 string
+-
+vector
 -
 

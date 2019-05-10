@@ -27,7 +27,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists);
-    ListNode* mergeTwoLists(ListNode* p1, ListNode* p2);
+    ListNode* myMergeTwoLists(ListNode* p1, ListNode* p2);
 };
 
 

@@ -9,7 +9,7 @@ void my_merge_K_lists_main(){
     Solution s;
 }
 
-ListNode * Solution::mergeTwoLists(ListNode *l1, ListNode *l2) {
+ListNode * Solution::myMergeTwoLists(ListNode *l1, ListNode *l2) {
     ListNode* ans;
     ListNode* ptr_ans;
 
@@ -78,7 +78,7 @@ ListNode * Solution::mergeKLists(vector<ListNode *> &lists) {
         int j = 0;      //合并后的序列
         for(;i < n - 1; i += 2){
             //两两数组进行合并
-            lists[j++] = mergeTwoLists(lists.at(i), lists.at(i+1));
+            lists[j++] = myMergeTwoLists(lists.at(i), lists.at(i+1));
         }
         if(i == n - 1){
             lists[j++] = lists[i];
